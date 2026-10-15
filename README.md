@@ -1,10 +1,7 @@
-# Optional CCISS public RSS collector
+# Public traffic RSS collector
 
-Prepared only; not installed, connected or running.
+Collects the official public CCISS traffic RSS, validates it, and stores the feed together with its retrieval time.
 
-Proposed dedicated public GitHub repository: `traffic-rss-feed`.
-Contains only this collector and unmodified public CCISS RSS data, plus the fetch timestamp. No trip itinerary, dates, hotel, reservations, passwords or API keys.
+This repository contains no trip itinerary, hotel, reservations, passwords, or API keys. Source: https://www.cciss.it/rss
 
-GitHub Actions would attempt a refresh every ten minutes. Scheduled actions can be delayed; this is not a guarantee of immediate reporting. The trip server must reject stale or invalid snapshots and preserve attribution to CCISS, rather than claim that roads are open.
-
-Connecting the repository and its feed to the trip application requires the user's separate GitHub authorization. No repository has been created and no GitHub account has been accessed.
+A scheduled GitHub Actions workflow attempts a refresh every ten minutes and can also be started manually. Scheduled runs can be delayed. Consumers must reject stale or invalid snapshots, preserve attribution to CCISS, and must not interpret missing reports as proof that roads are open.
