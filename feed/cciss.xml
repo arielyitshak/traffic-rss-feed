@@ -5,32 +5,67 @@
     <link>https://www.cciss.it</link>
     <description>Notizie di traffico, eventi e informazioni</description>
     <item>
-      <title>A14 Bologna-Ancona</title>
-      <description>A14 Bologna-Ancona
- personale su strada dalle 23:55 del 17 ottobre 2026  tra Svincolo Castel S.Pietro e Svincolo Bologna San Lazzaro  in direzione Bologna  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 17 Oct 2026 21:56:00 GMT</pubDate>
-      <dc:date>2026-10-17T21:56:00Z</dc:date>
-    </item>
-    <item>
-      <title>A26 Genova-Gravellona Toce</title>
-      <description>A26 Genova-Gravellona Toce
- perdita di carico dalle 23:55 del 17 ottobre 2026  tra Svincolo Vercelli Est e Allacciamento Diramazione Stroppiana-Santhia   in direzione Genova Voltri  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 17 Oct 2026 21:56:00 GMT</pubDate>
-      <dc:date>2026-10-17T21:56:00Z</dc:date>
-    </item>
-    <item>
-      <title>A23 Palmanova-Tarvisio</title>
-      <description>A23 Palmanova-Tarvisio
- personale su strada dalle 23:46 del 17 ottobre 2026  tra Svincolo Pontebba e Svincolo Carnia  in direzione autostrada Torino-Trieste  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 17 Oct 2026 21:51:00 GMT</pubDate>
-      <dc:date>2026-10-17T21:51:00Z</dc:date>
+      <title>SS9 Via Emilia</title>
+      <description>SS9 Via Emilia
+ corsia chiusa  a Incrocio Castel S.Pietro  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 17 Oct 2026 22:22:00 GMT</pubDate>
+      <dc:date>2026-10-17T22:22:00Z</dc:date>
     </item>
     <item>
       <title>A1 Firenze-Roma</title>
       <description>A1 Firenze-Roma
- veicolo fermo o in avaria dalle 23:47 del 17 ottobre 2026  tra Allacciamento Diramazione Roma Nord e Svincolo Ponzano Romano-Soratte  in direzione Firenze  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 17 Oct 2026 21:50:00 GMT</pubDate>
-      <dc:date>2026-10-17T21:50:00Z</dc:date>
+ incidente dalle 00:17 del 18 ottobre 2026  tra Svincolo Arezzo e Svincolo Valdarno  in direzione Firenze  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 17 Oct 2026 22:20:00 GMT</pubDate>
+      <dc:date>2026-10-17T22:20:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS9 Via Emilia</title>
+      <description>SS9 Via Emilia
+ corsia chiusa causa incidente  a Incrocio Castel S.Pietro  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 17 Oct 2026 22:18:00 GMT</pubDate>
+      <dc:date>2026-10-17T22:18:00Z</dc:date>
+    </item>
+    <item>
+      <title>A12 Genova-Rosignano</title>
+      <description>A12 Genova-Rosignano
+ pioggia dalle 00:13 del 18 ottobre 2026  tra Svincolo Lavagna e Svincolo Deiva Marina   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 17 Oct 2026 22:14:00 GMT</pubDate>
+      <dc:date>2026-10-17T22:14:00Z</dc:date>
+    </item>
+    <item>
+      <title>A12 Genova-Rosignano</title>
+      <description>A12 Genova-Rosignano
+ personale su strada causa lavori dalle 00:11 del 18 ottobre 2026  tra Svincolo Deiva Marina e Svincolo Sestri Levante  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 17 Oct 2026 22:13:00 GMT</pubDate>
+      <dc:date>2026-10-17T22:13:00Z</dc:date>
+    </item>
+    <item>
+      <title>S03 Strada Grande Comunicazione Fi-Pi-Li (diramazione per Pisa)</title>
+      <description>S03 Strada Grande Comunicazione Fi-Pi-Li (diramazione per Pisa)
+ animali sulla strada dalle 00:11 del 18 ottobre 2026  tra Svincolo Pisa Nord Est e Svincolo Navacchio-Visignano  in direzione Sgc Firenze-Livorno  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 17 Oct 2026 22:13:00 GMT</pubDate>
+      <dc:date>2026-10-17T22:13:00Z</dc:date>
+    </item>
+    <item>
+      <title>A11 Diramazione Lucca-Viareggio</title>
+      <description>A11 Diramazione Lucca-Viareggio
+ lavori  tra Svincolo Lucca S.Donato e Svincolo Massarosa  in direzione Viareggio  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 17 Oct 2026 22:08:00 GMT</pubDate>
+      <dc:date>2026-10-17T22:08:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Roma-Napoli</title>
+      <description>A1 Roma-Napoli
+ veicolo fermo o in avaria dalle 00:04 del 18 ottobre 2026  tra Svincolo Cassino e Svincolo Pontecorvo  in direzione Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 17 Oct 2026 22:06:00 GMT</pubDate>
+      <dc:date>2026-10-17T22:06:00Z</dc:date>
+    </item>
+    <item>
+      <title>A8 Milano-Varese</title>
+      <description>A8 Milano-Varese
+ veicolo fermo o in avaria dalle 23:58 del 17 ottobre 2026  tra Terminal 1 - Aeroporto Malpensa e Svincolo Legnano  in direzione Varese  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 17 Oct 2026 22:00:00 GMT</pubDate>
+      <dc:date>2026-10-17T22:00:00Z</dc:date>
     </item>
     <item>
       <title>A14 Pescara-Bari</title>
@@ -54,20 +89,6 @@
       <dc:date>2026-10-17T21:48:00Z</dc:date>
     </item>
     <item>
-      <title>A14 Pescara-Bari</title>
-      <description>A14 Pescara-Bari
- veicoli lenti dalle 23:38 del 17 ottobre 2026  tra Svincolo Molfetta e Svincolo Trani  in direzione Pescara  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 17 Oct 2026 21:40:00 GMT</pubDate>
-      <dc:date>2026-10-17T21:40:00Z</dc:date>
-    </item>
-    <item>
-      <title>A2 Autostrada del Mediterraneo</title>
-      <description>A2 Autostrada del Mediterraneo
- manifestazione  a Svincolo Falerna-Lamezia Terme  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 17 Oct 2026 21:40:00 GMT</pubDate>
-      <dc:date>2026-10-17T21:40:00Z</dc:date>
-    </item>
-    <item>
       <title>A14 Ancona-Pescara</title>
       <description>A14 Ancona-Pescara
  personale su strada causa lavori dalle 23:31 del 17 ottobre 2026  tra Svincolo Roseto Degli Abruzzi e Svincolo Pescara N. Citta  S.Angelo   &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -80,13 +101,6 @@
  senso unico alternato causa lavori dalle 07:00 del 19 alle 22:00 del 24 ottobre 2026  tra Incrocio Tessera e Incrocio Latisana   &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sat, 17 Oct 2026 21:33:00 GMT</pubDate>
       <dc:date>2026-10-17T21:33:00Z</dc:date>
-    </item>
-    <item>
-      <title>T4-TRF Fre Traforo Del Frejus</title>
-      <description>T4-TRF Fre Traforo Del Frejus
- lavori dalle 23:30 alle 23:59 del 17 ottobre 2026  tra Galleria Inzio Traforo - versante Italiano e Galleria Inzio Traforo - versante Francese   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 17 Oct 2026 21:26:00 GMT</pubDate>
-      <dc:date>2026-10-17T21:26:00Z</dc:date>
     </item>
     <item>
       <title>SS10 Padana Inferiore</title>
@@ -117,13 +131,6 @@
       <dc:date>2026-10-17T21:08:00Z</dc:date>
     </item>
     <item>
-      <title>A1 Diramazione Roma Sud</title>
-      <description>A1 Diramazione Roma Sud
- incidente dalle 22:57 del 17 ottobre 2026  tra Allacciamento A1 Milano-Napoli e Svincolo San Cesareo  in direzione G.r.a.  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 17 Oct 2026 21:07:00 GMT</pubDate>
-      <dc:date>2026-10-17T21:07:00Z</dc:date>
-    </item>
-    <item>
       <title>A4 Padova-Venezia</title>
       <description>A4 Padova-Venezia
  chiusura notturna, chiusura nodo causa lavori dalle 23:05 del 17 alle 05:30 del 18 ottobre 2026  a Allacciamento A13 Bologna-Padova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -143,13 +150,6 @@
  GPL esaurito  a Area di servizio  Rozzano Est in direzione Allacciamento A8 Milano-Varese  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sat, 17 Oct 2026 20:56:00 GMT</pubDate>
       <dc:date>2026-10-17T20:56:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Diramazione Roma Sud</title>
-      <description>A1 Diramazione Roma Sud
- veicolo fermo o in avaria dalle 22:49 del 17 ottobre 2026  tra Allacciamento A1 Milano-Napoli e Svincolo San Cesareo  in direzione G.r.a.  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 17 Oct 2026 20:51:00 GMT</pubDate>
-      <dc:date>2026-10-17T20:51:00Z</dc:date>
     </item>
     <item>
       <title>A52 Tangenziale Nord Di Milano</title>
@@ -255,20 +255,6 @@
  problemi in area di servizio dalle 21:56 del 17 alle 06:00 del 18 ottobre 2026  a Area di servizio  Vesuvio in direzione Canosa  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sat, 17 Oct 2026 19:57:00 GMT</pubDate>
       <dc:date>2026-10-17T19:57:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Pescara-Bari</title>
-      <description>A14 Pescara-Bari
- veicolo fermo o in avaria dalle 21:11 del 17 ottobre 2026  tra Svincolo Molfetta e Svincolo Trani  in direzione Pescara  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 17 Oct 2026 19:46:00 GMT</pubDate>
-      <dc:date>2026-10-17T19:46:00Z</dc:date>
-    </item>
-    <item>
-      <title>A52 Tangenziale Nord Di Milano</title>
-      <description>A52 Tangenziale Nord Di Milano
- incidente  tra Svincolo Cinisello B.-Robecco e Svincolo SS36 Del Lago Di Como: Lecco-Monza  in direzione Rho  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 17 Oct 2026 19:31:00 GMT</pubDate>
-      <dc:date>2026-10-17T19:31:00Z</dc:date>
     </item>
     <item>
       <title>A1 Bologna-Firenze</title>
@@ -430,13 +416,6 @@
  senso unico alternato causa lavori dalle 07:30 del 20 ottobre 2026 alle 18:00 del 21 novembre 2026  tra Incrocio Borgone Susa - SS24 Del Monginevro e Incrocio Casello Chianocco A32 Torino-Bardonecchia   &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sat, 17 Oct 2026 15:44:00 GMT</pubDate>
       <dc:date>2026-10-17T15:44:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Firenze-Roma</title>
-      <description>A1 Firenze-Roma
- veicolo fermo o in avaria dalle 17:32 del 17 ottobre 2026  tra Svincolo Fabro e Svincolo Orvieto  in direzione Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 17 Oct 2026 15:35:00 GMT</pubDate>
-      <dc:date>2026-10-17T15:35:00Z</dc:date>
     </item>
     <item>
       <title>SS87 Sannitica</title>
@@ -703,6 +682,27 @@
  chiusura notturna, uscita chiusa causa lavori di rifacimento del manto stradale dalle 22:00 del 23 alle 06:00 del 24 ottobre 2026  a Svincolo Monza-S.Alessandro in direzione Svincolo SP44 Milano-Meda: Lentate-Bruzzano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sat, 17 Oct 2026 08:01:00 GMT</pubDate>
       <dc:date>2026-10-17T08:01:00Z</dc:date>
+    </item>
+    <item>
+      <title>A52 Tangenziale Nord Di Milano</title>
+      <description>A52 Tangenziale Nord Di Milano
+ chiusura notturna, uscita chiusa causa lavori di rifacimento del manto stradale dalle 21:00 del 19 alle 05:00 del 20 ottobre 2026  a Svincolo Monza-S.Alessandro in direzione Svincolo SP44 Milano-Meda: Lentate-Bruzzano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 17 Oct 2026 07:59:00 GMT</pubDate>
+      <dc:date>2026-10-17T07:59:00Z</dc:date>
+    </item>
+    <item>
+      <title>A52 Tangenziale Nord Di Milano</title>
+      <description>A52 Tangenziale Nord Di Milano
+ chiusura notturna, entrata chiusa causa lavori di rifacimento del manto stradale dalle 22:00 del 23 alle 06:00 del 24 ottobre 2026  a Svincolo Monza-S.Alessandro in direzione Allacciamento Tangenziale Est Di Milano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 17 Oct 2026 07:25:00 GMT</pubDate>
+      <dc:date>2026-10-17T07:25:00Z</dc:date>
+    </item>
+    <item>
+      <title>A52 Tangenziale Nord Di Milano</title>
+      <description>A52 Tangenziale Nord Di Milano
+ chiusura notturna, entrata chiusa causa lavori di rifacimento del manto stradale dalle 21:00 del 19 alle 05:00 del 20 ottobre 2026  a Svincolo Monza-S.Alessandro in direzione Allacciamento Tangenziale Est Di Milano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 17 Oct 2026 07:23:00 GMT</pubDate>
+      <dc:date>2026-10-17T07:23:00Z</dc:date>
     </item>
   </channel>
 </rss>
