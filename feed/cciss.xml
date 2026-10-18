@@ -5,6 +5,76 @@
     <link>https://www.cciss.it</link>
     <description>Notizie di traffico, eventi e informazioni</description>
     <item>
+      <title>A14 Ancona-Pescara</title>
+      <description>A14 Ancona-Pescara
+ incidente dalle 00:57 del 19 ottobre 2026  tra Svincolo Ancona Sud e Svincolo Loreto-Porto Recanati  in direzione Pescara  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 18 Oct 2026 23:21:00 GMT</pubDate>
+      <dc:date>2026-10-18T23:21:00Z</dc:date>
+    </item>
+    <item>
+      <title>S03 Strada Grande Comunicazione Fi-Pi-Li (diramazione per Pisa)</title>
+      <description>S03 Strada Grande Comunicazione Fi-Pi-Li (diramazione per Pisa)
+ pedoni dalle 01:17 del 19 ottobre 2026  tra Svincolo Pisa Nord Est e Svincolo Pisa Aeroporto-SS 1 Aurelia  in direzione Pisa  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 18 Oct 2026 23:18:00 GMT</pubDate>
+      <dc:date>2026-10-18T23:18:00Z</dc:date>
+    </item>
+    <item>
+      <title>LS/SP105</title>
+      <description>LS/SP105 
+ tratto chiuso causa lavori dalle 09:00 del 23 aprile 2026 alle 17:00 del 23 ottobre 2026  a LS/SP105  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 18 Oct 2026 23:15:00 GMT</pubDate>
+      <dc:date>2026-10-18T23:15:00Z</dc:date>
+    </item>
+    <item>
+      <title>A27 Mestre-Belluno</title>
+      <description>A27 Mestre-Belluno
+ personale su strada causa lavori dalle 01:10 del 19 ottobre 2026  tra Svincolo Vittorio Veneto Nord e Svincolo Vittorio Veneto Sud  in direzione Venezia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 18 Oct 2026 23:12:00 GMT</pubDate>
+      <dc:date>2026-10-18T23:12:00Z</dc:date>
+    </item>
+    <item>
+      <title>A27 Mestre-Belluno</title>
+      <description>A27 Mestre-Belluno
+ personale su strada dalle 01:09 del 19 ottobre 2026  tra Allacciamento A28 Venezia-Belluno e Svincolo Vittorio Veneto Nord   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 18 Oct 2026 23:11:00 GMT</pubDate>
+      <dc:date>2026-10-18T23:11:00Z</dc:date>
+    </item>
+    <item>
+      <title>A27 Mestre-Belluno</title>
+      <description>A27 Mestre-Belluno
+ personale su strada dalle 01:08 del 19 ottobre 2026  tra Allacciamento A28 Venezia-Belluno e Svincolo Vittorio Veneto Nord  in direzione Belluno  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 18 Oct 2026 23:09:00 GMT</pubDate>
+      <dc:date>2026-10-18T23:09:00Z</dc:date>
+    </item>
+    <item>
+      <title>A12 Roma-Civitavecchia</title>
+      <description>A12 Roma-Civitavecchia
+ veicolo fermo o in avaria dalle 01:04 del 19 ottobre 2026  tra Svincolo Cerveteri-Ladispoli e Svincolo S.Severa-S.Marinella  in direzione S.s. 1 Aurelia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 18 Oct 2026 23:05:00 GMT</pubDate>
+      <dc:date>2026-10-18T23:05:00Z</dc:date>
+    </item>
+    <item>
+      <title>A12 Genova-Rosignano</title>
+      <description>A12 Genova-Rosignano
+ personale su strada causa lavori dalle 01:01 del 19 ottobre 2026  tra Svincolo Chiavari e Svincolo Lavagna  in direzione Livorno  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 18 Oct 2026 23:03:00 GMT</pubDate>
+      <dc:date>2026-10-18T23:03:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Roma-Napoli</title>
+      <description>A1 Roma-Napoli
+ rampa di accesso chiusa causa manifestazione dalle 00:57 del 19 ottobre 2026  a Svincolo Caserta Sud in direzione Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 18 Oct 2026 22:59:00 GMT</pubDate>
+      <dc:date>2026-10-18T22:59:00Z</dc:date>
+    </item>
+    <item>
+      <title>A15 Parma-La Spezia</title>
+      <description>A15 Parma-La Spezia
+ pioggia  tra Svincolo Fornovo e Svincolo Berceto   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 18 Oct 2026 22:58:00 GMT</pubDate>
+      <dc:date>2026-10-18T22:58:00Z</dc:date>
+    </item>
+    <item>
       <title>A14 Pescara-Bari</title>
       <description>A14 Pescara-Bari
  personale su strada causa lavori dalle 00:52 del 19 ottobre 2026  tra Svincolo Val Di Sangro e Svincolo Vasto Nord-Casalbordino  in direzione Bari  &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -26,13 +96,6 @@
       <dc:date>2026-10-18T22:48:00Z</dc:date>
     </item>
     <item>
-      <title>A14 Bologna-Ancona</title>
-      <description>A14 Bologna-Ancona
- veicolo fermo o in avaria dalle 00:30 del 19 ottobre 2026  tra Allacciamento A1 Milano-Napoli e Svincolo Bologna Borgo Panigale  in direzione Bologna  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 18 Oct 2026 22:47:00 GMT</pubDate>
-      <dc:date>2026-10-18T22:47:00Z</dc:date>
-    </item>
-    <item>
       <title>A1 Milano-Bologna</title>
       <description>A1 Milano-Bologna
  incidente dalle 00:11 del 19 ottobre 2026  tra Svincolo Parma e Svincolo Terre di Canossa - Campegine  in direzione Bologna  &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -45,27 +108,6 @@
  lavori  tra 800 m dopo Svincolo Niella Tanaro e 7,75 km prima di Svincolo Ceva  in direzione Savona  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sun, 18 Oct 2026 22:41:00 GMT</pubDate>
       <dc:date>2026-10-18T22:41:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Milano-Bologna</title>
-      <description>A1 Milano-Bologna
- code causa incidente dalle 00:39 del 19 ottobre 2026  tra Svincolo Parma e Svincolo Terre di Canossa - Campegine  in direzione Bologna  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 18 Oct 2026 22:41:00 GMT</pubDate>
-      <dc:date>2026-10-18T22:41:00Z</dc:date>
-    </item>
-    <item>
-      <title>A12 Genova-Rosignano</title>
-      <description>A12 Genova-Rosignano
- personale su strada causa lavori dalle 00:33 del 19 ottobre 2026  tra Svincolo Chiavari e Svincolo Lavagna  in direzione Livorno  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 18 Oct 2026 22:36:00 GMT</pubDate>
-      <dc:date>2026-10-18T22:36:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Roma-Napoli</title>
-      <description>A1 Roma-Napoli
- rampa di accesso chiusa causa manifestazione dalle 00:23 del 19 ottobre 2026  a Svincolo Caserta Sud in direzione Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 18 Oct 2026 22:25:00 GMT</pubDate>
-      <dc:date>2026-10-18T22:25:00Z</dc:date>
     </item>
     <item>
       <title>A1 Roma-Napoli</title>
@@ -661,48 +703,6 @@
  evento sportivo dalle 17:00 alle 23:59 del 19 ottobre 2026  a Via Giacomo Puccini  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sun, 18 Oct 2026 13:43:00 GMT</pubDate>
       <dc:date>2026-10-18T13:43:00Z</dc:date>
-    </item>
-    <item>
-      <title>Parma Via Giacomo Puccini</title>
-      <description>Parma Via Giacomo Puccini
- strada chiusa causa partita di calcio dalle 17:00 alle 23:59 del 19 ottobre 2026  tra Via Amato Furlotti e Via Anteo e Erasmo Viotti   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 18 Oct 2026 13:41:00 GMT</pubDate>
-      <dc:date>2026-10-18T13:41:00Z</dc:date>
-    </item>
-    <item>
-      <title>Parma Via Niccolò Paganini</title>
-      <description>Parma Via Niccolò Paganini
- strada chiusa causa partita di calcio dalle 17:00 alle 23:59 del 19 ottobre 2026  tra Viale Partigiani d Italia e Via Amato Furlotti   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 18 Oct 2026 13:39:00 GMT</pubDate>
-      <dc:date>2026-10-18T13:39:00Z</dc:date>
-    </item>
-    <item>
-      <title>Parma Via Renzo Pezzani</title>
-      <description>Parma Via Renzo Pezzani
- strada chiusa causa partita di calcio dalle 17:00 alle 23:59 del 19 ottobre 2026  tra Via Stefano Massari e Via Giacomo Puccini   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 18 Oct 2026 13:38:00 GMT</pubDate>
-      <dc:date>2026-10-18T13:38:00Z</dc:date>
-    </item>
-    <item>
-      <title>Parma Viale Duca Alessandro</title>
-      <description>Parma Viale Duca Alessandro
- strada chiusa causa partita di calcio dalle 17:00 alle 23:59 del 19 ottobre 2026  tra Via Anteo e Erasmo Viotti e Piazzale Risorgimento   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 18 Oct 2026 13:36:00 GMT</pubDate>
-      <dc:date>2026-10-18T13:36:00Z</dc:date>
-    </item>
-    <item>
-      <title>Parma Via Anteo e Erasmo Viotti</title>
-      <description>Parma Via Anteo e Erasmo Viotti
- strada chiusa causa partita di calcio dalle 17:00 alle 23:59 del 19 ottobre 2026  tra Via Pomponio Torelli e Viale Duca Alessandro   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 18 Oct 2026 13:34:00 GMT</pubDate>
-      <dc:date>2026-10-18T13:34:00Z</dc:date>
-    </item>
-    <item>
-      <title>Parma Viale Sette Fratelli Cervi</title>
-      <description>Parma Viale Sette Fratelli Cervi
- evento sportivo dalle 17:00 alle 23:59 del 19 ottobre 2026  a Via Pomponio Torelli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 18 Oct 2026 13:33:00 GMT</pubDate>
-      <dc:date>2026-10-18T13:33:00Z</dc:date>
     </item>
   </channel>
 </rss>
