@@ -5,6 +5,41 @@
     <link>https://www.cciss.it</link>
     <description>Notizie di traffico, eventi e informazioni</description>
     <item>
+      <title>A21 Torino-Brescia</title>
+      <description>A21 Torino-Brescia
+ pioggia  tra Svincolo Caorso e Svincolo Cremona   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 18 Oct 2026 02:37:00 GMT</pubDate>
+      <dc:date>2026-10-18T02:37:00Z</dc:date>
+    </item>
+    <item>
+      <title>A12 Roma-Civitavecchia</title>
+      <description>A12 Roma-Civitavecchia
+ veicolo fermo o in avaria dalle 04:00 del 18 ottobre 2026  tra Barriera Di Roma Ovest e Svincolo Torrimpietra  in direzione S.s. 1 Aurelia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 18 Oct 2026 02:29:00 GMT</pubDate>
+      <dc:date>2026-10-18T02:29:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS196dir Diramazione Di Villacidro</title>
+      <description>SS196dir Diramazione Di Villacidro
+ incidente  a Incrocio Samassi - SS293 Di Giba  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 18 Oct 2026 02:28:00 GMT</pubDate>
+      <dc:date>2026-10-18T02:28:00Z</dc:date>
+    </item>
+    <item>
+      <title>A7 Milano-Genova</title>
+      <description>A7 Milano-Genova
+ personale su strada causa lavori dalle 04:24 del 18 ottobre 2026  tra Svincolo Busalla e Svincolo Genova Bolzaneto  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 18 Oct 2026 02:26:00 GMT</pubDate>
+      <dc:date>2026-10-18T02:26:00Z</dc:date>
+    </item>
+    <item>
+      <title>A7 Milano-Genova</title>
+      <description>A7 Milano-Genova
+ personale su strada causa lavori dalle 04:15 del 18 ottobre 2026  tra Svincolo Genova Bolzaneto e Svincolo Busalla  in direzione Milano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 18 Oct 2026 02:17:00 GMT</pubDate>
+      <dc:date>2026-10-18T02:17:00Z</dc:date>
+    </item>
+    <item>
       <title>S03 Strada Grande Comunicazione Fi-Pi-Li (diramazione per Pisa)</title>
       <description>S03 Strada Grande Comunicazione Fi-Pi-Li (diramazione per Pisa)
  veicolo fermo o in avaria dalle 04:03 del 18 ottobre 2026  tra Svincolo Pisa Aeroporto-SS 1 Aurelia e Svincolo Pisa Nord Est  in direzione Sgc Firenze-Livorno  &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -17,13 +52,6 @@
  pioggia  tra Svincolo Fornovo e Allacciamento A12 Genova-Rosignano   &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sun, 18 Oct 2026 02:05:00 GMT</pubDate>
       <dc:date>2026-10-18T02:05:00Z</dc:date>
-    </item>
-    <item>
-      <title>A12 Roma-Civitavecchia</title>
-      <description>A12 Roma-Civitavecchia
- veicolo fermo o in avaria dalle 04:00 del 18 ottobre 2026  tra Barriera Di Roma Ovest e Svincolo Torrimpietra  in direzione S.s. 1 Aurelia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 18 Oct 2026 02:02:00 GMT</pubDate>
-      <dc:date>2026-10-18T02:02:00Z</dc:date>
     </item>
     <item>
       <title>A1 Firenze-Roma</title>
@@ -82,13 +110,6 @@
       <dc:date>2026-10-18T00:46:00Z</dc:date>
     </item>
     <item>
-      <title>A1 Roma-Napoli</title>
-      <description>A1 Roma-Napoli
- veicolo fermo o in avaria dalle 02:43 del 18 ottobre 2026  a Barriera Di Napoli Nord in direzione Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 18 Oct 2026 00:44:00 GMT</pubDate>
-      <dc:date>2026-10-18T00:44:00Z</dc:date>
-    </item>
-    <item>
       <title>A24 Roma-Teramo</title>
       <description>A24 Roma-Teramo
  veicolo fermo o in avaria dalle 01:30 del 18 ottobre 2026  tra Svincolo Tivoli e Svincolo Castel Madama  in direzione Teramo  &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -101,13 +122,6 @@
  corsia chiusa  a Incrocio Castel S.Pietro  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sat, 17 Oct 2026 23:14:00 GMT</pubDate>
       <dc:date>2026-10-17T23:14:00Z</dc:date>
-    </item>
-    <item>
-      <title>A12 Genova-Rosignano</title>
-      <description>A12 Genova-Rosignano
- tratto chiuso causa lavori dalle 01:07 alle 04:00 del 18 ottobre 2026  tra Svincolo Sestri Levante e Svincolo Lavagna  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 17 Oct 2026 23:09:00 GMT</pubDate>
-      <dc:date>2026-10-17T23:09:00Z</dc:date>
     </item>
     <item>
       <title>A12 Genova-Rosignano</title>
@@ -194,13 +208,6 @@
       <dc:date>2026-10-17T20:33:00Z</dc:date>
     </item>
     <item>
-      <title>A12 Genova-Rosignano</title>
-      <description>A12 Genova-Rosignano
- personale su strada causa lavori dalle 22:31 del 17 ottobre 2026  tra Svincolo Chiavari e Svincolo Rapallo  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 17 Oct 2026 20:32:00 GMT</pubDate>
-      <dc:date>2026-10-17T20:32:00Z</dc:date>
-    </item>
-    <item>
       <title>A13 Bologna-Padova</title>
       <description>A13 Bologna-Padova
  tratto chiuso causa lavori dalle 22:09 del 17 alle 06:00 del 18 ottobre 2026  tra Svincolo Altedo e Svincolo Ferrara Sud  in direzione Padova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -222,13 +229,6 @@
       <dc:date>2026-10-17T20:08:00Z</dc:date>
     </item>
     <item>
-      <title>A7 Milano-Genova</title>
-      <description>A7 Milano-Genova
- tratto chiuso causa lavori dalle 22:02 del 17 alle 06:00 del 18 ottobre 2026  tra Svincolo Genova Bolzaneto e Allacciamento A12 Genova-Rosignano  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 17 Oct 2026 20:04:00 GMT</pubDate>
-      <dc:date>2026-10-17T20:04:00Z</dc:date>
-    </item>
-    <item>
       <title>A16 Napoli-Canosa</title>
       <description>A16 Napoli-Canosa
  personale su strada causa lavori dalle 22:01 del 17 ottobre 2026  tra Svincolo Grottaminarda e Svincolo Vallata  in direzione Canosa  &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -248,13 +248,6 @@
  problemi in area di servizio dalle 21:56 del 17 alle 06:00 del 18 ottobre 2026  a Area di servizio  Vesuvio in direzione Canosa  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sat, 17 Oct 2026 19:57:00 GMT</pubDate>
       <dc:date>2026-10-17T19:57:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Bologna-Firenze</title>
-      <description>A1 Bologna-Firenze
- area di servizio chiusa causa lavori dalle 21:07 del 17 alle 06:00 del 18 ottobre 2026  a Area di servizio  Roncobilaccio in direzione Firenze  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 17 Oct 2026 19:09:00 GMT</pubDate>
-      <dc:date>2026-10-17T19:09:00Z</dc:date>
     </item>
     <item>
       <title>A30 Caserta-Salerno</title>
@@ -703,6 +696,13 @@
  chiusura notturna, entrata chiusa causa lavori di manutenzione dalle 22:00 del 21 alle 05:00 del 22 ottobre 2026  a Svincolo V. Rubattino: Segrate-Citta  Studi in direzione Allacciamento A1 Milano-Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sat, 17 Oct 2026 07:07:00 GMT</pubDate>
       <dc:date>2026-10-17T07:07:00Z</dc:date>
+    </item>
+    <item>
+      <title>A51 Tangenziale Est Di Milano</title>
+      <description>A51 Tangenziale Est Di Milano
+ chiusura notturna, uscita chiusa causa lavori di manutenzione dalle 23:00 del 20 alle 05:00 del 21 ottobre 2026  a Svincolo Via Mecenate: Ponte Lambro in direzione A1 per Mecenate  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 17 Oct 2026 06:35:00 GMT</pubDate>
+      <dc:date>2026-10-17T06:35:00Z</dc:date>
     </item>
   </channel>
 </rss>
