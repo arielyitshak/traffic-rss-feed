@@ -5,18 +5,677 @@
     <link>https://www.cciss.it</link>
     <description>Notizie di traffico, eventi e informazioni</description>
     <item>
-      <title>A1 Milano-Bologna</title>
-      <description>A1 Milano-Bologna
- perdita di carico causa perdita accidentale dalle 13:23 del 22 ottobre 2026  tra Allacciamento Fiorenzuola e Svincolo Fidenza  in direzione Bologna  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:40:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:40:00Z</dc:date>
+      <title>A16 Napoli-Canosa</title>
+      <description>A16 Napoli-Canosa
+ veicolo fermo o in avaria dalle 13:44 del 22 ottobre 2026  tra Svincolo Cerignola e Svincolo Candela  in direzione Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:17:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:17:00Z</dc:date>
+    </item>
+    <item>
+      <title>A14 Pescara-Bari</title>
+      <description>A14 Pescara-Bari
+ personale su strada causa lavori dalle 14:16 del 22 ottobre 2026  tra Allacciamento A16 Napoli-Canosa e Svincolo Canosa  in direzione Bari  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:17:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:17:00Z</dc:date>
+    </item>
+    <item>
+      <title>A16 Napoli-Canosa</title>
+      <description>A16 Napoli-Canosa
+ personale su strada causa lavori dalle 14:15 del 22 ottobre 2026  tra Svincolo Avellino Est e Svincolo Avellino Ovest  in direzione Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:16:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:16:00Z</dc:date>
+    </item>
+    <item>
+      <title>A27 Mestre-Belluno</title>
+      <description>A27 Mestre-Belluno
+ ripristino incidente causa incidente dalle 14:01 del 22 ottobre 2026  tra Svincolo Treviso Nord e Allacciamento A28 Venezia-Belluno  in direzione Belluno  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:16:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:16:00Z</dc:date>
+    </item>
+    <item>
+      <title>A14 Ramo Casalecchio</title>
+      <description>A14 Ramo Casalecchio
+ code causa traffico intenso dalle 14:14 del 22 ottobre 2026  tra Svincolo Bologna Casalecchio e Allacciamento A14 Bologna-Taranto  in direzione autostrada Bologna-Taranto  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:15:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:15:00Z</dc:date>
+    </item>
+    <item>
+      <title>Belluno Via Roma</title>
+      <description>Belluno Via Roma
+ regolazione del traffico causa inquinamento prodotto dai gas di scarico
+ dalle 09:00 alle 19:00 del 13 dicembre 2026  a Via Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:15:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:15:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS10 Padana Inferiore</title>
+      <description>SS10 Padana Inferiore
+ lavori di manutenzione  tra 5,136 km dopo Incrocio Piadena - SS343 Asolana e 6,859 km prima di Incrocio Ospitaletto   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:14:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:14:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS163 Amalfitana</title>
+      <description>SS163 Amalfitana
+ traffico rallentato causa lavori di manutenzione  a Incrocio Cetara in direzione Incrocio Vietri Sul Mare - SS18 Tirrena Inferiore  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:14:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:14:00Z</dc:date>
+    </item>
+    <item>
+      <title>Belluno Piazza dei Martiri</title>
+      <description>Belluno Piazza dei Martiri
+ regolazione del traffico causa inquinamento prodotto dai gas di scarico
+ dalle 09:00 alle 19:00 del 13 dicembre 2026  a Piazza dei Martiri  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:13:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:13:00Z</dc:date>
+    </item>
+    <item>
+      <title>A55Dir Diramazione Per Moncalieri</title>
+      <description>A55Dir Diramazione Per Moncalieri
+ lavori  tra 3,1 km dopo Svincolo Torino-C.So Unita  D italia-A6 To Sv e Allacciamento A6 Torino-Savona  in direzione Allacciamento A6 Torino-Savona  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:13:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:13:00Z</dc:date>
+    </item>
+    <item>
+      <title>A5 Torino-Courmayeur</title>
+      <description>A5 Torino-Courmayeur
+ materiali dispersi  a Svincolo Quincinetto in direzione Courmayeur  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:13:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:13:00Z</dc:date>
+    </item>
+    <item>
+      <title>A55 Diramazione Per Pinerolo</title>
+      <description>A55 Diramazione Per Pinerolo
+ pedoni  a Svincolo Volvera in direzione Svincolo Torino - Corso Orbassano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:13:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:13:00Z</dc:date>
+    </item>
+    <item>
+      <title>A55 Tangenziale Sud Di Torino</title>
+      <description>A55 Tangenziale Sud Di Torino
+ veicolo in avaria  a Allacciamento Interscambio Drosso in direzione Svincolo Santena - A21 Torino-Brescia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:13:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:13:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Firenze-Roma</title>
+      <description>A1 Firenze-Roma
+ personale su strada causa lavori dalle 14:12 del 22 ottobre 2026  tra Svincolo Orvieto e Svincolo Attigliano  in direzione Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:13:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:13:00Z</dc:date>
+    </item>
+    <item>
+      <title>A16 Napoli-Canosa</title>
+      <description>A16 Napoli-Canosa
+ veicolo fermo o in avaria dalle 14:12 del 22 ottobre 2026  tra Svincolo Baiano e Svincolo Avellino Ovest  in direzione Canosa  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:13:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:13:00Z</dc:date>
+    </item>
+    <item>
+      <title>SP75(TN) SP75dir-Grigno-SP78-SP79-Castello Tesino</title>
+      <description>SP75(TN) SP75dir-Grigno-SP78-SP79-Castello Tesino
+ tratto chiuso causa mezzo pesante in avaria  a Incrocio SP75dir-Grigno  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:13:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:13:00Z</dc:date>
+    </item>
+    <item>
+      <title>Roma Piazzale Ugo La Malfa</title>
+      <description>Roma Piazzale Ugo La Malfa
+ manifestazione con corteo dalle 15:00 alle 17:30 del 25 ottobre 2026  a Via Ostiense  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:12:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:12:00Z</dc:date>
+    </item>
+    <item>
+      <title>SP34 Via Usciana</title>
+      <description>SP34 Via Usciana
+ obbligo catene a bordo o pneumatici da neve dalle 00:00 del 15 novembre 2026 alle 23:59 del 15 aprile 2027  tra Strada Provinciale Castelfranco Staffoli e Viale Europa   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:12:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:12:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS115 Sud Occidentale Sicula</title>
+      <description>SS115 Sud Occidentale Sicula
+ traffico rallentato causa lavori di manutenzione  tra 35,242 km dopo Incrocio Scicli e 3,73 km prima di Incrocio Noto - SP24  in direzione Incrocio Siracusa - SS114 Or.Sicula E SS124 Siracusana  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:12:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:12:00Z</dc:date>
+    </item>
+    <item>
+      <title>Roma Piazza della Repubblica</title>
+      <description>Roma Piazza della Repubblica
+ manifestazione con corteo dalle 15:00 alle 19:00 del 24 ottobre 2026  a Via dei Fori Imperiali  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:12:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:12:00Z</dc:date>
+    </item>
+    <item>
+      <title>Latina Via Garigliano</title>
+      <description>Latina Via Garigliano
+ strada chiusa causa partita di calcio dalle 18:00 alle 23:00 del 5 dicembre 2026  tra Via Teano e Via Aspromonte   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:12:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:12:00Z</dc:date>
+    </item>
+    <item>
+      <title>A51 Tangenziale Est Di Milano</title>
+      <description>A51 Tangenziale Est Di Milano
+ veicolo in avaria  tra Svincolo Linate: V.Le Forlanini-Sp14 Rivoltana e Svincolo C.A.M.M.: Monlue   in direzione Allacciamento A1 Milano-Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:11:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:11:00Z</dc:date>
+    </item>
+    <item>
+      <title>A14 Pescara-Bari</title>
+      <description>A14 Pescara-Bari
+ vento forte dalle 14:34 del 21 ottobre 2026  tra Svincolo Cattolica e Svincolo Poggio Imperiale   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:11:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:11:00Z</dc:date>
+    </item>
+    <item>
+      <title>A4 Milano-Brescia</title>
+      <description>A4 Milano-Brescia
+ incidente dalle 14:06 del 22 ottobre 2026  tra Svincolo Viale Monte Ceneri incrocio Viale Certosa e Allacciamento Fiorenza-Allacciamento A8(milano V.Le Certosa)  in direzione Torino  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:11:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:11:00Z</dc:date>
+    </item>
+    <item>
+      <title>A24 Roma-Teramo</title>
+      <description>A24 Roma-Teramo
+ veicolo fermo o in avaria dalle 13:00 del 22 ottobre 2026  a Svincolo Carsoli-Oricola  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:11:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:11:00Z</dc:date>
+    </item>
+    <item>
+      <title>Bari Corso Vittorio Veneto</title>
+      <description>Bari Corso Vittorio Veneto
+ transito temporaneamente sospeso causa manifestazione dalle 06:00 del 17 ottobre 2026 alle 23:59 del 10 novembre 2026  a Corso Vittorio Emanuele II  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:11:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:11:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS47 Della Valsugana</title>
+      <description>SS47 Della Valsugana
+ tratto chiuso causa mezzo pesante in avaria  a Incrocio Tezze in direzione Incrocio Trento Nord - Uscita 9 Tangenziale di TN  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:11:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:11:00Z</dc:date>
+    </item>
+    <item>
+      <title>Roma Piazza della Repubblica</title>
+      <description>Roma Piazza della Repubblica
+ manifestazione con corteo dalle 14:00 alle 17:30 del 25 ottobre 2026  a Largo Corrado Ricci  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:11:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:11:00Z</dc:date>
+    </item>
+    <item>
+      <title>A4 Milano-Brescia</title>
+      <description>A4 Milano-Brescia
+ code a tratti causa traffico intenso dalle 13:41 del 22 ottobre 2026  tra Barriera Di Milano Est e Svincolo Cormano  in direzione Torino  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:10:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:10:00Z</dc:date>
+    </item>
+    <item>
+      <title>A4 Milano-Brescia</title>
+      <description>A4 Milano-Brescia
+ code causa incidente dalle 14:07 del 22 ottobre 2026  tra Svincolo Cormano e Allacciamento Fiorenza-Allacciamento A8(milano V.Le Certosa)  in direzione Torino  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:10:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:10:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS470 Della Valle Brembana</title>
+      <description>SS470 Della Valle Brembana
+ traffico rallentato causa lavori di manutenzione  a Incrocio S.Pellegrino Terme  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:10:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:10:00Z</dc:date>
+    </item>
+    <item>
+      <title>A14 Bologna-Ancona</title>
+      <description>A14 Bologna-Ancona
+ code causa traffico intenso dalle 14:07 del 22 ottobre 2026  tra Svincolo Bologna Borgo Panigale e Svincolo Bologna Fiera  in direzione Ancona  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:09:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:09:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Roma-Napoli</title>
+      <description>A1 Roma-Napoli
+ veicolo fermo o in avaria dalle 13:54 del 22 ottobre 2026  tra Svincolo Capua e Svincolo Caianello  in direzione Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:09:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:09:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Roma-Napoli</title>
+      <description>A1 Roma-Napoli
+ personale su strada causa lavori dalle 14:08 del 22 ottobre 2026  tra Svincolo Capua e Svincolo Caianello  in direzione Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:09:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:09:00Z</dc:date>
+    </item>
+    <item>
+      <title>A14 Bologna-Ancona</title>
+      <description>A14 Bologna-Ancona
+ veicolo fermo o in avaria dalle 14:07 del 22 ottobre 2026  tra Svincolo Marotta-Mondolfo e Svincolo Senigallia  in direzione Ancona  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:09:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:09:00Z</dc:date>
+    </item>
+    <item>
+      <title>Bari Corso Vittorio Emanuele II</title>
+      <description>Bari Corso Vittorio Emanuele II
+ transito temporaneamente sospeso causa manifestazione dalle 06:00 del 17 ottobre 2026 alle 23:59 del 10 novembre 2026  tra Piazza 4 Novembre e Corso Vittorio Veneto   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:09:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:09:00Z</dc:date>
+    </item>
+    <item>
+      <title>Latina Via Castelfidardo</title>
+      <description>Latina Via Castelfidardo
+ strada chiusa causa partita di calcio dalle 18:00 alle 23:00 del 30 novembre 2026  tra Via Villafranca e Viale Vittorio Veneto   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:08:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:08:00Z</dc:date>
+    </item>
+    <item>
+      <title>Latina Via Pastrengo</title>
+      <description>Latina Via Pastrengo
+ strada chiusa causa partita di calcio dalle 18:00 alle 23:00 del 30 novembre 2026  tra Viale Vittorio Veneto e Via Villafranca   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:06:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:06:00Z</dc:date>
+    </item>
+    <item>
+      <title>SP34 Strada Provinciale Castelfranco Staffoli</title>
+      <description>SP34 Strada Provinciale Castelfranco Staffoli
+ obbligo catene a bordo o pneumatici da neve dalle 00:00 del 15 novembre 2026 alle 23:59 del 15 aprile 2027  tra Strada Provinciale Nuova Francesca e Strada Provinciale Val di Nievole   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:06:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:06:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS284 Occidentale Etnea</title>
+      <description>SS284 Occidentale Etnea
+ lavori di manutenzione  a Incrocio Biancavilla - Adrano in direzione Incrocio Paterno  - SS121 Catanese  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:06:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:06:00Z</dc:date>
+    </item>
+    <item>
+      <title>Vicenza Viale Camisano</title>
+      <description>Vicenza Viale Camisano
+ incidente possibili rallentamenti  a Viale Camisano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:06:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:06:00Z</dc:date>
+    </item>
+    <item>
+      <title>SP33</title>
+      <description>SP33
+ obbligo catene a bordo o pneumatici da neve dalle 00:00 del 15 novembre 2026 alle 23:59 del 15 aprile 2027  tra Castellina Marittima e Le Badie   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:04:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:04:00Z</dc:date>
+    </item>
+    <item>
+      <title>S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)</title>
+      <description>S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)
+ perdita di carico dalle 14:01 del 22 ottobre 2026  tra Svincolo Santa Croce Sull arno e Svincolo San Miniato Basso  in direzione Firenze  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:03:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:03:00Z</dc:date>
+    </item>
+    <item>
+      <title>A11 Firenze-Pisa</title>
+      <description>A11 Firenze-Pisa
+ pedoni dalle 14:02 del 22 ottobre 2026  tra Svincolo Sesto Fiorentino e Svincolo Firenze Nord  in direzione Pisa  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:03:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:03:00Z</dc:date>
+    </item>
+    <item>
+      <title>Latina Viale Vittorio Veneto</title>
+      <description>Latina Viale Vittorio Veneto
+ strada chiusa causa partita di calcio dalle 18:00 alle 23:00 del 30 novembre 2026  tra Via dei Mille e Via Curtatone   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:02:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:02:00Z</dc:date>
+    </item>
+    <item>
+      <title>Bari Piazza 4 Novembre</title>
+      <description>Bari Piazza 4 Novembre
+ transito temporaneamente sospeso causa manifestazione dalle 06:00 del 17 ottobre 2026 alle 23:59 del 10 novembre 2026  tra Lungomare Araldo Di Crollalanza e Corso Vittorio Emanuele II   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:02:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:02:00Z</dc:date>
     </item>
     <item>
       <title>A27 Mestre-Belluno</title>
       <description>A27 Mestre-Belluno
  veicolo fermo o in avaria dalle 13:38 del 22 ottobre 2026  tra Svincolo Treviso Nord e Svincolo Treviso Sud  in direzione Venezia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:40:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:40:00Z</dc:date>
+      <pubDate>Thu, 22 Oct 2026 12:02:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:02:00Z</dc:date>
+    </item>
+    <item>
+      <title>A19 Palermo-Catania</title>
+      <description>A19 Palermo-Catania
+ veicolo in avaria  a Svincolo Termini Imerese in direzione Catania  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:02:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:02:00Z</dc:date>
+    </item>
+    <item>
+      <title>A27 Mestre-Belluno</title>
+      <description>A27 Mestre-Belluno
+ veicolo fermo o in avaria dalle 13:57 del 22 ottobre 2026  tra Svincolo Treviso Sud e Svincolo Treviso Nord  in direzione Belluno  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:01:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:01:00Z</dc:date>
+    </item>
+    <item>
+      <title>S03 Strada Grande Comunicazione Fi-Pi-Li (diramazione per Pisa)</title>
+      <description>S03 Strada Grande Comunicazione Fi-Pi-Li (diramazione per Pisa)
+ veicolo fermo o in avaria dalle 13:35 del 22 ottobre 2026  tra Svincolo Pisa Nord Est e Svincolo Pisa Aeroporto-SS 1 Aurelia  in direzione Pisa  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>A14 Pescara-Bari</title>
+      <description>A14 Pescara-Bari
+ veicolo fermo o in avaria dalle 13:56 del 22 ottobre 2026  tra Svincolo Molfetta e Svincolo Trani  in direzione Pescara  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Belluno Via Giuseppe Garibaldi</title>
+      <description>Belluno Via Giuseppe Garibaldi
+ regolazione del traffico causa inquinamento prodotto dai gas di scarico
+ dalle 09:00 alle 19:00 del 13 dicembre 2026  a Via Loreto  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
+      <dc:date>2026-10-22T12:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>SP32(PI) di Montecatini Val di Cecina</title>
+      <description>SP32(PI) di Montecatini Val di Cecina
+ obbligo catene a bordo o pneumatici da neve dalle 00:00 del 15 novembre 2026 alle 23:59 del 15 aprile 2027  tra Incrocio SR68-Ponteginori e Incrocio SS439-Montecatini Val di Cecina   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:59:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:59:00Z</dc:date>
+    </item>
+    <item>
+      <title>TG-BO Tangenziale Di Bologna</title>
+      <description>TG-BO Tangenziale Di Bologna
+ veicoli lenti dalle 13:56 del 22 ottobre 2026  tra Svincolo 1 Bologna Casalecchio e Svincolo Via Triumvirato  in direzione autostrada Bologna-Taranto  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:58:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:58:00Z</dc:date>
+    </item>
+    <item>
+      <title>A27 Mestre-Belluno</title>
+      <description>A27 Mestre-Belluno
+ traffico rallentato causa incidente dalle 13:56 del 22 ottobre 2026  tra Svincolo Treviso Nord e Allacciamento A28 Venezia-Belluno  in direzione Belluno  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:58:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:58:00Z</dc:date>
+    </item>
+    <item>
+      <title>A27 Mestre-Belluno</title>
+      <description>A27 Mestre-Belluno
+ incidente dalle 13:44 del 22 ottobre 2026  tra Svincolo Treviso Nord e Allacciamento A28 Venezia-Belluno  in direzione Belluno  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:58:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:58:00Z</dc:date>
+    </item>
+    <item>
+      <title>SP31(PI) Cucigliana-Lorenzana</title>
+      <description>SP31(PI) Cucigliana-Lorenzana
+ obbligo catene a bordo o pneumatici da neve dalle 00:00 del 15 novembre 2026 alle 23:59 del 15 aprile 2027  tra Incrocio SP35-Botteghino e Incrocio SP21-Lorenzana   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:58:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:58:00Z</dc:date>
+    </item>
+    <item>
+      <title>Belluno Via Loreto</title>
+      <description>Belluno Via Loreto
+ regolazione del traffico causa inquinamento prodotto dai gas di scarico
+ dalle 09:00 alle 19:00 del 13 dicembre 2026  a Via Giuseppe Garibaldi  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:58:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:58:00Z</dc:date>
+    </item>
+    <item>
+      <title>SP30(PI) Lungomonte Pisano</title>
+      <description>SP30(PI) Lungomonte Pisano
+ obbligo catene a bordo o pneumatici da neve dalle 00:00 del 15 novembre 2026 alle 23:59 del 15 aprile 2027  tra Incrocio SP10-Vecchiano e Incrocio Confine provinciale Pisa/Lucca-Laiano   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:57:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:57:00Z</dc:date>
+    </item>
+    <item>
+      <title>SP27 Strada Provinciale 27 di Montecastelli</title>
+      <description>SP27 Strada Provinciale 27 di Montecastelli
+ obbligo catene a bordo o pneumatici da neve dalle 00:00 del 15 novembre 2026 alle 23:59 del 15 aprile 2027  tra SR439 e SP29 di Monteguidi   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:56:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:56:00Z</dc:date>
+    </item>
+    <item>
+      <title>Bari Lungomare Araldo di Crollalanza</title>
+      <description>Bari Lungomare Araldo di Crollalanza
+ transito temporaneamente sospeso causa manifestazione dalle 06:00 del 17 ottobre 2026 alle 23:59 del 10 novembre 2026  tra Lungomare Nazario Sauro e Piazza 4 Novembre   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:56:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:56:00Z</dc:date>
+    </item>
+    <item>
+      <title>SP26 Strada Provinciale delle Colline</title>
+      <description>SP26 Strada Provinciale delle Colline
+ obbligo catene a bordo o pneumatici da neve dalle 00:00 del 15 novembre 2026 alle 23:59 del 15 aprile 2027  tra Strada Provinciale delle Colline e Via di Mezzo   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:55:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:55:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Firenze-Roma</title>
+      <description>A1 Firenze-Roma
+ personale su strada causa lavori dalle 13:53 del 22 ottobre 2026  tra Svincolo Orvieto e Svincolo Fabro  in direzione Firenze  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:55:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:55:00Z</dc:date>
+    </item>
+    <item>
+      <title>Latina Via Goffredo Mameli</title>
+      <description>Latina Via Goffredo Mameli
+ strada chiusa causa partita di calcio dalle 18:00 alle 23:00 del 30 novembre 2026  tra Piazzale Natale Prampolini e Via Giuseppe Garibaldi   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:55:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:55:00Z</dc:date>
+    </item>
+    <item>
+      <title>Genova Via Cagliari</title>
+      <description>Genova Via Cagliari
+ incidente possibili rallentamenti  a Via Cagliari  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:54:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:54:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS1 Via Aurelia</title>
+      <description>SS1 Via Aurelia
+ corsia chiusa causa lavori  tra 795 m dopo Incrocio Arcola e 1,011 km prima di Incrocio Vezzano A15 Parma-La Spezia   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:54:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:54:00Z</dc:date>
+    </item>
+    <item>
+      <title>Bologna Piazza di Porta Saragozza</title>
+      <description>Bologna Piazza di Porta Saragozza
+ impianto semaforico non funzionante correttamente, guidare con attenzione  a Piazza di Porta Saragozza  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:54:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:54:00Z</dc:date>
+    </item>
+    <item>
+      <title>Belluno Via Rivizzola</title>
+      <description>Belluno Via Rivizzola
+ regolazione del traffico causa inquinamento prodotto dai gas di scarico
+ dalle 09:00 alle 19:00 del 15 novembre 2026  a Via Simon da Cusighe  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:54:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:54:00Z</dc:date>
+    </item>
+    <item>
+      <title>A19 Palermo-Catania</title>
+      <description>A19 Palermo-Catania
+ riduzione di carreggiata causa lavori dalle 17:00 del 9 ottobre 2026 alle 19:00 del 30 novembre 2026  tra Svincolo Catenanuova e Svincolo Gerbini   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:53:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:53:00Z</dc:date>
+    </item>
+    <item>
+      <title>SP17 Strada Provinciale 17 delle Valle del Pavone e Cecina</title>
+      <description>SP17 Strada Provinciale 17 delle Valle del Pavone e Cecina
+ obbligo catene a bordo o pneumatici da neve dalle 00:00 del 15 novembre 2026 alle 23:59 del 15 aprile 2027  tra Strada Provinciale 17 delle Valle del Pavone e Cecina e Strada Provinciale 27 di Montecastelli   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:52:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:52:00Z</dc:date>
+    </item>
+    <item>
+      <title>A30 Caserta-Salerno</title>
+      <description>A30 Caserta-Salerno
+ personale su strada causa lavori dalle 13:50 del 22 ottobre 2026  tra Svincolo Nocera Pagani e Barriera Di Salerno M.S.Severino  in direzione Salerno  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:51:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:51:00Z</dc:date>
+    </item>
+    <item>
+      <title>SP26 Strada Provinciale 26 di San Pietro Belvedere</title>
+      <description>SP26 Strada Provinciale 26 di San Pietro Belvedere
+ obbligo catene a bordo o pneumatici da neve dalle 00:00 del 15 novembre 2026 alle 23:59 del 15 aprile 2027  tra Strada Provinciale 11 delle Colline per Legoli e Strada Provinciale 13 del Commercio   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:51:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:51:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS340dir Diramazione Regina</title>
+      <description>SS340dir Diramazione Regina
+ senso unico alternato causa lavori dalle 21:00 del 22 alle 06:00 del 27 ottobre 2026  tra Incrocio Acquaseria e Incrocio Pianello Lario   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:51:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:51:00Z</dc:date>
+    </item>
+    <item>
+      <title>A4 Milano-Brescia</title>
+      <description>A4 Milano-Brescia
+ veicolo fermo o in avaria dalle 13:48 del 22 ottobre 2026  tra Svincolo Grumello e Svincolo Seriate  in direzione Milano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:50:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:50:00Z</dc:date>
+    </item>
+    <item>
+      <title>A16 Napoli-Canosa</title>
+      <description>A16 Napoli-Canosa
+ veicolo fermo o in avaria dalle 13:34 del 22 ottobre 2026  tra Svincolo Baiano e Svincolo Avellino Ovest  in direzione Canosa  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:50:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:50:00Z</dc:date>
+    </item>
+    <item>
+      <title>Belluno Via Simon da Cusighe</title>
+      <description>Belluno Via Simon da Cusighe
+ regolazione del traffico causa  inquinamento prodotto dai gas di scarico
+ dalle 09:00 alle 19:00 del 15 novembre 2026  a Via Aristide Gabelli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:50:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:50:00Z</dc:date>
+    </item>
+    <item>
+      <title>SP25(PI) Vicopisano-Santa Maria a Monte</title>
+      <description>SP25(PI) Vicopisano-Santa Maria a Monte
+ obbligo catene a bordo o pneumatici da neve dalle 00:00 del 15 novembre 2026 alle 23:59 del 15 aprile 2027  tra Incrocio SS439-Bientina e Incrocio SP5-Santa Maria a Monte   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:49:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:49:00Z</dc:date>
+    </item>
+    <item>
+      <title>Latina Via Dandolo</title>
+      <description>Latina Via Dandolo
+ strada chiusa causa partita di calcio dalle 18:00 alle 23:00 del 30 novembre 2026  tra Piazza Don Giovanni Bosco e Piazzale Natale Prampolini   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:48:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:48:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS1 Via Aurelia</title>
+      <description>SS1 Via Aurelia
+ incidente traffico rallentato  a Incrocio Massimina in direzione Incrocio Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:47:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:47:00Z</dc:date>
+    </item>
+    <item>
+      <title>A12 Roma-Civitavecchia</title>
+      <description>A12 Roma-Civitavecchia
+ veicolo fermo o in avaria dalle 13:46 del 22 ottobre 2026  tra Svincolo Cerveteri-Ladispoli e Svincolo S.Severa-S.Marinella  in direzione S.s. 1 Aurelia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:47:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:47:00Z</dc:date>
+    </item>
+    <item>
+      <title>Belluno Via Roma</title>
+      <description>Belluno Via Roma
+ regolazione del traffico causa  inquinamento prodotto dai gas di scarico
+ dalle 09:00 alle 19:00 del 15 novembre 2026  a Via Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:47:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:47:00Z</dc:date>
+    </item>
+    <item>
+      <title>RA02 Raccordo Autostradale Salerno-Avellino</title>
+      <description>RA02 Raccordo Autostradale Salerno-Avellino
+ scambio di carreggiata causa lavori dalle 20:42 del 22 alle 23:59 del 26 ottobre 2026  tra Svincolo Serino e Svincolo Avellino-SS7bis Terra Di Lavoro  in direzione Salerno  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:47:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:47:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS5 Via Tiburtina Valeria</title>
+      <description>SS5 Via Tiburtina Valeria
+ code causa presenza di alberi sulla carreggiata  tra 1,091 km dopo Incrocio Via della Tenuta del Cavaliere e 3,339 km prima di Incrocio Bagni Di Tivoli - SS5 Ter  in direzione Incrocio Pescara - SS16 Adriatica  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:46:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:46:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS456 Del Turchino</title>
+      <description>SS456 Del Turchino
+ pulizia del manto stradale  tra 435 m dopo Incrocio Valico Del Turchino e 1,786 km prima di Incrocio Fado   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:46:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:46:00Z</dc:date>
+    </item>
+    <item>
+      <title>SP21 Strada Provinciale 21 del Piano della Tora</title>
+      <description>SP21 Strada Provinciale 21 del Piano della Tora
+ obbligo catene a bordo o pneumatici da neve dalle 00:00 del 15 novembre 2026 alle 23:59 del 15 aprile 2027  tra Via Roma e Strada Provinciale 43 di Orciano   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:46:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:46:00Z</dc:date>
+    </item>
+    <item>
+      <title>Belluno Piazza dei Martiri</title>
+      <description>Belluno Piazza dei Martiri
+ regolazione del traffico causa  inquinamento prodotto dai gas di scarico
+ dalle 09:00 alle 19:00 del 15 novembre 2026  a Piazza dei Martiri  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:45:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Latina Via Montebello</title>
+      <description>Latina Via Montebello
+ strada chiusa causa partita di calcio dalle 18:00 alle 23:00 del 30 novembre 2026  tra Via Palestro e Via dei Mille   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:45:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Latina Via Aspromonte</title>
+      <description>Latina Via Aspromonte
+ strada chiusa causa partita di calcio dalle 18:00 alle 23:00 del 30 novembre 2026  tra Via Lorenzo de  Medici e Via Volturno   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:44:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:44:00Z</dc:date>
+    </item>
+    <item>
+      <title>A14 Bologna-Ancona</title>
+      <description>A14 Bologna-Ancona
+ veicolo fermo o in avaria dalle 13:42 del 22 ottobre 2026  tra Allacciamento Ramo Casalecchio e Allacciamento A13 Bologna-Padova  in direzione Ancona  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:44:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:44:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS96 Barese</title>
+      <description>SS96 Barese
+ manifestazione  tra 50 m prima di Bari Zona Industriale/Allacciamento Tangenziale Bari e 6,971 km dopo Incrocio Toritto  in direzione Incrocio Tricarico - SS7 Appia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:44:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:44:00Z</dc:date>
+    </item>
+    <item>
+      <title>Tangenziale Est (RM)</title>
+      <description>Tangenziale Est (RM)
+ traffico rallentato causa traffico intenso  tra Incrocio Uscita Viale Tor di Quinto e Incrocio Uscita Via dei Campi Sportivi  in direzione Incrocio Viale Castrense/Via Nola-Inizio Tangenziale  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:44:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:44:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS125 Orientale Sarda</title>
+      <description>SS125 Orientale Sarda
+ frana  tra 1,348 km dopo Incrocio Posada e 754 m prima di Incrocio Tanaunella   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:42:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:42:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS1 Via Aurelia</title>
+      <description>SS1 Via Aurelia
+ fondo stradale dissestato  tra 31,021 km dopo Incrocio Bogliasco e Incrocio Savona   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:42:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:42:00Z</dc:date>
+    </item>
+    <item>
+      <title>Latina Largo Torre Acquedotto</title>
+      <description>Latina Largo Torre Acquedotto
+ strada chiusa causa partita di calcio dalle 18:00 alle 23:00 del 30 novembre 2026  tra Via Calatafimi e Via Aspromonte   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:41:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:41:00Z</dc:date>
+    </item>
+    <item>
+      <title>RA02 Raccordo Autostradale Salerno-Avellino</title>
+      <description>RA02 Raccordo Autostradale Salerno-Avellino
+ scambio di carreggiata causa lavori dalle 02:00 del 14 alle 17:00 del 31 ottobre 2026  tra Svincolo Torchiati e Svincolo Solofra   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 11:41:00 GMT</pubDate>
+      <dc:date>2026-10-22T11:41:00Z</dc:date>
     </item>
     <item>
       <title>Belluno Via Giuseppe Garibaldi</title>
@@ -48,663 +707,11 @@
       <dc:date>2026-10-22T11:39:00Z</dc:date>
     </item>
     <item>
-      <title>SS1 Via Aurelia</title>
-      <description>SS1 Via Aurelia
- incidente  a Incrocio Massimina in direzione Incrocio Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:38:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:38:00Z</dc:date>
-    </item>
-    <item>
-      <title>Bari Lungomare Nazario Sauro</title>
-      <description>Bari Lungomare Nazario Sauro
- transito temporaneamente sospeso causa manifestazione dalle 06:00 del 17 ottobre 2026 alle 23:59 del 10 novembre 2026  tra Via Giuseppe Di Vagno e Lungomare Araldo di Crollalanza   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:38:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:38:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS379 Egnazia E Delle Terme Di Torre Canne</title>
-      <description>SS379 Egnazia E Delle Terme Di Torre Canne
- animali vaganti  a Incrocio Torre Canne Sud in direzione Incrocio Fasano - SS16 Adriatica  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:38:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:38:00Z</dc:date>
-    </item>
-    <item>
-      <title>Belluno Via Loreto</title>
-      <description>Belluno Via Loreto
- regolazione del traffico causa  inquinamento prodotto dai gas di scarico
- dalle 09:00 alle 19:00 del 15 novembre 2026  a Via Giuseppe Garibaldi  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:38:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:38:00Z</dc:date>
-    </item>
-    <item>
-      <title>S03 Strada Grande Comunicazione Fi-Pi-Li (diramazione per Pisa)</title>
-      <description>S03 Strada Grande Comunicazione Fi-Pi-Li (diramazione per Pisa)
- veicolo fermo o in avaria dalle 13:35 del 22 ottobre 2026  tra Svincolo Pisa Nord Est e Svincolo Pisa Aeroporto-SS 1 Aurelia  in direzione Pisa  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:37:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:37:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Pescara-Bari</title>
-      <description>A14 Pescara-Bari
- personale su strada causa lavori dalle 13:35 del 22 ottobre 2026  tra Svincolo San Severo e Svincolo Poggio Imperiale  in direzione Pescara  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:37:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:37:00Z</dc:date>
-    </item>
-    <item>
-      <title>Latina Via Aspromonte</title>
-      <description>Latina Via Aspromonte
- strada chiusa causa partita di calcio dalle 18:00 alle 23:00 del 30 novembre 2026  a Via Gaetano Rappini  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:37:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:37:00Z</dc:date>
-    </item>
-    <item>
       <title>SS12 Dell abetone E Del Brennero</title>
       <description>SS12 Dell abetone E Del Brennero
  senso unico alternato causa lavori dalle 09:00 del 26 ottobre 2026 alle 17:00 del 6 novembre 2026  tra Incrocio Montecenere e Incrocio Renno   &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Thu, 22 Oct 2026 11:37:00 GMT</pubDate>
       <dc:date>2026-10-22T11:37:00Z</dc:date>
-    </item>
-    <item>
-      <title>A3 Napoli-Salerno</title>
-      <description>A3 Napoli-Salerno
- personale su strada dalle 13:34 del 22 ottobre 2026  a Svincolo Portici-Bellavista in direzione da Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:36:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:36:00Z</dc:date>
-    </item>
-    <item>
-      <title>A16 Napoli-Canosa</title>
-      <description>A16 Napoli-Canosa
- veicolo fermo o in avaria dalle 13:34 del 22 ottobre 2026  tra Svincolo Baiano e Svincolo Avellino Ovest  in direzione Canosa  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:36:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:36:00Z</dc:date>
-    </item>
-    <item>
-      <title>A52 Tangenziale Nord Di Milano</title>
-      <description>A52 Tangenziale Nord Di Milano
- traffico rallentato causa traffico intenso  tra Svincolo SP9 Vecchia Valassina e Svincolo SP131 Nova Milanese  in direzione Allacciamento Tangenziale Est Di Milano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:36:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:36:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS274 Salentina Di Patu</title>
-      <description>SS274 Salentina Di Patu 
- presenza di alberi sulla carreggiata  a Incrocio Morciano Di Leuca in direzione Incrocio S. Maria Di Leuca - SS275 Di S.Maria Di Leuca  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:36:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:36:00Z</dc:date>
-    </item>
-    <item>
-      <title>A5 Torino-Courmayeur</title>
-      <description>A5 Torino-Courmayeur
- lavori  tra 5,094 km prima di Svincolo Quincinetto e Barriera Di Torino Nord  in direzione Torino  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:35:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:35:00Z</dc:date>
-    </item>
-    <item>
-      <title>Latina Via Aspromonte</title>
-      <description>Latina Via Aspromonte
- strada chiusa causa manifestazione dalle 18:00 alle 23:00 del 30 novembre 2026  tra Via Cesare Beccaria e Via Volturno   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:35:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:35:00Z</dc:date>
-    </item>
-    <item>
-      <title>TG-BO Tangenziale Di Bologna</title>
-      <description>TG-BO Tangenziale Di Bologna
- veicolo fermo o in avaria dalle 13:33 del 22 ottobre 2026  tra Svincolo 5 Bologna Quartiere Lame e Svincolo 6 Castelmaggiore  in direzione autostrada Bologna-Taranto  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:35:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:35:00Z</dc:date>
-    </item>
-    <item>
-      <title>A50 Tangenziale Ovest Di Milano</title>
-      <description>A50 Tangenziale Ovest Di Milano
- veicolo in avaria  a Svincolo SP59 Vigevanese Vecchia: Trezzano in direzione Allacciamento A8 Milano-Varese  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:35:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:35:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Bari-Taranto</title>
-      <description>A14 Bari-Taranto
- personale su strada causa lavori dalle 13:31 del 22 ottobre 2026  tra Svincolo Gioia Del Colle e Svincolo Acquaviva Delle Fonti  in direzione Bari  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:34:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:34:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Roma-Napoli</title>
-      <description>A1 Roma-Napoli
- perdita di carico causa perdita accidentale dalle 13:31 del 22 ottobre 2026  tra Svincolo Pontecorvo e Svincolo Cassino  in direzione Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:34:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:34:00Z</dc:date>
-    </item>
-    <item>
-      <title>Bologna Via Mondo</title>
-      <description>Bologna Via Mondo
- incidente possibili rallentamenti  a Via Mondo  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:33:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:33:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Bologna-Ancona</title>
-      <description>A14 Bologna-Ancona
- veicolo in fiamme dalle 13:31 del 22 ottobre 2026  tra Svincolo Marotta-Mondolfo e Svincolo Senigallia  in direzione Ancona  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:33:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:33:00Z</dc:date>
-    </item>
-    <item>
-      <title>Bari Via Giuseppe Di Vagno</title>
-      <description>Bari Via Giuseppe Di Vagno
- transito temporaneamente sospeso causa manifestazione dalle 06:00 del 17 ottobre 2026 alle 23:59 del 10 novembre 2026  tra Via Guglielmo Oberdan e Lungomare Nazario Sauro   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:33:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:33:00Z</dc:date>
-    </item>
-    <item>
-      <title>A21 Torino-Brescia</title>
-      <description>A21 Torino-Brescia
- lavori  tra 8,33 km dopo Svincolo Castel S.Giovanni e 7,041 km prima di Svincolo Piacenza Ovest  in direzione Brescia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:32:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:32:00Z</dc:date>
-    </item>
-    <item>
-      <title>Genova Via di Francia</title>
-      <description>Genova Via di Francia
- olio sulla strada, guidare con attenzione  a Via di Francia in direzione Ponte elicoidale  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:32:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:32:00Z</dc:date>
-    </item>
-    <item>
-      <title>Bologna Via Natalino Corazza</title>
-      <description>Bologna Via Natalino Corazza
- incidente possibili rallentamenti  a Via della Croce Coperta  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:32:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:32:00Z</dc:date>
-    </item>
-    <item>
-      <title>Bologna Via Antonio Gramsci</title>
-      <description>Bologna Via Antonio Gramsci
- incidente traffico rallentato  a Via Antonio Gramsci  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:32:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:32:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS45 Di Val Di Trebbia</title>
-      <description>SS45 Di Val Di Trebbia
- senso unico alternato dalle 09:00 del 26 ottobre 2026 alle 17:00 del 4 dicembre 2026  tra Incrocio Quadrelli e Incrocio Variante Di Rivergaro   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:32:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:32:00Z</dc:date>
-    </item>
-    <item>
-      <title>Latina Via Pio VI</title>
-      <description>Latina Via Pio VI
- strada chiusa causa partita di calcio dalle 18:00 alle 23:00 del 30 novembre 2026  tra Via Padre Reginaldo Giuliani e Piazza Don Giovanni Bosco   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:31:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:31:00Z</dc:date>
-    </item>
-    <item>
-      <title>Bari Via Giuseppe Capruzzi</title>
-      <description>Bari Via Giuseppe Capruzzi
- transito temporaneamente sospeso causa manifestazione dalle 06:00 del 17 ottobre 2026 alle 23:59 del 10 novembre 2026  tra Via Brigata e Divisione Bari e Via Guglielmo Oberdan   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:31:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:31:00Z</dc:date>
-    </item>
-    <item>
-      <title>SP2(TN) Rovereto-SS350-SP143-Folgaria</title>
-      <description>SP2(TN) Rovereto-SS350-SP143-Folgaria
- senso unico alternato causa lavori dalle 07:00 del 24 ottobre 2026 alle 18:00 del 2 novembre 2026  tra Incrocio Rovereto Via Dei Colli Scol. Piazzale Pat e Incrocio Noriglio   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:31:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:31:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Ancona-Pescara</title>
-      <description>A14 Ancona-Pescara
- traffico rallentato causa lavori dalle 13:29 del 22 ottobre 2026  tra Svincolo Fermo-Porto S.Giorgio e Svincolo Porto Sant Elpidio  in direzione Ancona  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:30:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:30:00Z</dc:date>
-    </item>
-    <item>
-      <title>SP20(PI) di Lodano</title>
-      <description>SP20(PI) di Lodano
- obbligo catene a bordo o pneumatici da neve dalle 00:00 del 15 novembre 2026 alle 23:59 del 15 aprile 2027  tra Incrocio Confine provinciale Pisa/Grosseto e Incrocio SS329-Canneto   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:30:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:30:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS614 Della Maielletta</title>
-      <description>SS614 Della Maielletta
- carichi dispersi  a Incrocio Blokhaus  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:30:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:30:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS379 Egnazia E Delle Terme Di Torre Canne</title>
-      <description>SS379 Egnazia E Delle Terme Di Torre Canne
- materiali dispersi  a Incrocio Torre Canne in direzione Incrocio Brindisi - SS16 Adriatica  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:30:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:30:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS10 Padana Inferiore</title>
-      <description>SS10 Padana Inferiore
- fondo stradale dissestato  tra 6,49 km dopo Incrocio Torretta - SS458 Di Casalborgone e Incrocio Alessandria   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:30:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:30:00Z</dc:date>
-    </item>
-    <item>
-      <title>Bari Via Brigata e Divisione Bari</title>
-      <description>Bari Via Brigata e Divisione Bari
- transito temporaneamente sospeso causa manifestazione dalle 06:00 del 17 ottobre 2026 alle 23:59 del 10 novembre 2026  tra Via Brigata Regina e Via Giuseppe Capruzzi   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:29:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:29:00Z</dc:date>
-    </item>
-    <item>
-      <title>SP18(PI) dei Quattro Comuni</title>
-      <description>SP18(PI) dei Quattro Comuni
- obbligo catene a bordo o pneumatici da neve dalle 00:00 del 15 novembre 2026 alle 23:59 del 15 aprile 2027  tra Incrocio SS329-Canneto e Incrocio SR68-Casino di Terra   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:29:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:29:00Z</dc:date>
-    </item>
-    <item>
-      <title>A7 Milano-Genova</title>
-      <description>A7 Milano-Genova
- personale su strada causa lavori dalle 13:27 del 22 ottobre 2026  tra Svincolo Busalla e Svincolo Genova Bolzaneto  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:29:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:29:00Z</dc:date>
-    </item>
-    <item>
-      <title>Latina Via Giovanni Cena</title>
-      <description>Latina Via Giovanni Cena
- strada chiusa causa partita di calcio dalle 18:00 alle 23:00 del 30 novembre 2026  tra Via Aspromonte e Viale Alfonso Lamarmora   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:29:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:29:00Z</dc:date>
-    </item>
-    <item>
-      <title>SP76(AN) Della Val D esino</title>
-      <description>SP76(AN) Della Val D esino
- obbligo catene a bordo o pneumatici da neve dalle 00:01 del 15 novembre 2026 alle 23:59 del 15 aprile 2027  tra Incrocio Fabriano Est/Svincolo SS76 Var e Incrocio Stazione Di Albacina/SS76 Var   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:29:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:29:00Z</dc:date>
-    </item>
-    <item>
-      <title>A11 Firenze-Pisa</title>
-      <description>A11 Firenze-Pisa
- perdita di carico dalle 13:26 del 22 ottobre 2026  a Svincolo Pistoia in direzione da Firenze  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:28:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:28:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Milano-Bologna</title>
-      <description>A1 Milano-Bologna
- traffico rallentato causa perdita di carico dalle 13:25 del 22 ottobre 2026  tra Allacciamento Fiorenzuola e Svincolo Fidenza  in direzione Bologna  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:27:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:27:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Ancona-Pescara</title>
-      <description>A14 Ancona-Pescara
- perdita di carico dalle 13:24 del 22 ottobre 2026  tra Svincolo Loreto-Porto Recanati e Svincolo Macerata  in direzione Pescara  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:26:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:26:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS407 Basentana</title>
-      <description>SS407 Basentana
- corsia chiusa causa lavori di manutenzione  tra 4,658 km prima di Incrocio Campomaggiore e 851 m dopo Incrocio Staz. Di Albano Di Lucania  in direzione Incrocio Staz. Di Vaglio Basilicata - SS7 Appia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:26:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:26:00Z</dc:date>
-    </item>
-    <item>
-      <title>SP17 Strada Provinciale 17 delle Valle del Pavone e Cecina</title>
-      <description>SP17 Strada Provinciale 17 delle Valle del Pavone e Cecina
- obbligo catene a bordo o pneumatici da neve  tra Strada Provinciale 17 delle Valle del Pavone e Cecina e Strada Provinciale 27 di Montecastelli   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:26:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:26:00Z</dc:date>
-    </item>
-    <item>
-      <title>SP48(AN) Cabernardi e Montelago</title>
-      <description>SP48(AN) Cabernardi e Montelago
- obbligo catene a bordo o pneumatici da neve dalle 00:01 del 15 novembre 2026 alle 23:59 del 15 aprile 2027  tra Incrocio Colmaiore e Incrocio Montelago   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:26:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:26:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS309dir Diramazione Romea</title>
-      <description>SS309dir Diramazione Romea
- riduzione di carreggiata causa lavori dalle 20:00 del 12 ottobre 2026 alle 20:00 del 20 novembre 2026  tra Incrocio Ravenna - SS309 Romea e Incrocio Ravenna/Allacciamento A14 Diramazione Per Ravenna - SS16   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:26:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:26:00Z</dc:date>
-    </item>
-    <item>
-      <title>SP17 Strada Provinciale 17 Valli del Pavone e Cecina</title>
-      <description>SP17 Strada Provinciale 17 Valli del Pavone e Cecina
- obbligo catene a bordo o pneumatici da neve dalle 00:00 del 15 novembre 2026 alle 23:59 del 15 aprile 2027  tra SR439 e Strada Provinciale 35C di Radicondoli   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:25:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:25:00Z</dc:date>
-    </item>
-    <item>
-      <title>SP16 Strada Provinciale 16 del Monte Volterrano</title>
-      <description>SP16 Strada Provinciale 16 del Monte Volterrano
- obbligo catene a bordo o pneumatici da neve dalle 00:00 del 15 novembre 2026 alle 23:59 del 15 aprile 2027  tra SR439 e Strada Regionale 68 di Val Cecina   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:24:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:24:00Z</dc:date>
-    </item>
-    <item>
-      <title>Bari Via Brigata Regina</title>
-      <description>Bari Via Brigata Regina
- strada chiusa causa manifestazione dalle 06:00 del 17 ottobre 2026 alle 23:59 del 10 novembre 2026  tra Via Dalmazia e Via Brigata e Divisione Bari   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:24:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:24:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Ancona-Pescara</title>
-      <description>A14 Ancona-Pescara
- traffico rallentato causa lavori dalle 13:21 del 22 ottobre 2026  tra Svincolo Roseto Degli Abruzzi e Svincolo Pescara N. Citta  S.Angelo  in direzione Pescara  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:23:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:23:00Z</dc:date>
-    </item>
-    <item>
-      <title>SP48(AN) Cabernardi e Montelago</title>
-      <description>SP48(AN) Cabernardi e Montelago
- obbligo catene a bordo o pneumatici da neve dalle 00:01 del 15 novembre 2026 alle 23:59 del 15 aprile 2027  tra Incrocio SP15-Castagna e Incrocio SS360-Sassoferrato   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:23:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:23:00Z</dc:date>
-    </item>
-    <item>
-      <title>A10 Genova-Ventimiglia</title>
-      <description>A10 Genova-Ventimiglia
- lavori  tra 942 m prima di Svincolo Arma Di Taggia e 12,065 km dopo Svincolo Imperia Ovest  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:22:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:22:00Z</dc:date>
-    </item>
-    <item>
-      <title>A10 Genova-Ventimiglia</title>
-      <description>A10 Genova-Ventimiglia
- lavori  tra 46 m prima di Svincolo Orco Feglino e 3,534 km dopo Svincolo Spotorno  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:22:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:22:00Z</dc:date>
-    </item>
-    <item>
-      <title>A10 Genova-Ventimiglia</title>
-      <description>A10 Genova-Ventimiglia
- code a tratti per 8 km causa lavori  tra Svincolo Pietra Ligure e 6,645 km dopo Svincolo Spotorno  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:22:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:22:00Z</dc:date>
-    </item>
-    <item>
-      <title>A10 Genova-Ventimiglia</title>
-      <description>A10 Genova-Ventimiglia
- lavori  tra 2,035 km dopo Svincolo Spotorno e 1,331 km prima di Svincolo Orco Feglino  in direzione Ventimiglia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:22:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:22:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS28 Del Colle Di Nava</title>
-      <description>SS28 Del Colle Di Nava
- traffico rallentato  a Incrocio Ponte In Nava  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:22:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:22:00Z</dc:date>
-    </item>
-    <item>
-      <title>R32 Raccordo Viterbo-Terni (rato)</title>
-      <description>R32 Raccordo Viterbo-Terni (rato)
- materiali dispersi  a Svincolo Nera Montoro-SS204 Ortana in direzione Raccordo Viterbo  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:22:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:22:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS1 Via Aurelia</title>
-      <description>SS1 Via Aurelia
- pulizia del manto stradale  tra 31,021 km dopo Incrocio Bogliasco e Incrocio Savona   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:22:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:22:00Z</dc:date>
-    </item>
-    <item>
-      <title>Latina Viale Vittorio Veneto</title>
-      <description>Latina Viale Vittorio Veneto
- strada chiusa causa partita di calcio dalle 18:00 alle 23:00 del 30 novembre 2026  tra Via Palestro e Via dei Mille   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:22:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:22:00Z</dc:date>
-    </item>
-    <item>
-      <title>SP15(PI) Volterrana</title>
-      <description>SP15(PI) Volterrana
- obbligo catene a bordo o pneumatici da neve dalle 00:00 del 15 novembre 2026 alle 23:59 del 15 aprile 2027  tra Incrocio SS68-Volterra e Incrocio Confine provinciale Pisa/Firenze-Vicarello   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:22:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:22:00Z</dc:date>
-    </item>
-    <item>
-      <title>Latina Via Calatafimi</title>
-      <description>Latina Via Calatafimi
- strada chiusa causa partita di calcio dalle 18:00 alle 23:00 del 30 novembre 2026  tra Via Amaseno e Via Garigliano   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:21:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:21:00Z</dc:date>
-    </item>
-    <item>
-      <title>SP14(PI) di Miemo</title>
-      <description>SP14(PI) di Miemo
- obbligo catene a bordo o pneumatici da neve dalle 00:00 del 15 novembre 2026 alle 23:59 del 15 aprile 2027  tra Incrocio SR68-Casino di Terra e Incrocio SS439-La Sterza   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:21:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:21:00Z</dc:date>
-    </item>
-    <item>
-      <title>SP13(PI) del Commercio</title>
-      <description>SP13(PI) del Commercio
- obbligo catene a bordo o pneumatici da neve dalle 00:00 del 15 novembre 2026 alle 23:59 del 15 aprile 2027  tra Incrocio SR68-San Martino e Incrocio SS439-Ponsacco   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:20:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:20:00Z</dc:date>
-    </item>
-    <item>
-      <title>SP47 Strada Provinciale 47 di Montecucco</title>
-      <description>SP47 Strada Provinciale 47 di Montecucco
- obbligo catene a bordo o pneumatici da neve dalle 00:01 del 15 novembre 2026 alle 23:59 del 15 aprile 2027  a Strada Provinciale 16 di Sassoferrato  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:20:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:20:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Pescara-Bari</title>
-      <description>A14 Pescara-Bari
- personale su strada causa lavori dalle 13:16 del 22 ottobre 2026  tra Svincolo Pescara Sud-Francavilla e Svincolo Lanciano  in direzione Bari  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:19:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:19:00Z</dc:date>
-    </item>
-    <item>
-      <title>SP11(PI) Colline per Legoli</title>
-      <description>SP11(PI) Colline per Legoli
- obbligo catene a bordo o pneumatici da neve dalle 00:00 del 15 novembre 2026 alle 23:59 del 15 aprile 2027  tra Incrocio SP41 - Peccioli e Incrocio SS67-Pontedera   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:19:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:19:00Z</dc:date>
-    </item>
-    <item>
-      <title>TG-FG Tangenziale Di Foggia</title>
-      <description>TG-FG Tangenziale Di Foggia
- materiali dispersi  a Svincolo Masseria Valentina in direzione Svincolo Foggia Nord - SS16  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:18:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:18:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS126 Sud Occidentale Sarda</title>
-      <description>SS126 Sud Occidentale Sarda
- incidente  a Incrocio Terralba  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:18:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:18:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS107 Silana Crotonese</title>
-      <description>SS107 Silana Crotonese
- lavori di manutenzione  a Incrocio Valico Di Monte Scuro in direzione Incrocio Paola - SS18 Tirrena Inferiore  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:18:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:18:00Z</dc:date>
-    </item>
-    <item>
-      <title>A6 Torino-Savona</title>
-      <description>A6 Torino-Savona
- lavori  tra Svincolo Fossano e Svincolo Carru   in direzione Savona  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:18:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:18:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Pescara-Bari</title>
-      <description>A14 Pescara-Bari
- personale su strada causa lavori dalle 13:15 del 22 ottobre 2026  tra Svincolo Vasto Nord-Casalbordino e Svincolo Vasto Sud  in direzione Bari  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:17:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:17:00Z</dc:date>
-    </item>
-    <item>
-      <title>A4 Milano-Brescia</title>
-      <description>A4 Milano-Brescia
- traffico rallentato causa veicolo fermo o in avaria dalle 13:15 del 22 ottobre 2026  tra Allacciamento Fiorenza-Allacciamento A8(milano V.Le Certosa) e Svincolo Cormano  in direzione Brescia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:17:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:17:00Z</dc:date>
-    </item>
-    <item>
-      <title>A15 Parma-La Spezia</title>
-      <description>A15 Parma-La Spezia
- veicolo in avaria in uscita  a Allacciamento A12 Genova-Rosignano in direzione La Spezia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:17:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:17:00Z</dc:date>
-    </item>
-    <item>
-      <title>SP46 Strada Provinciale 46 di Cerreto</title>
-      <description>SP46 Strada Provinciale 46 di Cerreto
- obbligo catene a bordo o pneumatici da neve dalle 00:01 del 15 novembre 2026 alle 23:59 del 15 aprile 2027  a Strada Provinciale 76 della Valle d Esino  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:17:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:17:00Z</dc:date>
-    </item>
-    <item>
-      <title>Bari Via Dalmazia</title>
-      <description>Bari Via Dalmazia
- transito temporaneamente sospeso causa manifestazione dalle 06:00 del 17 ottobre 2026 alle 23:59 del 10 novembre 2026  tra Via Corfù e Via Egnatia   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:16:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:16:00Z</dc:date>
-    </item>
-    <item>
-      <title>A4 Milano-Brescia</title>
-      <description>A4 Milano-Brescia
- code causa traffico intenso dalle 13:13 del 22 ottobre 2026  a Svincolo Sesto San Giovanni-Viale Zara in direzione da Brescia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:15:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:15:00Z</dc:date>
-    </item>
-    <item>
-      <title>A7 Milano-Genova</title>
-      <description>A7 Milano-Genova
- code per 1 km causa traffico intenso  tra Barriera Di Milano e Allacciamento Tangenziale Ovest Di Milano  in direzione Milano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:14:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:14:00Z</dc:date>
-    </item>
-    <item>
-      <title>Bari Strada del Pantano</title>
-      <description>Bari Strada del Pantano
- transito temporaneamente sospeso causa manifestazione dalle 06:00 del 17 ottobre 2026 alle 23:59 del 10 novembre 2026  a Via Michelangelo Interesse  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:14:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:14:00Z</dc:date>
-    </item>
-    <item>
-      <title>SP44 Strada Provinciale di Castiglioni</title>
-      <description>SP44 Strada Provinciale di Castiglioni
- obbligo catene a bordo o pneumatici da neve dalle 00:01 del 15 novembre 2026 alle 23:59 del 15 aprile 2027  a SP44  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:14:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:14:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS36 Del Lago Di Como E Dello Spluga</title>
-      <description>SS36 Del Lago Di Como E Dello Spluga
- traffico rallentato causa materiali dispersi  a Incrocio Lecco (fine Ponte Kennedy) in direzione Incrocio Passo Dello Spluga/Confine Con La Svizzera  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:12:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:12:00Z</dc:date>
-    </item>
-    <item>
-      <title>A24 Roma-Teramo</title>
-      <description>A24 Roma-Teramo
- incidente dalle 13:07 del 22 ottobre 2026  a Barriera Di Roma Est in direzione Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:11:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:11:00Z</dc:date>
-    </item>
-    <item>
-      <title>A24 Roma-Teramo</title>
-      <description>A24 Roma-Teramo
- incidente dalle 13:08 del 22 ottobre 2026  a Area di servizio  Colle Tasso in direzione Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:09:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:09:00Z</dc:date>
-    </item>
-    <item>
-      <title>Bologna Via Zamboni</title>
-      <description>Bologna Via Zamboni
- manifestazione dalle 13:00 alle 18:00 del 22 ottobre 2026  a Via Zamboni  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:08:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:08:00Z</dc:date>
-    </item>
-    <item>
-      <title>SP53</title>
-      <description>SP53 
- tratto chiuso causa corsa ciclistica dalle 15:00 alle 15:30 del 24 ottobre 2026  tra Via Giacinto Macciò e Viale Milite Ignoto   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:06:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:06:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Bologna-Firenze</title>
-      <description>A1 Bologna-Firenze
- personale su strada causa lavori dalle 13:05 del 22 ottobre 2026  a Svincolo Sasso Marconi in direzione Firenze  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:06:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:06:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Bologna-Ancona</title>
-      <description>A14 Bologna-Ancona
- code a tratti causa traffico intenso dalle 13:03 del 22 ottobre 2026  tra Svincolo Bologna San Lazzaro e Allacciamento Ramo Casalecchio  in direzione autostrada Milano-Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:04:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:04:00Z</dc:date>
-    </item>
-    <item>
-      <title>A23 Palmanova-Tarvisio</title>
-      <description>A23 Palmanova-Tarvisio
- personale su strada dalle 13:03 del 22 ottobre 2026  tra Svincolo Pontebba e Svincolo Carnia  in direzione autostrada Torino-Trieste  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:04:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:04:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Milano-Bologna</title>
-      <description>A1 Milano-Bologna
- perdita di carico causa perdita accidentale dalle 13:01 del 22 ottobre 2026  tra Allacciamento A22 Modena-Brennero e Svincolo Modena Nord  in direzione Bologna  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:03:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:03:00Z</dc:date>
-    </item>
-    <item>
-      <title>A26 Genova-Gravellona Toce</title>
-      <description>A26 Genova-Gravellona Toce
- personale su strada causa lavori dalle 13:01 del 22 ottobre 2026  tra Allacciamento Diramazione Gallarate-Gattico e Svincolo Borgomanero  in direzione Genova Voltri  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:03:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:03:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS714 NSA343-NSA297 Tangenziale di Pescara</title>
-      <description>SS714 NSA343-NSA297 Tangenziale di Pescara
- veicolo in avaria  a Svincolo Pescara Sud - Francavilla al Mare Nord in direzione NSA297 Tangenziale di Pescara  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:02:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:02:00Z</dc:date>
-    </item>
-    <item>
-      <title>A24 Roma-Teramo</title>
-      <description>A24 Roma-Teramo
- veicolo fermo o in avaria dalle 13:00 del 22 ottobre 2026  a Svincolo Carsoli-Oricola  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:01:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:01:00Z</dc:date>
-    </item>
-    <item>
-      <title>A5 Torino-Courmayeur</title>
-      <description>A5 Torino-Courmayeur
- incidente causa imprecisate  a Svincolo Ivrea in direzione Courmayeur  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:01:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:01:00Z</dc:date>
-    </item>
-    <item>
-      <title>Roma Via Cavour</title>
-      <description>Roma Via Cavour
- manifestazione con corteo dalle 09:00 alle 11:30 del 23 ottobre 2026  a Via dei Serpenti  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:01:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:01:00Z</dc:date>
-    </item>
-    <item>
-      <title>TG-PR Tangenziale Di Parma (ss9)</title>
-      <description>TG-PR Tangenziale Di Parma (ss9)
- entrata chiusa, uscita chiusa causa lavori dalle 22:00 del 26 ottobre 2026 alle 06:00 del 6 novembre 2026  tra Svincolo Baganzola e Svincolo SS9 Via Emilia (direzione Pc)   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 11:00:00 GMT</pubDate>
-      <dc:date>2026-10-22T11:00:00Z</dc:date>
     </item>
   </channel>
 </rss>
