@@ -5,11 +5,123 @@
     <link>https://www.cciss.it</link>
     <description>Notizie di traffico, eventi e informazioni</description>
     <item>
-      <title>A14 Ancona-Pescara</title>
-      <description>A14 Ancona-Pescara
- personale su strada causa lavori dalle 01:34 del 23 ottobre 2026  tra Svincolo Loreto-Porto Recanati e Svincolo Ancona Sud  in direzione Ancona  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 23:36:00 GMT</pubDate>
-      <dc:date>2026-10-22T23:36:00Z</dc:date>
+      <title>A8 Milano-Varese</title>
+      <description>A8 Milano-Varese
+ personale su strada causa lavori dalle 02:00 del 23 ottobre 2026  tra Terminal 1 - Aeroporto Malpensa e Svincolo Busto Arsizio  in direzione Varese  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 23 Oct 2026 00:04:00 GMT</pubDate>
+      <dc:date>2026-10-23T00:04:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Roma-Napoli</title>
+      <description>A1 Roma-Napoli
+ personale su strada causa lavori dalle 02:01 del 23 ottobre 2026  tra Svincolo Frosinone e Svincolo Anagni - Fiuggi  in direzione Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 23 Oct 2026 00:04:00 GMT</pubDate>
+      <dc:date>2026-10-23T00:04:00Z</dc:date>
+    </item>
+    <item>
+      <title>A12 Roma-Civitavecchia</title>
+      <description>A12 Roma-Civitavecchia
+ personale su strada causa lavori dalle 02:01 del 23 ottobre 2026  tra Allacciamento A91 Roma-Fiumicino e Svincolo Maccarese-Fregene  in direzione S.s. 1 Aurelia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 23 Oct 2026 00:04:00 GMT</pubDate>
+      <dc:date>2026-10-23T00:04:00Z</dc:date>
+    </item>
+    <item>
+      <title>A14 Pescara-Bari</title>
+      <description>A14 Pescara-Bari
+ personale su strada causa lavori dalle 02:01 del 23 ottobre 2026  tra Svincolo Bitonto e Svincolo Molfetta  in direzione Pescara  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 23 Oct 2026 00:04:00 GMT</pubDate>
+      <dc:date>2026-10-23T00:04:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Milano-Bologna</title>
+      <description>A1 Milano-Bologna
+ veicolo fermo o in avaria dalle 01:52 del 23 ottobre 2026  tra Svincolo Modena Nord e Svincolo Modena Sud  in direzione Bologna  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 23:59:00 GMT</pubDate>
+      <dc:date>2026-10-22T23:59:00Z</dc:date>
+    </item>
+    <item>
+      <title>A14 Pescara-Bari</title>
+      <description>A14 Pescara-Bari
+ personale su strada causa lavori dalle 01:55 del 23 ottobre 2026  tra Svincolo Poggio Imperiale e Svincolo San Severo  in direzione Bari  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 23:57:00 GMT</pubDate>
+      <dc:date>2026-10-22T23:57:00Z</dc:date>
+    </item>
+    <item>
+      <title>A6 Torino-Savona</title>
+      <description>A6 Torino-Savona
+ lavori  tra Svincolo Fossano e Svincolo Marene - Interconnessione A33  in direzione Torino  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 23:57:00 GMT</pubDate>
+      <dc:date>2026-10-22T23:57:00Z</dc:date>
+    </item>
+    <item>
+      <title>A13 Bologna-Padova</title>
+      <description>A13 Bologna-Padova
+ personale su strada causa lavori dalle 01:54 del 23 ottobre 2026  tra Svincolo Terme Euganee e Svincolo Boara  in direzione Bologna  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 23:56:00 GMT</pubDate>
+      <dc:date>2026-10-22T23:56:00Z</dc:date>
+    </item>
+    <item>
+      <title>A14 Bologna-Ancona</title>
+      <description>A14 Bologna-Ancona
+ personale su strada causa lavori dalle 01:54 del 23 ottobre 2026  tra Svincolo Forli  e Svincolo Cesena Nord  in direzione Ancona  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 23:56:00 GMT</pubDate>
+      <dc:date>2026-10-22T23:56:00Z</dc:date>
+    </item>
+    <item>
+      <title>A13 Bologna-Padova</title>
+      <description>A13 Bologna-Padova
+ personale su strada causa lavori dalle 01:54 del 23 ottobre 2026  tra Svincolo Boara e Svincolo Terme Euganee  in direzione Padova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 23:56:00 GMT</pubDate>
+      <dc:date>2026-10-22T23:56:00Z</dc:date>
+    </item>
+    <item>
+      <title>A9 Lainate-Chiasso</title>
+      <description>A9 Lainate-Chiasso
+ personale su strada causa lavori dalle 01:54 del 23 ottobre 2026  tra Svincolo Lago di Como e Svincolo Como Centro  in direzione Lainate  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 23:55:00 GMT</pubDate>
+      <dc:date>2026-10-22T23:55:00Z</dc:date>
+    </item>
+    <item>
+      <title>A3 Napoli-Salerno</title>
+      <description>A3 Napoli-Salerno
+ pedoni dalle 01:53 del 23 ottobre 2026  tra Barriera Di Nocera Inferiore e Svincolo Cava De  Tirreni  in direzione Salerno  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 23:54:00 GMT</pubDate>
+      <dc:date>2026-10-22T23:54:00Z</dc:date>
+    </item>
+    <item>
+      <title>A4 Milano-Brescia</title>
+      <description>A4 Milano-Brescia
+ veicolo fermo o in avaria dalle 01:51 del 23 ottobre 2026  tra Allacciamento Tangenziale Est Di Milano e Svincolo Monza  in direzione Milano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 23:52:00 GMT</pubDate>
+      <dc:date>2026-10-22T23:52:00Z</dc:date>
+    </item>
+    <item>
+      <title>TG-PV Tangenziale Di Pavia</title>
+      <description>TG-PV Tangenziale Di Pavia
+ lavori  tra Svincolo SS35 Dei Giovi (direzione Milano) e Svincolo Pavia Nord  in direzione Svincolo Pavia Sud - SS35 Dei Giovi (direzione Genova)  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 23:52:00 GMT</pubDate>
+      <dc:date>2026-10-22T23:52:00Z</dc:date>
+    </item>
+    <item>
+      <title>A24 Roma-Teramo</title>
+      <description>A24 Roma-Teramo
+ veicolo fermo o in avaria dalle 01:47 del 23 ottobre 2026  tra Svincolo Val Vomano e Svincolo Teramo Ovest  in direzione Teramo  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 23:48:00 GMT</pubDate>
+      <dc:date>2026-10-22T23:48:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS1 Via Aurelia</title>
+      <description>SS1 Via Aurelia
+ carreggiata chiusa causa lavori di manutenzione  tra 4,23 km prima di Incrocio Vada e 4,572 km dopo Incrocio Cecina Sud - SS1 Var  in direzione Incrocio Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 23:48:00 GMT</pubDate>
+      <dc:date>2026-10-22T23:48:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Firenze-Roma</title>
+      <description>A1 Firenze-Roma
+ veicolo fermo o in avaria dalle 01:40 del 23 ottobre 2026  tra Svincolo Firenze Sud e Svincolo Incisa - Reggello  in direzione Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Thu, 22 Oct 2026 23:41:00 GMT</pubDate>
+      <dc:date>2026-10-22T23:41:00Z</dc:date>
     </item>
     <item>
       <title>A14 Pescara-Bari</title>
@@ -33,25 +145,11 @@
       <dc:date>2026-10-22T23:25:00Z</dc:date>
     </item>
     <item>
-      <title>A1 Firenze-Roma</title>
-      <description>A1 Firenze-Roma
- personale su strada causa lavori dalle 01:19 del 23 ottobre 2026  tra Svincolo Fabro e Svincolo Chiusi-Chianciano  in direzione Firenze  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 23:21:00 GMT</pubDate>
-      <dc:date>2026-10-22T23:21:00Z</dc:date>
-    </item>
-    <item>
       <title>R32 Raccordo Viterbo-Terni (rato)</title>
       <description>R32 Raccordo Viterbo-Terni (rato)
  veicolo in avaria  a Svincolo SS205 Amerina in direzione Terni (rato)  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Thu, 22 Oct 2026 23:18:00 GMT</pubDate>
       <dc:date>2026-10-22T23:18:00Z</dc:date>
-    </item>
-    <item>
-      <title>A8 Diramazione Per Gallarate-Gattico</title>
-      <description>A8 Diramazione Per Gallarate-Gattico
- personale su strada causa lavori dalle 01:12 del 23 ottobre 2026  tra Svincolo Sesto Calende-Vergiate e Svincolo Castelletto Ticino  in direzione A26 Genova Voltri-Gravellona Toce  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 23:13:00 GMT</pubDate>
-      <dc:date>2026-10-22T23:13:00Z</dc:date>
     </item>
     <item>
       <title>A10 Genova-Ventimiglia</title>
@@ -68,13 +166,6 @@
       <dc:date>2026-10-22T23:02:00Z</dc:date>
     </item>
     <item>
-      <title>A1 Firenze-Roma</title>
-      <description>A1 Firenze-Roma
- personale su strada causa lavori dalle 00:56 del 23 ottobre 2026  tra Allacciamento Diramazione Roma Nord e Svincolo Magliano Sabina  in direzione Firenze  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 22:58:00 GMT</pubDate>
-      <dc:date>2026-10-22T22:58:00Z</dc:date>
-    </item>
-    <item>
       <title>A55Dir Diramazione Per Moncalieri</title>
       <description>A55Dir Diramazione Per Moncalieri
  lavori  a Svincolo S.Paolo  &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -87,13 +178,6 @@
  lavori  tra 8,2 km prima di Svincolo Altare e 3,3 km dopo Svincolo Millesimo  in direzione Torino  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Thu, 22 Oct 2026 22:57:00 GMT</pubDate>
       <dc:date>2026-10-22T22:57:00Z</dc:date>
-    </item>
-    <item>
-      <title>A12 Genova-Rosignano</title>
-      <description>A12 Genova-Rosignano
- lavori  tra 4,06 km prima di Svincolo Carrodano e 330 m dopo Svincolo Deiva Marina  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 22:56:00 GMT</pubDate>
-      <dc:date>2026-10-22T22:56:00Z</dc:date>
     </item>
     <item>
       <title>A1 Firenze-Roma</title>
@@ -157,13 +241,6 @@
  strada chiusa causa lavori dalle 09:00 alle 12:00 del 26 ottobre 2026  tra Via del Porrione e Via Banchi Di Sotto   &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Thu, 22 Oct 2026 22:31:00 GMT</pubDate>
       <dc:date>2026-10-22T22:31:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS714 NSA343-NSA297 Tangenziale di Pescara</title>
-      <description>SS714 NSA343-NSA297 Tangenziale di Pescara
- traffico rallentato causa allagamento  tra 470 m dopo Svincolo Pescara Sud - Francavilla al Mare Nord e 234 m prima di Incrocio Francavilla al Mare   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 22:26:00 GMT</pubDate>
-      <dc:date>2026-10-22T22:26:00Z</dc:date>
     </item>
     <item>
       <title>A1 Roma-Napoli</title>
@@ -243,13 +320,6 @@
       <dc:date>2026-10-22T21:56:00Z</dc:date>
     </item>
     <item>
-      <title>TG-PV Tangenziale Di Pavia</title>
-      <description>TG-PV Tangenziale Di Pavia
- lavori  tra Svincolo Pavia Nord e Svincolo SS35 Dei Giovi (direzione Milano)  in direzione Svincolo SS35 Dei Giovi (direzione Milano)  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 21:55:00 GMT</pubDate>
-      <dc:date>2026-10-22T21:55:00Z</dc:date>
-    </item>
-    <item>
       <title>A30 Caserta-Salerno</title>
       <description>A30 Caserta-Salerno
  personale su strada causa lavori dalle 23:52 del 22 ottobre 2026  tra Svincolo Nocera Pagani e Svincolo Castel S. Giorgio  in direzione Salerno  &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -269,13 +339,6 @@
  corsia chiusa causa lavori di manutenzione  tra 2,598 km dopo Incrocio Variante Di Nuraminis e 3,826 km prima di Incrocio Variante Di Serrenti  in direzione Incrocio Porto Torres  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Thu, 22 Oct 2026 21:50:00 GMT</pubDate>
       <dc:date>2026-10-22T21:50:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Roma-Napoli</title>
-      <description>A1 Roma-Napoli
- personale su strada causa lavori dalle 23:45 del 22 ottobre 2026  tra Svincolo Frosinone e Svincolo Ceprano  in direzione Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 21:46:00 GMT</pubDate>
-      <dc:date>2026-10-22T21:46:00Z</dc:date>
     </item>
     <item>
       <title>A4 Torino-Milano</title>
@@ -628,13 +691,6 @@
       <dc:date>2026-10-22T20:21:00Z</dc:date>
     </item>
     <item>
-      <title>A10 Genova-Ventimiglia</title>
-      <description>A10 Genova-Ventimiglia
- lavori  tra 9,55 km prima di Svincolo Andora e 8,197 km dopo Svincolo Borghetto Santo Spirito  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 20:21:00 GMT</pubDate>
-      <dc:date>2026-10-22T20:21:00Z</dc:date>
-    </item>
-    <item>
       <title>A1 Roma-Napoli</title>
       <description>A1 Roma-Napoli
  rampa di accesso chiusa causa lavori dalle 22:18 del 22 alle 06:00 del 23 ottobre 2026  a Svincolo Anagni - Fiuggi  &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -647,62 +703,6 @@
  lavori  a Incrocio S.Egidio Alla Vibrata  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Thu, 22 Oct 2026 20:20:00 GMT</pubDate>
       <dc:date>2026-10-22T20:20:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Pescara-Bari</title>
-      <description>A14 Pescara-Bari
- pioggia dalle 20:04 del 22 ottobre 2026  tra Svincolo Teramo-Giulianova-Mosciano e Svincolo Poggio Imperiale   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 20:18:00 GMT</pubDate>
-      <dc:date>2026-10-22T20:18:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS84 Frentana</title>
-      <description>SS84 Frentana
- corsia chiusa  tra 9,44 km dopo Incrocio Corpi Santi e 4,74 km prima di Incrocio Casoli   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 20:18:00 GMT</pubDate>
-      <dc:date>2026-10-22T20:18:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS131 Carlo Felice</title>
-      <description>SS131 Carlo Felice
- corsia chiusa causa lavori di manutenzione  a Incrocio Variante Di Monastir in direzione Incrocio Cagliari  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 20:18:00 GMT</pubDate>
-      <dc:date>2026-10-22T20:18:00Z</dc:date>
-    </item>
-    <item>
-      <title>A55 Diramazione Per Pinerolo</title>
-      <description>A55 Diramazione Per Pinerolo
- chiusura nodo causa lavori  a Allacciamento Drosso - Allacciamento Tangenziale Sud Di Torino in direzione Svincolo Torino - Corso Orbassano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 20:17:00 GMT</pubDate>
-      <dc:date>2026-10-22T20:17:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Firenze-Roma</title>
-      <description>A1 Firenze-Roma
- area di servizio chiusa causa lavori dalle 22:04 del 22 alle 06:00 del 23 ottobre 2026  a Area di servizio  Flaminia in direzione Firenze  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 20:15:00 GMT</pubDate>
-      <dc:date>2026-10-22T20:15:00Z</dc:date>
-    </item>
-    <item>
-      <title>A9 Lainate-Chiasso</title>
-      <description>A9 Lainate-Chiasso
- problemi in area di servizio causa lavori dalle 22:12 del 22 ottobre 2026  a Area di servizio  Lario in direzione Lainate  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 20:14:00 GMT</pubDate>
-      <dc:date>2026-10-22T20:14:00Z</dc:date>
-    </item>
-    <item>
-      <title>A26 Genova-Gravellona Toce</title>
-      <description>A26 Genova-Gravellona Toce
- area di servizio chiusa causa lavori dalle 22:13 del 22 alle 06:00 del 23 ottobre 2026  a Area di servizio  Stura in direzione Genova Voltri  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 20:14:00 GMT</pubDate>
-      <dc:date>2026-10-22T20:14:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Milano-Bologna</title>
-      <description>A1 Milano-Bologna
- area di servizio chiusa causa lavori dalle 22:12 del 22 alle 05:00 del 23 ottobre 2026  a Area di servizio  San Zenone in direzione Milano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Thu, 22 Oct 2026 20:13:00 GMT</pubDate>
-      <dc:date>2026-10-22T20:13:00Z</dc:date>
     </item>
   </channel>
 </rss>
