@@ -5,6 +5,27 @@
     <link>https://www.cciss.it</link>
     <description>Notizie di traffico, eventi e informazioni</description>
     <item>
+      <title>A26 Genova-Gravellona Toce</title>
+      <description>A26 Genova-Gravellona Toce
+ personale su strada causa lavori dalle 04:31 del 25 ottobre 2026  tra Svincolo Masone e Svincolo Ovada  in direzione Gravellona Toce  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 25 Oct 2026 03:33:00 GMT</pubDate>
+      <dc:date>2026-10-25T03:33:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Milano-Bologna</title>
+      <description>A1 Milano-Bologna
+ personale su strada causa lavori dalle 04:30 del 25 ottobre 2026  tra Svincolo Reggio Emilia e Svincolo Modena Nord  in direzione Bologna  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 25 Oct 2026 03:31:00 GMT</pubDate>
+      <dc:date>2026-10-25T03:31:00Z</dc:date>
+    </item>
+    <item>
+      <title>A12 Genova-Rosignano</title>
+      <description>A12 Genova-Rosignano
+ personale su strada causa lavori dalle 04:16 del 25 ottobre 2026  tra Svincolo Chiavari e Svincolo Rapallo  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 25 Oct 2026 03:18:00 GMT</pubDate>
+      <dc:date>2026-10-25T03:18:00Z</dc:date>
+    </item>
+    <item>
       <title>A13 Bologna-Padova</title>
       <description>A13 Bologna-Padova
  veicolo fermo o in avaria dalle 02:24 del 25 ottobre 2026  tra Svincolo Bologna Interporto e Svincolo Altedo  in direzione Padova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -17,27 +38,6 @@
  mezzi spargisale in azione  tra 14,64 km dopo Incrocio Sondrio e 3,108 km prima di Incrocio Bagni Di Bormio   &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sun, 25 Oct 2026 03:04:00 GMT</pubDate>
       <dc:date>2026-10-25T03:04:00Z</dc:date>
-    </item>
-    <item>
-      <title>A10 Genova-Ventimiglia</title>
-      <description>A10 Genova-Ventimiglia
- materiali dispersi  a Svincolo Imperia Ovest in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 25 Oct 2026 03:03:00 GMT</pubDate>
-      <dc:date>2026-10-25T03:03:00Z</dc:date>
-    </item>
-    <item>
-      <title>A6 Torino-Savona</title>
-      <description>A6 Torino-Savona
- veicolo in avaria  a Svincolo Marene - Interconnessione A33 in direzione Savona  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 25 Oct 2026 02:47:00 GMT</pubDate>
-      <dc:date>2026-10-25T02:47:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Pescara-Bari</title>
-      <description>A14 Pescara-Bari
- personale su strada causa lavori dalle 03:31 del 25 ottobre 2026  tra Svincolo Lanciano e Svincolo Val Di Sangro  in direzione Bari  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 25 Oct 2026 02:34:00 GMT</pubDate>
-      <dc:date>2026-10-25T02:34:00Z</dc:date>
     </item>
     <item>
       <title>A5 Torino-Courmayeur</title>
@@ -63,13 +63,6 @@
     <item>
       <title>A14 Pescara-Bari</title>
       <description>A14 Pescara-Bari
- area di servizio chiusa causa lavori dalle 03:09 alle 06:00 del 25 ottobre 2026  a Area di servizio  Alento in direzione Pescara  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 25 Oct 2026 02:10:00 GMT</pubDate>
-      <dc:date>2026-10-25T02:10:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Pescara-Bari</title>
-      <description>A14 Pescara-Bari
  personale su strada causa lavori dalle 03:04 del 25 ottobre 2026  tra Svincolo Pescara Ovest-Chieti e Svincolo Ortona   &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sun, 25 Oct 2026 02:05:00 GMT</pubDate>
       <dc:date>2026-10-25T02:05:00Z</dc:date>
@@ -87,13 +80,6 @@
  personale su strada causa lavori dalle 02:56 del 25 ottobre 2026  tra Svincolo Frosinone e Svincolo Ceprano   &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sun, 25 Oct 2026 01:57:00 GMT</pubDate>
       <dc:date>2026-10-25T01:57:00Z</dc:date>
-    </item>
-    <item>
-      <title>A12 Genova-Rosignano</title>
-      <description>A12 Genova-Rosignano
- personale su strada dalle 02:31 del 25 ottobre 2026  tra Svincolo Lavagna e Svincolo Sestri Levante  in direzione Livorno  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 25 Oct 2026 01:33:00 GMT</pubDate>
-      <dc:date>2026-10-25T01:33:00Z</dc:date>
     </item>
     <item>
       <title>SS36 Del Lago Di Como E Dello Spluga</title>
@@ -117,13 +103,6 @@
       <dc:date>2026-10-25T01:05:00Z</dc:date>
     </item>
     <item>
-      <title>A1 Diramazione Roma Nord</title>
-      <description>A1 Diramazione Roma Nord
- veicolo fermo o in avaria dalle 01:55 del 25 ottobre 2026  tra Svincolo Fiano Romano e Svincolo Castelnuovo di Porto  in direzione G.r.a.  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 25 Oct 2026 01:03:00 GMT</pubDate>
-      <dc:date>2026-10-25T01:03:00Z</dc:date>
-    </item>
-    <item>
       <title>A14 Pescara-Bari</title>
       <description>A14 Pescara-Bari
  pioggia dalle 18:27 del 24 ottobre 2026  tra Svincolo Andria-Barletta e Svincolo Molfetta   &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -136,20 +115,6 @@
  ripristino incidente causa incidente dalle 14:01 del 22 ottobre 2026  tra Svincolo Treviso Nord e Allacciamento A28 Venezia-Belluno  in direzione Belluno  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sat, 24 Oct 2026 23:27:00 GMT</pubDate>
       <dc:date>2026-10-24T23:27:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Firenze-Roma</title>
-      <description>A1 Firenze-Roma
- veicolo fermo o in avaria dalle 00:48 del 25 ottobre 2026  tra Svincolo Ponzano Romano-Soratte e Svincolo Magliano Sabina  in direzione Firenze  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 24 Oct 2026 23:04:00 GMT</pubDate>
-      <dc:date>2026-10-24T23:04:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Roma-Napoli</title>
-      <description>A1 Roma-Napoli
- veicolo fermo o in avaria dalle 00:47 del 25 ottobre 2026  tra Allacciamento Diramazione Roma Sud e Svincolo Valmontone  in direzione Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 24 Oct 2026 22:49:00 GMT</pubDate>
-      <dc:date>2026-10-24T22:49:00Z</dc:date>
     </item>
     <item>
       <title>A1 Roma-Napoli</title>
@@ -185,13 +150,6 @@
  tratto chiuso causa lavori dalle 23:02 del 24 alle 06:00 del 25 ottobre 2026  tra Svincolo Como Nord e Svincolo Como Centro  in direzione Lainate  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sat, 24 Oct 2026 21:03:00 GMT</pubDate>
       <dc:date>2026-10-24T21:03:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Milano-Bologna</title>
-      <description>A1 Milano-Bologna
- tratto chiuso causa lavori dalle 22:16 del 24 alle 06:00 del 25 ottobre 2026  tra Svincolo Modena Nord e Svincolo Modena Sud  in direzione Bologna  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 24 Oct 2026 20:18:00 GMT</pubDate>
-      <dc:date>2026-10-24T20:18:00Z</dc:date>
     </item>
     <item>
       <title>A1 Roma-Napoli</title>
@@ -332,13 +290,6 @@
  strada chiusa causa manifestazione dalle 09:30 alle 10:15 del 1 novembre 2026  tra Piazza del Duomo e Via del Piave   &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sat, 24 Oct 2026 19:00:00 GMT</pubDate>
       <dc:date>2026-10-24T19:00:00Z</dc:date>
-    </item>
-    <item>
-      <title>A32 Torino-Bardonecchia</title>
-      <description>A32 Torino-Bardonecchia
- vento forte  tra Svincolo Avigliana Ovest e Svincolo Oulx Est   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 24 Oct 2026 18:51:00 GMT</pubDate>
-      <dc:date>2026-10-24T18:51:00Z</dc:date>
     </item>
     <item>
       <title>A1 Roma-Napoli</title>
@@ -703,6 +654,55 @@
  lavori dalle 08:00 del 22 ottobre 2026 alle 18:00 del 31 dicembre 2026  tra Ponte degli Alpini e Via Jacopo Tasso   &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sat, 24 Oct 2026 15:10:00 GMT</pubDate>
       <dc:date>2026-10-24T15:10:00Z</dc:date>
+    </item>
+    <item>
+      <title>Belluno Via Volontari della Libertà</title>
+      <description>Belluno Via Volontari della Libertà
+ senso unico alternato causa lavori dalle 17:07 del 26 alle 00:00 del 30 ottobre 2026  tra Piazzale della Stazione e Viale Giuseppe Fantuzzi   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 24 Oct 2026 15:07:00 GMT</pubDate>
+      <dc:date>2026-10-24T15:07:00Z</dc:date>
+    </item>
+    <item>
+      <title>Prato Via di Cantagallo</title>
+      <description>Prato Via di Cantagallo
+ lavori dalle 07:00 del 26 alle 18:00 del 30 ottobre 2026  a Via della Chiesa di Figline  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 24 Oct 2026 15:04:00 GMT</pubDate>
+      <dc:date>2026-10-24T15:04:00Z</dc:date>
+    </item>
+    <item>
+      <title>Lecce Via Vittorio Veneto</title>
+      <description>Lecce Via Vittorio Veneto
+ senso unico alternato causa lavori dalle 21:00 del 26 ottobre 2026 alle 07:00 del 10 novembre 2026  a Via Armando Diaz  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 24 Oct 2026 15:04:00 GMT</pubDate>
+      <dc:date>2026-10-24T15:04:00Z</dc:date>
+    </item>
+    <item>
+      <title>Belluno Via Cirvoi</title>
+      <description>Belluno Via Cirvoi
+ strada chiusa causa lavori dalle 08:00 del 27 ottobre 2026 alle 18:00 del 6 novembre 2026  tra Via Formazioni Partigiane e Via Libertà   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 24 Oct 2026 15:04:00 GMT</pubDate>
+      <dc:date>2026-10-24T15:04:00Z</dc:date>
+    </item>
+    <item>
+      <title>Belluno Via Formazioni Partigiane</title>
+      <description>Belluno Via Formazioni Partigiane
+ strada chiusa causa lavori dalle 08:00 del 27 ottobre 2026 alle 18:00 del 6 novembre 2026  tra Via Cirvoi e Via Col de Gou   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 24 Oct 2026 15:03:00 GMT</pubDate>
+      <dc:date>2026-10-24T15:03:00Z</dc:date>
+    </item>
+    <item>
+      <title>Lecce Via Luigi Cadorna</title>
+      <description>Lecce Via Luigi Cadorna
+ strada chiusa causa lavori dalle 21:00 del 26 ottobre 2026 alle 07:00 del 10 novembre 2026  a Via Armando Diaz  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 24 Oct 2026 14:59:00 GMT</pubDate>
+      <dc:date>2026-10-24T14:59:00Z</dc:date>
+    </item>
+    <item>
+      <title>A52 Tangenziale Nord Di Milano</title>
+      <description>A52 Tangenziale Nord Di Milano
+ chiusura notturna, uscita chiusa causa lavori dalle 22:00 del 26 alle 02:00 del 27 ottobre 2026  a Svincolo Sesto S.Giovanni Sud: Cologno M. in direzione Allacciamento Tangenziale Est Di Milano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 24 Oct 2026 14:56:00 GMT</pubDate>
+      <dc:date>2026-10-24T14:56:00Z</dc:date>
     </item>
   </channel>
 </rss>
