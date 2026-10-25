@@ -5,11 +5,46 @@
     <link>https://www.cciss.it</link>
     <description>Notizie di traffico, eventi e informazioni</description>
     <item>
+      <title>A1 Roma-Napoli</title>
+      <description>A1 Roma-Napoli
+ veicolo fermo o in avaria dalle 00:57 del 26 ottobre 2026  tra Svincolo Ferentino e Svincolo Anagni - Fiuggi  in direzione Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 25 Oct 2026 23:58:00 GMT</pubDate>
+      <dc:date>2026-10-25T23:58:00Z</dc:date>
+    </item>
+    <item>
       <title>A14 Bologna-Ancona</title>
       <description>A14 Bologna-Ancona
- personale su strada causa lavori dalle 00:31 del 26 ottobre 2026  tra Allacciamento Fano - Raccordo Per Fossombrone e Svincolo Marotta-Mondolfo  in direzione Ancona  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 25 Oct 2026 23:33:00 GMT</pubDate>
-      <dc:date>2026-10-25T23:33:00Z</dc:date>
+ veicolo fermo o in avaria dalle 00:42 del 26 ottobre 2026  tra Allacciamento Fano - Raccordo Per Fossombrone e Svincolo Marotta-Mondolfo  in direzione Ancona  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 25 Oct 2026 23:55:00 GMT</pubDate>
+      <dc:date>2026-10-25T23:55:00Z</dc:date>
+    </item>
+    <item>
+      <title>A27 Mestre-Belluno</title>
+      <description>A27 Mestre-Belluno
+ veicolo fermo o in avaria dalle 00:23 del 26 ottobre 2026  tra Allacciamento A28 Venezia-Belluno e Svincolo Treviso Nord  in direzione Venezia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 25 Oct 2026 23:43:00 GMT</pubDate>
+      <dc:date>2026-10-25T23:43:00Z</dc:date>
+    </item>
+    <item>
+      <title>A19 Palermo-Catania</title>
+      <description>A19 Palermo-Catania
+ traffico rallentato  a Svincolo Enna in direzione Palermo  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 25 Oct 2026 23:42:00 GMT</pubDate>
+      <dc:date>2026-10-25T23:42:00Z</dc:date>
+    </item>
+    <item>
+      <title>A6 Torino-Savona</title>
+      <description>A6 Torino-Savona
+ lavori  tra 6,4 km dopo Svincolo Altare e 6,534 km prima di Allacciamento Savona-Zinola-Vado-Allacciamento A10 Ge-Ventimiglia  in direzione Savona  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 25 Oct 2026 23:41:00 GMT</pubDate>
+      <dc:date>2026-10-25T23:41:00Z</dc:date>
+    </item>
+    <item>
+      <title>A6 Torino-Savona</title>
+      <description>A6 Torino-Savona
+ lavori  tra 7,55 km dopo Svincolo Altare e 1,684 km prima di Allacciamento Savona-Zinola-Vado-Allacciamento A10 Ge-Ventimiglia  in direzione Savona  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 25 Oct 2026 23:41:00 GMT</pubDate>
+      <dc:date>2026-10-25T23:41:00Z</dc:date>
     </item>
     <item>
       <title>A14 Bologna-Ancona</title>
@@ -31,27 +66,6 @@
  veicolo in avaria  a Svincolo Sanremo Ovest in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sun, 25 Oct 2026 23:27:00 GMT</pubDate>
       <dc:date>2026-10-25T23:27:00Z</dc:date>
-    </item>
-    <item>
-      <title>A27 Mestre-Belluno</title>
-      <description>A27 Mestre-Belluno
- veicolo fermo o in avaria dalle 00:23 del 26 ottobre 2026  tra Allacciamento A28 Venezia-Belluno e Svincolo Treviso Nord  in direzione Venezia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 25 Oct 2026 23:25:00 GMT</pubDate>
-      <dc:date>2026-10-25T23:25:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Pescara-Bari</title>
-      <description>A14 Pescara-Bari
- personale su strada causa lavori dalle 00:23 del 26 ottobre 2026  tra Svincolo Pescara N. Citta  S.Angelo e Allacciamento A25 Torano-Pescara  in direzione Bari  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 25 Oct 2026 23:24:00 GMT</pubDate>
-      <dc:date>2026-10-25T23:24:00Z</dc:date>
-    </item>
-    <item>
-      <title>A19 Palermo-Catania</title>
-      <description>A19 Palermo-Catania
- traffico rallentato causa incidente  a Svincolo Enna in direzione Palermo  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 25 Oct 2026 23:22:00 GMT</pubDate>
-      <dc:date>2026-10-25T23:22:00Z</dc:date>
     </item>
     <item>
       <title>A26 Genova-Gravellona Toce</title>
@@ -96,13 +110,6 @@
       <dc:date>2026-10-25T22:55:00Z</dc:date>
     </item>
     <item>
-      <title>A3 Napoli-Salerno</title>
-      <description>A3 Napoli-Salerno
- veicolo fermo o in avaria dalle 23:53 del 25 ottobre 2026  tra Svincolo Scafati e Svincolo Castellammare Di Stabia  in direzione Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 25 Oct 2026 22:55:00 GMT</pubDate>
-      <dc:date>2026-10-25T22:55:00Z</dc:date>
-    </item>
-    <item>
       <title>A23 Palmanova-Tarvisio</title>
       <description>A23 Palmanova-Tarvisio
  personale su strada dalle 23:42 del 25 ottobre 2026  tra Svincolo Carnia e Svincolo Pontebba  in direzione Tarvisio  &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -143,20 +150,6 @@
  trasporti eccezionali  tra 6,132 km dopo Incrocio Casello Valle Del Salto A24 Roma-Teramo e 190 m prima di Incrocio Cappelle - SS5 Tiburtina Valeria  in direzione Incrocio Cappelle - SS5 Tiburtina Valeria  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sun, 25 Oct 2026 22:30:00 GMT</pubDate>
       <dc:date>2026-10-25T22:30:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS36 Del Lago Di Como E Dello Spluga</title>
-      <description>SS36 Del Lago Di Como E Dello Spluga
- corsia chiusa causa incidente  a Incrocio Bellano in direzione Incrocio Passo Dello Spluga/Confine Con La Svizzera  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 25 Oct 2026 22:20:00 GMT</pubDate>
-      <dc:date>2026-10-25T22:20:00Z</dc:date>
-    </item>
-    <item>
-      <title>A24 Roma-Teramo</title>
-      <description>A24 Roma-Teramo
- animali sulla strada dalle 23:00 del 25 ottobre 2026  a Svincolo Vicovaro-Mandela  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 25 Oct 2026 22:01:00 GMT</pubDate>
-      <dc:date>2026-10-25T22:01:00Z</dc:date>
     </item>
     <item>
       <title>A1 Milano-Bologna</title>
@@ -374,13 +367,6 @@
  chiusura notturna, uscita chiusa causa lavori dalle 21:00 del 25 alle 05:30 del 26 ottobre 2026  a Svincolo Rotatoria Miranese in direzione Milano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sun, 25 Oct 2026 19:13:00 GMT</pubDate>
       <dc:date>2026-10-25T19:13:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Pescara-Bari</title>
-      <description>A14 Pescara-Bari
- personale su strada causa lavori dalle 20:03 del 25 ottobre 2026  tra Svincolo Pescara Ovest-Chieti e Svincolo Pescara Sud-Francavilla   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 25 Oct 2026 19:04:00 GMT</pubDate>
-      <dc:date>2026-10-25T19:04:00Z</dc:date>
     </item>
     <item>
       <title>A7 Raccordo Bereguardo-Pavia</title>
@@ -703,6 +689,20 @@
  senso unico alternato causa lavori dalle 08:00 alle 18:00 del 26 ottobre 2026  tra Incrocio La Foce e Incrocio S.Benedetto   &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sun, 25 Oct 2026 13:41:00 GMT</pubDate>
       <dc:date>2026-10-25T13:41:00Z</dc:date>
+    </item>
+    <item>
+      <title>Siena Via Sallustio Bandini</title>
+      <description>Siena Via Sallustio Bandini
+ strada chiusa causa lavori dalle 07:00 del 26 alle 18:00 del 31 ottobre 2026  tra Via delle Donzelle e Via di Follonica   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 25 Oct 2026 13:34:00 GMT</pubDate>
+      <dc:date>2026-10-25T13:34:00Z</dc:date>
+    </item>
+    <item>
+      <title>A52 Tangenziale Nord Di Milano</title>
+      <description>A52 Tangenziale Nord Di Milano
+ chiusura notturna, chiusura nodo causa lavori dalle 22:00 del 28 alle 05:00 del 29 ottobre 2026  a Allacciamento A4 Torino-Trieste in direzione A4-Torino provenendo da A8  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 25 Oct 2026 13:32:00 GMT</pubDate>
+      <dc:date>2026-10-25T13:32:00Z</dc:date>
     </item>
   </channel>
 </rss>
