@@ -82,13 +82,6 @@
       <dc:date>2026-10-31T21:03:00Z</dc:date>
     </item>
     <item>
-      <title>A14 Bologna-Ancona</title>
-      <description>A14 Bologna-Ancona
- tratto chiuso causa lavori dalle 22:01 del 31 ottobre 2026 alle 06:00 del 1 novembre 2026  tra Incrocio Viale Papiniano incrocio ZTL Via Tullio Servio e Svincolo Cesena  in direzione Bologna  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 31 Oct 2026 21:03:00 GMT</pubDate>
-      <dc:date>2026-10-31T21:03:00Z</dc:date>
-    </item>
-    <item>
       <title>A7 Milano-Genova</title>
       <description>A7 Milano-Genova
  tratto chiuso causa lavori dalle 22:01 del 31 ottobre 2026 alle 06:00 del 1 novembre 2026  tra Svincolo Ronco Scrivia e Svincolo Vignole Borbera  in direzione Milano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -551,25 +544,67 @@
       <dc:date>2026-10-31T17:01:00Z</dc:date>
     </item>
     <item>
-      <title>A5 Torino-Courmayeur</title>
-      <description>A5 Torino-Courmayeur
- mezzi spargisale in azione dalle 02:53 del 1 novembre 2026  tra Incrocio Controllo Merci AO / A5 e Svincolo A05-SS26DIR   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 01 Nov 2026 01:55:00 GMT</pubDate>
-      <dc:date>2026-11-01T01:55:00Z</dc:date>
+      <title>A55 Diramazione Per Pinerolo</title>
+      <description>A55 Diramazione Per Pinerolo
+ materiali dispersi  a Svincolo Orbassano in direzione Svincolo S.R. 23  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 01 Nov 2026 02:48:00 GMT</pubDate>
+      <dc:date>2026-11-01T02:48:00Z</dc:date>
     </item>
     <item>
-      <title>A12 Raccordo SGC FiPiLi</title>
-      <description>A12 Raccordo SGC FiPiLi
- veicolo contromano dalle 02:39 del 1 novembre 2026  tra Incrocio FiPiLi e Rotatoria Livorno Stagno   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 01 Nov 2026 01:42:00 GMT</pubDate>
-      <dc:date>2026-11-01T01:42:00Z</dc:date>
+      <title>A4 Torino-Milano</title>
+      <description>A4 Torino-Milano
+ incidente  a Svincolo Biandrate Vicolungo in direzione Torino  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 01 Nov 2026 02:48:00 GMT</pubDate>
+      <dc:date>2026-11-01T02:48:00Z</dc:date>
+    </item>
+    <item>
+      <title>TG-BO Tangenziale Di Bologna</title>
+      <description>TG-BO Tangenziale Di Bologna
+ veicolo fermo o in avaria dalle 03:37 del 1 novembre 2026  tra Svincolo Via Triumvirato e Svincolo 3 Allacciamento Ramo Verde-Via Emilia  in direzione autostrada Milano-Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 01 Nov 2026 02:48:00 GMT</pubDate>
+      <dc:date>2026-11-01T02:48:00Z</dc:date>
+    </item>
+    <item>
+      <title>A4 Milano-Brescia</title>
+      <description>A4 Milano-Brescia
+ veicoli scortati per maltempo causa verifica tecnica dalle 03:40 del 1 novembre 2026  tra Svincolo Sesto San Giovanni-Viale Zara e Svincolo Viale Monte Ceneri incrocio Viale Certosa  in direzione Torino  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 01 Nov 2026 02:43:00 GMT</pubDate>
+      <dc:date>2026-11-01T02:43:00Z</dc:date>
+    </item>
+    <item>
+      <title>A14 Bologna-Ancona</title>
+      <description>A14 Bologna-Ancona
+ personale su strada causa lavori dalle 03:40 del 1 novembre 2026  tra Svincolo Rimini Nord e Svincolo Cesena  in direzione Bologna  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 01 Nov 2026 02:42:00 GMT</pubDate>
+      <dc:date>2026-11-01T02:42:00Z</dc:date>
+    </item>
+    <item>
+      <title>A16 Napoli-Canosa</title>
+      <description>A16 Napoli-Canosa
+ veicolo fermo o in avaria dalle 03:18 del 1 novembre 2026  tra Svincolo Pomigliano D arco e Barriera Di Napoli Est  in direzione Canosa  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 01 Nov 2026 02:29:00 GMT</pubDate>
+      <dc:date>2026-11-01T02:29:00Z</dc:date>
+    </item>
+    <item>
+      <title>A13 Bologna-Padova</title>
+      <description>A13 Bologna-Padova
+ personale su strada causa lavori dalle 03:22 del 1 novembre 2026  tra Svincolo Rovigo Sud - Villa Marzana e Svincolo Occhiobello  in direzione Bologna  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 01 Nov 2026 02:24:00 GMT</pubDate>
+      <dc:date>2026-11-01T02:24:00Z</dc:date>
     </item>
     <item>
       <title>A4 Milano-Brescia</title>
       <description>A4 Milano-Brescia
  incidente dalle 01:10 del 1 novembre 2026  tra Svincolo Viale Monte Ceneri incrocio Viale Certosa e Svincolo Cormano  in direzione Brescia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 01 Nov 2026 01:41:00 GMT</pubDate>
-      <dc:date>2026-11-01T01:41:00Z</dc:date>
+      <pubDate>Sun, 01 Nov 2026 02:03:00 GMT</pubDate>
+      <dc:date>2026-11-01T02:03:00Z</dc:date>
+    </item>
+    <item>
+      <title>A5 Torino-Courmayeur</title>
+      <description>A5 Torino-Courmayeur
+ mezzi spargisale in azione dalle 02:53 del 1 novembre 2026  tra Incrocio Controllo Merci AO / A5 e Svincolo A05-SS26DIR   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 01 Nov 2026 01:55:00 GMT</pubDate>
+      <dc:date>2026-11-01T01:55:00Z</dc:date>
     </item>
     <item>
       <title>A14 Bologna-Ancona</title>
@@ -591,20 +626,6 @@
  pedoni dalle 02:32 del 1 novembre 2026  a Svincolo Bologna Fiera  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sun, 01 Nov 2026 01:33:00 GMT</pubDate>
       <dc:date>2026-11-01T01:33:00Z</dc:date>
-    </item>
-    <item>
-      <title>A4 Milano-Brescia</title>
-      <description>A4 Milano-Brescia
- pedoni dalle 02:32 del 1 novembre 2026  tra Svincolo Cormano e Svincolo Viale Monte Ceneri incrocio Viale Certosa  in direzione Torino  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 01 Nov 2026 01:33:00 GMT</pubDate>
-      <dc:date>2026-11-01T01:33:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Bologna-Ancona</title>
-      <description>A14 Bologna-Ancona
- veicolo fermo o in avaria dalle 02:29 del 1 novembre 2026  tra Svincolo Ancona Sud e Svincolo Ancona Nord  in direzione Bologna  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 01 Nov 2026 01:31:00 GMT</pubDate>
-      <dc:date>2026-11-01T01:31:00Z</dc:date>
     </item>
     <item>
       <title>SS1 Via Aurelia</title>
@@ -633,13 +654,6 @@
  traffico rallentato causa incidente  a Incrocio S.Giacomo Di Teglio  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sun, 01 Nov 2026 01:20:00 GMT</pubDate>
       <dc:date>2026-11-01T01:20:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Roma-Napoli</title>
-      <description>A1 Roma-Napoli
- veicolo fermo o in avaria dalle 01:56 del 1 novembre 2026  a Svincolo Valmontone in direzione da Firenze  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 01 Nov 2026 01:04:00 GMT</pubDate>
-      <dc:date>2026-11-01T01:04:00Z</dc:date>
     </item>
     <item>
       <title>A14 Pescara-Bari</title>
@@ -682,20 +696,6 @@
  lavori di manutenzione  tra 1,563 km dopo Svincolo 2a: Trionfale e 3,603 km prima di Svincolo 4: Ospedale S.Andrea  in direzione Salaria  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sun, 01 Nov 2026 00:04:00 GMT</pubDate>
       <dc:date>2026-11-01T00:04:00Z</dc:date>
-    </item>
-    <item>
-      <title>A12 Genova-Rosignano</title>
-      <description>A12 Genova-Rosignano
- area di servizio chiusa causa tratto chiuso dalle 01:01 alle 04:00 del 1 novembre 2026  a Area di servizio  Riviera in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 01 Nov 2026 00:03:00 GMT</pubDate>
-      <dc:date>2026-11-01T00:03:00Z</dc:date>
-    </item>
-    <item>
-      <title>A12 Genova-Rosignano</title>
-      <description>A12 Genova-Rosignano
- tratto chiuso causa lavori dalle 01:01 alle 04:00 del 1 novembre 2026  tra Svincolo Sestri Levante e Svincolo Lavagna  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 01 Nov 2026 00:02:00 GMT</pubDate>
-      <dc:date>2026-11-01T00:02:00Z</dc:date>
     </item>
     <item>
       <title>A14 Pescara-Bari</title>
