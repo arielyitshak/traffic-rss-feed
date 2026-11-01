@@ -40,13 +40,6 @@
       <dc:date>2026-10-31T22:04:00Z</dc:date>
     </item>
     <item>
-      <title>A1 Firenze-Roma</title>
-      <description>A1 Firenze-Roma
- veicolo fermo o in avaria dalle 22:36 del 31 ottobre 2026  tra Svincolo Guidonia - Montecelio e Allacciamento Diramazione Roma Nord  in direzione Firenze  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 31 Oct 2026 21:41:00 GMT</pubDate>
-      <dc:date>2026-10-31T21:41:00Z</dc:date>
-    </item>
-    <item>
       <title>ROMA</title>
       <description>ROMA 
  restrizioni alla circolazione causa ztl "fascia verde"  blocco ecologico della circolazione  per i veicoli più inquinanti dalle 00:01 del 1 novembre 2026 alle 23:59 del 31 ottobre 2027  a FASCIA VERDE (ZTL) in direzione intera zona traffico limitato  &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -537,11 +530,74 @@
       <dc:date>2026-10-31T17:06:00Z</dc:date>
     </item>
     <item>
-      <title>Torino Via Albisola</title>
-      <description>Torino Via Albisola
- lavori dalle 08:00 del 2 novembre 2026 alle 17:00 del 12 dicembre 2026  tra Via Montevideo e Via Madonna delle Rose   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 31 Oct 2026 17:01:00 GMT</pubDate>
-      <dc:date>2026-10-31T17:01:00Z</dc:date>
+      <title>A4 Milano-Brescia</title>
+      <description>A4 Milano-Brescia
+ veicolo fermo o in avaria dalle 04:29 del 1 novembre 2026  tra Svincolo Cormano e Svincolo Sesto San Giovanni-Viale Zara  in direzione Brescia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 01 Nov 2026 03:31:00 GMT</pubDate>
+      <dc:date>2026-11-01T03:31:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS3bis Bis tiberina (e45)</title>
+      <description>SS3bis Bis tiberina (e45)
+ corsia chiusa causa veicolo in avaria  a Incrocio Sarsina Sud in direzione Incrocio Viterbo-Terni  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 01 Nov 2026 03:30:00 GMT</pubDate>
+      <dc:date>2026-11-01T03:30:00Z</dc:date>
+    </item>
+    <item>
+      <title>A24 Roma-Teramo</title>
+      <description>A24 Roma-Teramo
+ veicolo fermo o in avaria dalle 04:26 del 1 novembre 2026  tra Svincolo Carsoli-Oricola e Svincolo Vicovaro-Mandela  in direzione Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 01 Nov 2026 03:28:00 GMT</pubDate>
+      <dc:date>2026-11-01T03:28:00Z</dc:date>
+    </item>
+    <item>
+      <title>A55 Tangenziale Sud Di Torino</title>
+      <description>A55 Tangenziale Sud Di Torino
+ veicolo in avaria  a Svincolo Autoporto S.I.T.O. in direzione Svincolo Santena - A21 Torino-Brescia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 01 Nov 2026 03:21:00 GMT</pubDate>
+      <dc:date>2026-11-01T03:21:00Z</dc:date>
+    </item>
+    <item>
+      <title>A55 Tangenziale Sud Di Torino</title>
+      <description>A55 Tangenziale Sud Di Torino
+ veicolo in avaria  a Svincolo Debouche  in direzione Allacciamento Interconnessione Tangenziale Nord  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 01 Nov 2026 03:21:00 GMT</pubDate>
+      <dc:date>2026-11-01T03:21:00Z</dc:date>
+    </item>
+    <item>
+      <title>A24 Roma-Teramo</title>
+      <description>A24 Roma-Teramo
+ incidente dalle 04:19 del 1 novembre 2026  tra Svincolo Tornimparte e Svincolo L aquila Ovest  in direzione Teramo  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 01 Nov 2026 03:20:00 GMT</pubDate>
+      <dc:date>2026-11-01T03:20:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Roma-Napoli</title>
+      <description>A1 Roma-Napoli
+ pioggia dalle 04:15 del 1 novembre 2026  tra Svincolo Frosinone e Svincolo San Vittore   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 01 Nov 2026 03:17:00 GMT</pubDate>
+      <dc:date>2026-11-01T03:17:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS18 Tirrena Inferiore</title>
+      <description>SS18 Tirrena Inferiore
+ animali morti  a Incrocio Belvedere Marittimo/Svincolo SS105 Di Castrovillari in direzione Incrocio Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 01 Nov 2026 03:14:00 GMT</pubDate>
+      <dc:date>2026-11-01T03:14:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Firenze-Roma</title>
+      <description>A1 Firenze-Roma
+ veicolo fermo o in avaria dalle 22:36 del 31 ottobre 2026  tra Svincolo Ponzano Romano-Soratte e Svincolo Magliano Sabina  in direzione Firenze  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 01 Nov 2026 03:04:00 GMT</pubDate>
+      <dc:date>2026-11-01T03:04:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS1 Via Aurelia</title>
+      <description>SS1 Via Aurelia
+ lavori di manutenzione  a Incrocio Ressora  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 01 Nov 2026 02:58:00 GMT</pubDate>
+      <dc:date>2026-11-01T02:58:00Z</dc:date>
     </item>
     <item>
       <title>A55 Diramazione Per Pinerolo</title>
@@ -558,20 +614,6 @@
       <dc:date>2026-11-01T02:48:00Z</dc:date>
     </item>
     <item>
-      <title>TG-BO Tangenziale Di Bologna</title>
-      <description>TG-BO Tangenziale Di Bologna
- veicolo fermo o in avaria dalle 03:37 del 1 novembre 2026  tra Svincolo Via Triumvirato e Svincolo 3 Allacciamento Ramo Verde-Via Emilia  in direzione autostrada Milano-Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 01 Nov 2026 02:48:00 GMT</pubDate>
-      <dc:date>2026-11-01T02:48:00Z</dc:date>
-    </item>
-    <item>
-      <title>A4 Milano-Brescia</title>
-      <description>A4 Milano-Brescia
- veicoli scortati per maltempo causa verifica tecnica dalle 03:40 del 1 novembre 2026  tra Svincolo Sesto San Giovanni-Viale Zara e Svincolo Viale Monte Ceneri incrocio Viale Certosa  in direzione Torino  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 01 Nov 2026 02:43:00 GMT</pubDate>
-      <dc:date>2026-11-01T02:43:00Z</dc:date>
-    </item>
-    <item>
       <title>A14 Bologna-Ancona</title>
       <description>A14 Bologna-Ancona
  personale su strada causa lavori dalle 03:40 del 1 novembre 2026  tra Svincolo Rimini Nord e Svincolo Cesena  in direzione Bologna  &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -584,13 +626,6 @@
  veicolo fermo o in avaria dalle 03:18 del 1 novembre 2026  tra Svincolo Pomigliano D arco e Barriera Di Napoli Est  in direzione Canosa  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sun, 01 Nov 2026 02:29:00 GMT</pubDate>
       <dc:date>2026-11-01T02:29:00Z</dc:date>
-    </item>
-    <item>
-      <title>A13 Bologna-Padova</title>
-      <description>A13 Bologna-Padova
- personale su strada causa lavori dalle 03:22 del 1 novembre 2026  tra Svincolo Rovigo Sud - Villa Marzana e Svincolo Occhiobello  in direzione Bologna  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 01 Nov 2026 02:24:00 GMT</pubDate>
-      <dc:date>2026-11-01T02:24:00Z</dc:date>
     </item>
     <item>
       <title>A4 Milano-Brescia</title>
@@ -607,13 +642,6 @@
       <dc:date>2026-11-01T01:55:00Z</dc:date>
     </item>
     <item>
-      <title>A14 Bologna-Ancona</title>
-      <description>A14 Bologna-Ancona
- incidente dalle 02:20 del 1 novembre 2026  a Svincolo Bologna Fiera  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 01 Nov 2026 01:40:00 GMT</pubDate>
-      <dc:date>2026-11-01T01:40:00Z</dc:date>
-    </item>
-    <item>
       <title>A27 Mestre-Belluno</title>
       <description>A27 Mestre-Belluno
  pioggia dalle 02:38 del 1 novembre 2026  tra Allacciamento A57 Torino-Trieste/Raccordo Per Tessera e Allacciamento A28 Venezia-Belluno   &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -621,39 +649,11 @@
       <dc:date>2026-11-01T01:40:00Z</dc:date>
     </item>
     <item>
-      <title>A14 Bologna-Ancona</title>
-      <description>A14 Bologna-Ancona
- pedoni dalle 02:32 del 1 novembre 2026  a Svincolo Bologna Fiera  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 01 Nov 2026 01:33:00 GMT</pubDate>
-      <dc:date>2026-11-01T01:33:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS1 Via Aurelia</title>
-      <description>SS1 Via Aurelia
- incidente  a Incrocio Ressora  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 01 Nov 2026 01:30:00 GMT</pubDate>
-      <dc:date>2026-11-01T01:30:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Pescara-Bari</title>
-      <description>A14 Pescara-Bari
- veicolo fermo o in avaria dalle 02:24 del 1 novembre 2026  tra Svincolo Termoli-Molise e Svincolo Poggio Imperiale  in direzione Bari  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 01 Nov 2026 01:29:00 GMT</pubDate>
-      <dc:date>2026-11-01T01:29:00Z</dc:date>
-    </item>
-    <item>
       <title>A4 Milano-Brescia</title>
       <description>A4 Milano-Brescia
  veicolo fermo o in avaria dalle 02:23 del 1 novembre 2026  tra Svincolo Viale Monte Ceneri incrocio Viale Certosa e Svincolo Cormano  in direzione Brescia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sun, 01 Nov 2026 01:25:00 GMT</pubDate>
       <dc:date>2026-11-01T01:25:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS38 Dello Stelvio</title>
-      <description>SS38 Dello Stelvio
- traffico rallentato causa incidente  a Incrocio S.Giacomo Di Teglio  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 01 Nov 2026 01:20:00 GMT</pubDate>
-      <dc:date>2026-11-01T01:20:00Z</dc:date>
     </item>
     <item>
       <title>A14 Pescara-Bari</title>
