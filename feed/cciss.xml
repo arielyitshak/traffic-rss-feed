@@ -5,11 +5,242 @@
     <link>https://www.cciss.it</link>
     <description>Notizie di traffico, eventi e informazioni</description>
     <item>
-      <title>A14 Pescara-Bari</title>
-      <description>A14 Pescara-Bari
- veicolo fermo o in avaria dalle 23:02 del 6 novembre 2026  tra Svincolo Vasto Sud e Svincolo Termoli-Molise  in direzione Bari  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 22:09:00 GMT</pubDate>
-      <dc:date>2026-11-06T22:09:00Z</dc:date>
+      <title>A11 Diramazione Lucca-Viareggio</title>
+      <description>A11 Diramazione Lucca-Viareggio
+ lavori  tra 3,798 km prima di Svincolo Massarosa e 7,045 km dopo Svincolo Lucca S.Donato  in direzione Diramazione Lucca  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:57:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:57:00Z</dc:date>
+    </item>
+    <item>
+      <title>A4 Milano-Brescia</title>
+      <description>A4 Milano-Brescia
+ code causa traffico intenso dalle 23:50 del 6 novembre 2026  tra Svincolo Cormano e Svincolo Sesto San Giovanni-Viale Zara  in direzione Brescia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:55:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:55:00Z</dc:date>
+    </item>
+    <item>
+      <title>A8 Milano-Varese</title>
+      <description>A8 Milano-Varese
+ pioggia dalle 23:52 del 6 novembre 2026  tra Allacciamento Fiorenza-Allacciamento A4 (milano V.Le Certosa) e Svincolo Gallarate   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:53:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:53:00Z</dc:date>
+    </item>
+    <item>
+      <title>A4 Brescia-Padova</title>
+      <description>A4 Brescia-Padova
+ pioggia dalle 23:51 del 6 novembre 2026  tra Svincolo Cavenago e Allacciamento Interconnessione A21   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:52:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:52:00Z</dc:date>
+    </item>
+    <item>
+      <title>A26 Genova-Gravellona Toce</title>
+      <description>A26 Genova-Gravellona Toce
+ veicolo fermo o in avaria dalle 23:39 del 6 novembre 2026  tra Svincolo Ovada e Allacciamento Diram. Predosa-Bettole  in direzione Gravellona Toce  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:52:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:52:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Roma-Napoli</title>
+      <description>A1 Roma-Napoli
+ personale su strada causa lavori dalle 23:50 del 6 novembre 2026  tra Svincolo Frosinone e Svincolo Ceprano  in direzione Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:52:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:52:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Milano-Bologna</title>
+      <description>A1 Milano-Bologna
+ pioggia dalle 23:51 del 6 novembre 2026  tra Allacciamento Milano-Tangenziale Est e Svincolo Terre di Canossa - Campegine   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:52:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:52:00Z</dc:date>
+    </item>
+    <item>
+      <title>SP370 Via Litoranea</title>
+      <description>SP370 Via Litoranea
+ senso unico alternato causa lavori dalle 07:00 del 11 alle 18:00 del 20 novembre 2026  tra Strada Provinciale dei Santuari e Via delle Cinque Terre   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:48:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:48:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Firenze-Roma</title>
+      <description>A1 Firenze-Roma
+ veicolo fermo o in avaria dalle 23:47 del 6 novembre 2026  tra Svincolo Valdarno e Svincolo Arezzo  in direzione Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:48:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:48:00Z</dc:date>
+    </item>
+    <item>
+      <title>A14 Ancona-Pescara</title>
+      <description>A14 Ancona-Pescara
+ personale su strada causa lavori dalle 23:46 del 6 novembre 2026  tra Svincolo Macerata e Svincolo Porto Sant Elpidio  in direzione Pescara  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:48:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:48:00Z</dc:date>
+    </item>
+    <item>
+      <title>A26 Genova-Gravellona Toce</title>
+      <description>A26 Genova-Gravellona Toce
+ personale su strada causa lavori dalle 23:44 del 6 novembre 2026  tra Svincolo Casale Monferrato Sud e Svincolo Casale Monferrato Nord  in direzione Gravellona Toce  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:46:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:46:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Roma-Napoli</title>
+      <description>A1 Roma-Napoli
+ personale su strada causa lavori dalle 23:40 del 6 novembre 2026  tra Svincolo Ferentino e Svincolo Frosinone  in direzione Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:42:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:42:00Z</dc:date>
+    </item>
+    <item>
+      <title>A4 Torino-Milano</title>
+      <description>A4 Torino-Milano
+ pioggia  tra Svincolo Torino - Corso Giulio Cesare e Svincolo Pero - Diramazione Molino Dorino   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:42:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:42:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Complanare di Piacenza</title>
+      <description>A1 Complanare di Piacenza
+ personale su strada causa lavori dalle 23:38 del 6 novembre 2026  tra Svincolo Nodo A1/A21 km 58 e Svincolo Nodo A21/A1 Brescia  in direzione Piacenza Sud A21 Torino-Brescia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:39:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:39:00Z</dc:date>
+    </item>
+    <item>
+      <title>SP122 Strada Provinciale 122 di Fontaneto</title>
+      <description>SP122 Strada Provinciale 122 di Fontaneto
+ senso unico alternato causa lavori dalle 00:01 del 9 alle 23:59 del 28 novembre 2026  tra Autostrada dei Trafori e Via Cascinetto   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:38:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:38:00Z</dc:date>
+    </item>
+    <item>
+      <title>A15 Parma-La Spezia</title>
+      <description>A15 Parma-La Spezia
+ pioggia  tra 6,8 km dopo Svincolo Berceto e Allacciamento A12 Genova-Rosignano   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:37:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:37:00Z</dc:date>
+    </item>
+    <item>
+      <title>A15 Parma-La Spezia</title>
+      <description>A15 Parma-La Spezia
+ nebbia a banchi  tra Svincolo Berceto e 20,6 km prima di Svincolo Pontremoli   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:37:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:37:00Z</dc:date>
+    </item>
+    <item>
+      <title>A13 Bologna-Padova</title>
+      <description>A13 Bologna-Padova
+ pioggia dalle 13:05 del 6 novembre 2026  tra Svincolo Altedo e Allacciamento A4 Torino-Trieste   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:36:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:36:00Z</dc:date>
+    </item>
+    <item>
+      <title>A13 Bologna-Padova</title>
+      <description>A13 Bologna-Padova
+ veicolo fermo o in avaria dalle 23:19 del 6 novembre 2026  a Svincolo Bologna Arcoveggio-Raccordo Per La Tangenziale  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:35:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:35:00Z</dc:date>
+    </item>
+    <item>
+      <title>A26 Genova-Gravellona Toce</title>
+      <description>A26 Genova-Gravellona Toce
+ veicolo fermo o in avaria dalle 22:57 del 6 novembre 2026  tra Svincolo Alessandria Sud e Allacciamento Diram. Predosa-Bettole  in direzione Genova Voltri  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:34:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:34:00Z</dc:date>
+    </item>
+    <item>
+      <title>SP50 Strada Provinciale 50 Via IV novembre</title>
+      <description>SP50 Strada Provinciale 50 Via IV novembre
+ senso unico alternato causa lavori dalle 00:01 del 9 alle 23:59 del 17 novembre 2026  tra SP50 e Via IV Novembre   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:32:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:32:00Z</dc:date>
+    </item>
+    <item>
+      <title>A27 Mestre-Belluno</title>
+      <description>A27 Mestre-Belluno
+ pioggia dalle 23:15 del 6 novembre 2026  tra Allacciamento A57 Torino-Trieste/Raccordo Per Tessera e Svincolo Pian Di Vedoia-SS51 Di Alemagna   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:27:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:27:00Z</dc:date>
+    </item>
+    <item>
+      <title>SP155(CN) Busca-Savigliano</title>
+      <description>SP155(CN) Busca-Savigliano
+ tratto chiuso causa lavori dalle 08:00 del 9 alle 18:00 del 11 novembre 2026  tra Incrocio SP161-Villafaletto e Incrocio SP25-Villafalletto   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:26:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:26:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS130 Iglesiente</title>
+      <description>SS130 Iglesiente
+ corsia chiusa causa lavori  tra 5,946 km dopo Incrocio Domusnovas e 2,918 km prima di Incrocio Iglesias  in direzione Incrocio Iglesias - SS126 Sud Occidentale Sarda  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:26:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:26:00Z</dc:date>
+    </item>
+    <item>
+      <title>A4 Padova-Venezia</title>
+      <description>A4 Padova-Venezia
+ chiusura notturna, entrata chiusa causa lavori dalle 21:30 del 6 alle 05:30 del 7 novembre 2026  a Svincolo Spinea in direzione Trieste  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:26:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:26:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Diramazione Roma Sud</title>
+      <description>A1 Diramazione Roma Sud
+ personale su strada causa lavori dalle 23:22 del 6 novembre 2026  tra Svincolo Torrenova e Allacciamento A90-GRA  in direzione G.r.a.  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:24:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:24:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Bologna-Firenze</title>
+      <description>A1 Bologna-Firenze
+ rampa di accesso chiusa causa lavori dalle 23:23 del 6 alle 04:00 del 7 novembre 2026  a Svincolo Rioveggio in direzione Firenze  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:24:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:24:00Z</dc:date>
+    </item>
+    <item>
+      <title>A14 Ancona-Pescara</title>
+      <description>A14 Ancona-Pescara
+ personale su strada causa lavori dalle 23:21 del 6 novembre 2026  tra Svincolo Grottammare e Svincolo San Benedetto Del Tronto   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:22:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:22:00Z</dc:date>
+    </item>
+    <item>
+      <title>A56 Tangenziale Di Napoli</title>
+      <description>A56 Tangenziale Di Napoli
+ personale su strada dalle 23:19 del 6 novembre 2026  tra Svincolo Pozzuoli-SS7 Quater - SS Domitiana e Svincolo Pozzuoli Arco Felice - Cuma  in direzione allacciamento diramazione Capodichino  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:21:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:21:00Z</dc:date>
+    </item>
+    <item>
+      <title>A15 Parma-La Spezia</title>
+      <description>A15 Parma-La Spezia
+ pioggia  tra Allacciamento A1 Milano-Napoli e Svincolo Borgotaro   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:20:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:20:00Z</dc:date>
+    </item>
+    <item>
+      <title>A8 Milano-Varese</title>
+      <description>A8 Milano-Varese
+ tratto chiuso causa lavori dalle 23:16 del 6 alle 06:00 del 7 novembre 2026  tra Allacciamento Tangenziale Ovest Di Milano e Allacciamento Fiorenza-Allacciamento A4 (milano V.Le Certosa)  in direzione Milano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:18:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:18:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Roma-Napoli</title>
+      <description>A1 Roma-Napoli
+ rampa di accesso chiusa causa lavori dalle 23:13 del 6 alle 06:00 del 7 novembre 2026  a Svincolo Ceprano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:15:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:15:00Z</dc:date>
+    </item>
+    <item>
+      <title>A30 Caserta-Salerno</title>
+      <description>A30 Caserta-Salerno
+ uscita chiusa causa lavori dalle 22:00 del 6 alle 06:00 del 7 novembre 2026  a Svincolo Nola  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:14:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:14:00Z</dc:date>
+    </item>
+    <item>
+      <title>A30 Caserta-Salerno</title>
+      <description>A30 Caserta-Salerno
+ rampa di accesso chiusa causa lavori dalle 22:00 del 6 alle 06:00 del 7 novembre 2026  a Svincolo Nola  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Fri, 06 Nov 2026 22:14:00 GMT</pubDate>
+      <dc:date>2026-11-06T22:14:00Z</dc:date>
     </item>
     <item>
       <title>A10 Genova-Ventimiglia</title>
@@ -54,13 +285,6 @@
       <dc:date>2026-11-06T22:04:00Z</dc:date>
     </item>
     <item>
-      <title>A13 Bologna-Padova</title>
-      <description>A13 Bologna-Padova
- pioggia dalle 13:05 del 6 novembre 2026  tra Svincolo Bologna Interporto e Svincolo Rovigo   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 22:04:00 GMT</pubDate>
-      <dc:date>2026-11-06T22:04:00Z</dc:date>
-    </item>
-    <item>
       <title>SP121 Via Giovanni Falcone</title>
       <description>SP121 Via Giovanni Falcone
  tratto chiuso causa lavori dalle 07:00 del 9 alle 19:00 del 10 novembre 2026  tra SP121 e Via San Giacomo   &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -84,13 +308,6 @@
     <item>
       <title>A1 Diramazione Roma Sud</title>
       <description>A1 Diramazione Roma Sud
- personale su strada causa ripristino incidente dalle 22:59 del 6 novembre 2026  tra Svincolo Monteporzio e Svincolo San Cesareo  in direzione autostrada Milano-Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 22:01:00 GMT</pubDate>
-      <dc:date>2026-11-06T22:01:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Diramazione Roma Sud</title>
-      <description>A1 Diramazione Roma Sud
  ripristino incidente causa veicolo in fiamme dalle 22:58 del 6 novembre 2026  tra Svincolo Monteporzio e Svincolo San Cesareo  in direzione autostrada Milano-Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Fri, 06 Nov 2026 22:00:00 GMT</pubDate>
       <dc:date>2026-11-06T22:00:00Z</dc:date>
@@ -101,13 +318,6 @@
  veicolo fermo o in avaria dalle 22:51 del 6 novembre 2026  tra Svincolo Vittorio Veneto Nord e Svincolo Fadalto-Lago Di S.Croce  in direzione Belluno  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Fri, 06 Nov 2026 22:00:00 GMT</pubDate>
       <dc:date>2026-11-06T22:00:00Z</dc:date>
-    </item>
-    <item>
-      <title>A26 Genova-Gravellona Toce</title>
-      <description>A26 Genova-Gravellona Toce
- veicolo fermo o in avaria dalle 22:57 del 6 novembre 2026  tra Svincolo Alessandria Sud e Allacciamento Diram. Predosa-Bettole  in direzione Genova Voltri  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 21:59:00 GMT</pubDate>
-      <dc:date>2026-11-06T21:59:00Z</dc:date>
     </item>
     <item>
       <title>A1 Roma-Napoli</title>
@@ -145,13 +355,6 @@
       <dc:date>2026-11-06T21:51:00Z</dc:date>
     </item>
     <item>
-      <title>A26 Genova-Gravellona Toce</title>
-      <description>A26 Genova-Gravellona Toce
- veicolo fermo o in avaria dalle 22:45 del 6 novembre 2026  tra Allacciamento A10 Genova-Ventimiglia e Svincolo Masone  in direzione Gravellona Toce  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 21:47:00 GMT</pubDate>
-      <dc:date>2026-11-06T21:47:00Z</dc:date>
-    </item>
-    <item>
       <title>SS251 Della Val Di Zoldo E Val Cellina</title>
       <description>SS251 Della Val Di Zoldo E Val Cellina
  senso unico alternato causa lavori dalle 08:30 del 10 alle 19:00 del 11 novembre 2026  tra Incrocio Montereale Valcellina e Incrocio Barcis   &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -166,41 +369,6 @@
       <dc:date>2026-11-06T21:47:00Z</dc:date>
     </item>
     <item>
-      <title>A56 Tangenziale Di Napoli</title>
-      <description>A56 Tangenziale Di Napoli
- personale su strada causa lavori dalle 22:41 del 6 novembre 2026  tra Svincolo Vomero e Svincolo Agnano  in direzione Pozzuoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 21:42:00 GMT</pubDate>
-      <dc:date>2026-11-06T21:42:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS198 Di Seui E Lanusei</title>
-      <description>SS198 Di Seui E Lanusei
- corsia chiusa causa lavori di manutenzione  tra 4,235 km dopo Incrocio Nurri e 2,311 km prima di Incrocio Staz. Villanovatulo   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 21:42:00 GMT</pubDate>
-      <dc:date>2026-11-06T21:42:00Z</dc:date>
-    </item>
-    <item>
-      <title>A23 Palmanova-Tarvisio</title>
-      <description>A23 Palmanova-Tarvisio
- veicolo in fiamme dalle 22:23 del 6 novembre 2026  tra Barriera Di Ugovizza-Tarvisio e Svincolo Pontebba  in direzione autostrada Torino-Trieste  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 21:41:00 GMT</pubDate>
-      <dc:date>2026-11-06T21:41:00Z</dc:date>
-    </item>
-    <item>
-      <title>A27 Mestre-Belluno</title>
-      <description>A27 Mestre-Belluno
- personale su strada causa lavori dalle 22:38 del 6 novembre 2026  tra Svincolo Vittorio Veneto Sud e Svincolo Vittorio Veneto Nord  in direzione Belluno  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 21:39:00 GMT</pubDate>
-      <dc:date>2026-11-06T21:39:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Ancona-Pescara</title>
-      <description>A14 Ancona-Pescara
- personale su strada causa lavori dalle 22:37 del 6 novembre 2026  tra Svincolo Porto Sant Elpidio e Svincolo Loreto-Porto Recanati  in direzione Ancona  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 21:38:00 GMT</pubDate>
-      <dc:date>2026-11-06T21:38:00Z</dc:date>
-    </item>
-    <item>
       <title>A14 Bologna-Ancona</title>
       <description>A14 Bologna-Ancona
  personale su strada causa lavori dalle 22:36 del 6 novembre 2026  tra Svincolo Pesaro-Urbino e Allacciamento Fano - Raccordo Per Fossombrone   &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -208,25 +376,11 @@
       <dc:date>2026-11-06T21:38:00Z</dc:date>
     </item>
     <item>
-      <title>A14 Pescara-Bari</title>
-      <description>A14 Pescara-Bari
- personale su strada causa lavori dalle 22:34 del 6 novembre 2026  tra Svincolo Trani e Svincolo Molfetta  in direzione Bari  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 21:36:00 GMT</pubDate>
-      <dc:date>2026-11-06T21:36:00Z</dc:date>
-    </item>
-    <item>
       <title>SS251 Della Val Di Zoldo E Val Cellina</title>
       <description>SS251 Della Val Di Zoldo E Val Cellina
  lavori dalle 08:00 del 16 alle 18:00 del 20 novembre 2026  tra Incrocio Nogheredo e Incrocio S.Martino Di Campagna   &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Fri, 06 Nov 2026 21:36:00 GMT</pubDate>
       <dc:date>2026-11-06T21:36:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Pescara-Bari</title>
-      <description>A14 Pescara-Bari
- personale su strada causa lavori dalle 22:34 del 6 novembre 2026  tra Svincolo Molfetta e Svincolo Trani  in direzione Pescara  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 21:35:00 GMT</pubDate>
-      <dc:date>2026-11-06T21:35:00Z</dc:date>
     </item>
     <item>
       <title>A1 Roma-Napoli</title>
@@ -257,46 +411,11 @@
       <dc:date>2026-11-06T21:33:00Z</dc:date>
     </item>
     <item>
-      <title>A10 Genova-Ventimiglia</title>
-      <description>A10 Genova-Ventimiglia
- lavori  tra 5,92 km prima di Svincolo Confine Di Stato e 2,643 km dopo Area di servizio  Bordighera  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 21:33:00 GMT</pubDate>
-      <dc:date>2026-11-06T21:33:00Z</dc:date>
-    </item>
-    <item>
       <title>A50 Tangenziale Ovest Di Milano</title>
       <description>A50 Tangenziale Ovest Di Milano
  pioggia  tra Allacciamento A8 Milano-Varese e Allacciamento A1 Milano-Napoli   &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Fri, 06 Nov 2026 21:32:00 GMT</pubDate>
       <dc:date>2026-11-06T21:32:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Roma-Napoli</title>
-      <description>A1 Roma-Napoli
- personale su strada causa lavori dalle 22:26 del 6 novembre 2026  tra Svincolo Caianello e Svincolo Santa Maria Capua Vetere  in direzione Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 21:28:00 GMT</pubDate>
-      <dc:date>2026-11-06T21:28:00Z</dc:date>
-    </item>
-    <item>
-      <title>A23 Palmanova-Tarvisio</title>
-      <description>A23 Palmanova-Tarvisio
- fumo causa veicolo in fiamme dalle 22:27 del 6 novembre 2026  tra Barriera Di Ugovizza-Tarvisio e Svincolo Pontebba  in direzione autostrada Torino-Trieste  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 21:28:00 GMT</pubDate>
-      <dc:date>2026-11-06T21:28:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS131 Carlo Felice</title>
-      <description>SS131 Carlo Felice
- corsia chiusa causa lavori di manutenzione  tra 2,036 km dopo Incrocio Bonorva e 984 m prima di Incrocio Cossoine - SS292 Diramazione Nord Occ. Sarda   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 21:28:00 GMT</pubDate>
-      <dc:date>2026-11-06T21:28:00Z</dc:date>
-    </item>
-    <item>
-      <title>A23 Palmanova-Tarvisio</title>
-      <description>A23 Palmanova-Tarvisio
- personale su strada dalle 22:25 del 6 novembre 2026  tra Svincolo Pontebba e Svincolo Carnia  in direzione autostrada Torino-Trieste  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 21:26:00 GMT</pubDate>
-      <dc:date>2026-11-06T21:26:00Z</dc:date>
     </item>
     <item>
       <title>A4 Torino-Milano</title>
@@ -311,13 +430,6 @@
  senso unico alternato causa lavori dalle 19:00 del 7 alle 07:00 del 9 novembre 2026  tra Incrocio Casello Carnia A23 Palmanova-Tarvisio e Incrocio Tolmezzo   &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Fri, 06 Nov 2026 21:18:00 GMT</pubDate>
       <dc:date>2026-11-06T21:18:00Z</dc:date>
-    </item>
-    <item>
-      <title>A10 Genova-Ventimiglia</title>
-      <description>A10 Genova-Ventimiglia
- veicolo fermo o in avaria dalle 22:08 del 6 novembre 2026  tra Svincolo A10 - A06 al Km 44 e Allacciamento A10 - A06 al Km 45  in direzione Ventimiglia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 21:17:00 GMT</pubDate>
-      <dc:date>2026-11-06T21:17:00Z</dc:date>
     </item>
     <item>
       <title>A1 Firenze-Roma</title>
@@ -383,13 +495,6 @@
       <dc:date>2026-11-06T21:16:00Z</dc:date>
     </item>
     <item>
-      <title>A5 Torino-Courmayeur</title>
-      <description>A5 Torino-Courmayeur
- personale su strada dalle 22:12 del 6 novembre 2026  tra Svincolo Morgex (entrata Direzione Sud) e Svincolo Aosta Ovest-Aymavilles  in direzione Torino  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 21:14:00 GMT</pubDate>
-      <dc:date>2026-11-06T21:14:00Z</dc:date>
-    </item>
-    <item>
       <title>A90-GRA Aurelia-Salaria</title>
       <description>A90-GRA Aurelia-Salaria
  corsia chiusa causa lavori di manutenzione  tra 99 m prima di Area di servizio  selva Candida e 1,178 km dopo Svincolo 2a: Casal Del Marmo  in direzione Aurelia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -453,13 +558,6 @@
       <dc:date>2026-11-06T21:08:00Z</dc:date>
     </item>
     <item>
-      <title>A1 Firenze-Roma</title>
-      <description>A1 Firenze-Roma
- veicolo fermo o in avaria dalle 21:54 del 6 novembre 2026  tra Svincolo Attigliano e Svincolo Orvieto  in direzione Firenze  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 21:06:00 GMT</pubDate>
-      <dc:date>2026-11-06T21:06:00Z</dc:date>
-    </item>
-    <item>
       <title>A8 Milano-Varese</title>
       <description>A8 Milano-Varese
  uscita chiusa causa lavori dalle 22:03 del 6 alle 05:00 del 7 novembre 2026  a Svincolo Legnano in direzione da Milano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -509,13 +607,6 @@
       <dc:date>2026-11-06T21:03:00Z</dc:date>
     </item>
     <item>
-      <title>A30 Caserta-Salerno</title>
-      <description>A30 Caserta-Salerno
- uscita chiusa causa lavori dalle 22:00 del 6 alle 06:00 del 7 novembre 2026  a Svincolo Nola  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 21:03:00 GMT</pubDate>
-      <dc:date>2026-11-06T21:03:00Z</dc:date>
-    </item>
-    <item>
       <title>A14 Pescara-Bari</title>
       <description>A14 Pescara-Bari
  tratto chiuso causa lavori dalle 22:01 del 6 alle 06:00 del 7 novembre 2026  tra Svincolo Ortona e Svincolo Pescara Sud-Francavilla  in direzione Pescara  &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -526,13 +617,6 @@
       <title>A1 Diramazione Per Capodichino</title>
       <description>A1 Diramazione Per Capodichino
  personale su strada causa lavori dalle 22:00 del 6 novembre 2026  tra Svincolo Casoria:strada Provinciale 1 e Svincolo Capodichino  in direzione tangenziale  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 21:03:00 GMT</pubDate>
-      <dc:date>2026-11-06T21:03:00Z</dc:date>
-    </item>
-    <item>
-      <title>A27 Mestre-Belluno</title>
-      <description>A27 Mestre-Belluno
- uscita chiusa causa lavori dalle 22:01 del 6 alle 06:00 del 7 novembre 2026  a Svincolo Fadalto-Lago Di S.Croce in direzione da Venezia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Fri, 06 Nov 2026 21:03:00 GMT</pubDate>
       <dc:date>2026-11-06T21:03:00Z</dc:date>
     </item>
@@ -554,13 +638,6 @@
       <title>A8 Milano-Varese</title>
       <description>A8 Milano-Varese
  tratto chiuso causa lavori dalle 22:00 del 6 alle 06:00 del 7 novembre 2026  tra Svincolo Solbiate Arno e Svincolo Castronno  in direzione Varese  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 21:02:00 GMT</pubDate>
-      <dc:date>2026-11-06T21:02:00Z</dc:date>
-    </item>
-    <item>
-      <title>A30 Caserta-Salerno</title>
-      <description>A30 Caserta-Salerno
- rampa di accesso chiusa causa lavori dalle 22:00 del 6 alle 06:00 del 7 novembre 2026  a Svincolo Nola  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Fri, 06 Nov 2026 21:02:00 GMT</pubDate>
       <dc:date>2026-11-06T21:02:00Z</dc:date>
     </item>
@@ -593,34 +670,6 @@
       <dc:date>2026-11-06T20:56:00Z</dc:date>
     </item>
     <item>
-      <title>A1 Diramazione Roma Sud</title>
-      <description>A1 Diramazione Roma Sud
- veicolo fermo o in avaria dalle 21:52 del 6 novembre 2026  tra Svincolo Monteporzio e Svincolo San Cesareo  in direzione autostrada Milano-Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 20:53:00 GMT</pubDate>
-      <dc:date>2026-11-06T20:53:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Roma-Napoli</title>
-      <description>A1 Roma-Napoli
- personale su strada causa lavori dalle 21:50 del 6 novembre 2026  tra Svincolo Capua e Svincolo Caianello  in direzione Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 20:52:00 GMT</pubDate>
-      <dc:date>2026-11-06T20:52:00Z</dc:date>
-    </item>
-    <item>
-      <title>A31 della Valdastico</title>
-      <description>A31 della Valdastico
- entrata chiusa causa veicolo in avaria  a Svincolo Vicenza Nord in direzione Piovene Rocchette - SS434  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 20:51:00 GMT</pubDate>
-      <dc:date>2026-11-06T20:51:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Diramazione Roma Nord</title>
-      <description>A1 Diramazione Roma Nord
- personale su strada causa lavori dalle 21:47 del 6 novembre 2026  tra Svincolo Settebagni e Allacciamento A90-GRA  in direzione G.r.a.  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 20:49:00 GMT</pubDate>
-      <dc:date>2026-11-06T20:49:00Z</dc:date>
-    </item>
-    <item>
       <title>A7 Milano-Genova</title>
       <description>A7 Milano-Genova
  straripamenti causa pioggia dalle 21:46 del 6 novembre 2026  tra Svincolo Isola Del Cantone e Svincolo Ronco Scrivia  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -649,60 +698,11 @@
       <dc:date>2026-11-06T20:43:00Z</dc:date>
     </item>
     <item>
-      <title>A11 Diramazione Lucca-Viareggio</title>
-      <description>A11 Diramazione Lucca-Viareggio
- lavori  tra 3,798 km prima di Svincolo Massarosa e 7,045 km dopo Svincolo Lucca S.Donato  in direzione Diramazione Lucca  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 20:42:00 GMT</pubDate>
-      <dc:date>2026-11-06T20:42:00Z</dc:date>
-    </item>
-    <item>
       <title>A1 Diramazione Roma Nord</title>
       <description>A1 Diramazione Roma Nord
  personale su strada causa lavori dalle 21:34 del 6 novembre 2026  tra Barriera Di Roma Nord e Allacciamento A1 Milano-Napoli  in direzione autostrada Milano-Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Fri, 06 Nov 2026 20:37:00 GMT</pubDate>
       <dc:date>2026-11-06T20:37:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Roma-Napoli</title>
-      <description>A1 Roma-Napoli
- veicolo fermo o in avaria dalle 21:32 del 6 novembre 2026  tra Svincolo Ferentino e Svincolo Frosinone  in direzione Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 20:35:00 GMT</pubDate>
-      <dc:date>2026-11-06T20:35:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS114 Orientale Sicula</title>
-      <description>SS114 Orientale Sicula
- veicolo in avaria  a Incrocio Melilli in direzione Incrocio Siracusa - SS115 e SS124 Ragusana  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 20:34:00 GMT</pubDate>
-      <dc:date>2026-11-06T20:34:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Pescara-Bari</title>
-      <description>A14 Pescara-Bari
- pioggia dalle 19:21 del 6 novembre 2026  tra Svincolo Termoli-Molise e Svincolo Cerignola Est   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 20:33:00 GMT</pubDate>
-      <dc:date>2026-11-06T20:33:00Z</dc:date>
-    </item>
-    <item>
-      <title>T4-TRF Fre Traforo Del Frejus</title>
-      <description>T4-TRF Fre Traforo Del Frejus
- chiusura notturna, galleria chiusa causa lavori di installazione dalle 22:00 del 6 alle 06:00 del 7 novembre 2026  tra Galleria Inzio Traforo - versante Francese e Galleria Inzio Traforo - versante Italiano  in direzione Barriera di Bardonecchia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 20:32:00 GMT</pubDate>
-      <dc:date>2026-11-06T20:32:00Z</dc:date>
-    </item>
-    <item>
-      <title>Torino Via Vanchiglia</title>
-      <description>Torino Via Vanchiglia
- strada chiusa causa manifestazione dalle 12:00 alle 13:00 del 7 novembre 2026  tra Piazza Vittorio Veneto e Corso San Maurizio   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 20:31:00 GMT</pubDate>
-      <dc:date>2026-11-06T20:31:00Z</dc:date>
-    </item>
-    <item>
-      <title>TG-CT Tangenziale Di Catania</title>
-      <description>TG-CT Tangenziale Di Catania
- traffico rallentato causa lavori di manutenzione  tra 2,138 km prima di Allacciamento Catania Sud-Allacciamento A19 Palermo-Catania e 23 m dopo Svincolo S.Giorgio  in direzione Svincolo Catania Centro-S.Gregorio-A18 Diramazione  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Fri, 06 Nov 2026 20:30:00 GMT</pubDate>
-      <dc:date>2026-11-06T20:30:00Z</dc:date>
     </item>
   </channel>
 </rss>
