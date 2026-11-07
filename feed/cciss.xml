@@ -5,23 +5,590 @@
     <link>https://www.cciss.it</link>
     <description>Notizie di traffico, eventi e informazioni</description>
     <item>
-      <title>A22 Brennero-Modena</title>
-      <description>A22 Brennero-Modena
- code causa lavori  tra Svincolo Chiusa-Valgardena e Svincolo Bressanone  in direzione Brennero  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:43:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:43:00Z</dc:date>
+      <title>A52 Tangenziale Nord Di Milano</title>
+      <description>A52 Tangenziale Nord Di Milano
+ chiusura notturna, entrata chiusa causa lavori dalle 08:00 alle 10:00 del 14 novembre 2026  a Svincolo Monza-S.Alessandro in direzione Svincolo SP44 Milano-Meda: Lentate-Bruzzano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:25:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:25:00Z</dc:date>
     </item>
     <item>
-      <title>A3 Napoli-Salerno</title>
-      <description>A3 Napoli-Salerno
- veicolo fermo o in avaria dalle 10:42 del 7 novembre 2026  tra Svincolo Torre Del Greco e Svincolo Ercolano-Portici  in direzione Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:43:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:43:00Z</dc:date>
+      <title>Torino Piazza Lorenzo Bernini</title>
+      <description>Torino Piazza Lorenzo Bernini
+ strada chiusa causa manifestazione dalle 10:00 alle 14:00 del 8 novembre 2026  tra Corso Francia e Corso Alessandro Tassoni   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:24:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:24:00Z</dc:date>
+    </item>
+    <item>
+      <title>A56 Tangenziale Di Napoli</title>
+      <description>A56 Tangenziale Di Napoli
+ veicolo fermo o in avaria dalle 11:09 del 7 novembre 2026  tra Svincolo Fuorigrotta e Svincolo Italia  90 Comune Di Napoli  in direzione Pozzuoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:22:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:22:00Z</dc:date>
+    </item>
+    <item>
+      <title>A52 Tangenziale Nord Di Milano</title>
+      <description>A52 Tangenziale Nord Di Milano
+ chiusura notturna, chiusura nodo causa lavori dalle 23:00 del 12 alle 05:00 del 13 novembre 2026  a Allacciamento A4 Torino-Trieste in direzione A4-Venezia provenendo da A8 e A1   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:22:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:22:00Z</dc:date>
+    </item>
+    <item>
+      <title>Torino Corso Francia</title>
+      <description>Torino Corso Francia
+ strada chiusa causa manifestazione dalle 10:00 alle 14:00 del 8 novembre 2026  tra Piazza Statuto e Piazza Lorenzo Bernini   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:22:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:22:00Z</dc:date>
+    </item>
+    <item>
+      <title>A52 Tangenziale Nord Di Milano</title>
+      <description>A52 Tangenziale Nord Di Milano
+ chiusura notturna, uscita chiusa causa lavori dalle 22:00 del 12 alle 06:00 del 14 novembre 2026  a Svincolo SP131 Nova Milanese in direzione Svincolo SP44 Milano-Meda: Lentate-Bruzzano per S.P.131 Nova Milanese/Muggiò  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:20:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:20:00Z</dc:date>
+    </item>
+    <item>
+      <title>A10 Genova-Ventimiglia</title>
+      <description>A10 Genova-Ventimiglia
+ veicolo fermo o in avaria dalle 11:13 del 7 novembre 2026  tra Allacciamento A26 Ge Voltri-Gravellona T. e Svincolo Arenzano  in direzione Ventimiglia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:20:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:20:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Firenze-Roma</title>
+      <description>A1 Firenze-Roma
+ veicolo fermo o in avaria dalle 11:15 del 7 novembre 2026  tra Svincolo Valdarno e Svincolo Arezzo  in direzione Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:20:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:20:00Z</dc:date>
+    </item>
+    <item>
+      <title>A26 Genova-Gravellona Toce</title>
+      <description>A26 Genova-Gravellona Toce
+ personale su strada causa lavori dalle 11:19 del 7 novembre 2026  tra Svincolo Borgomanero e Svincolo Arona  in direzione Gravellona Toce  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:20:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:20:00Z</dc:date>
+    </item>
+    <item>
+      <title>A7 Milano-Genova</title>
+      <description>A7 Milano-Genova
+ veicolo fermo o in avaria dalle 11:11 del 7 novembre 2026  tra Svincolo Serravalle Scrivia e Svincolo Vignole Borbera  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:20:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:20:00Z</dc:date>
+    </item>
+    <item>
+      <title>A55 Tangenziale Sud Di Torino</title>
+      <description>A55 Tangenziale Sud Di Torino
+ veicolo in avaria  a Svincolo Autoporto S.I.T.O. in direzione Svincolo Santena - A21 Torino-Brescia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:20:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:20:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Diramazione Roma Sud</title>
+      <description>A1 Diramazione Roma Sud
+ veicoli scortati per maltempo causa perdita di carico dalle 11:18 del 7 novembre 2026  tra Svincolo Monteporzio e Svincolo San Cesareo  in direzione autostrada Milano-Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:19:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:19:00Z</dc:date>
+    </item>
+    <item>
+      <title>A52 Tangenziale Nord Di Milano</title>
+      <description>A52 Tangenziale Nord Di Milano
+ chiusura notturna, entrata chiusa causa lavori dalle 22:00 del 12 alle 06:00 del 14 novembre 2026  a Svincolo SP131 Nova Milanese in direzione Svincolo SP44 Milano-Meda: Lentate-Bruzzano da S.P.131 Nova Milanese/Muggiò  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:19:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:19:00Z</dc:date>
+    </item>
+    <item>
+      <title>A30 Caserta-Salerno</title>
+      <description>A30 Caserta-Salerno
+ personale su strada causa lavori dalle 11:16 del 7 novembre 2026  a Barriera Di Salerno M.S.Severino in direzione Salerno  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:18:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:18:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS131 Carlo Felice</title>
+      <description>SS131 Carlo Felice
+ traffico rallentato causa veicolo in avaria  a Incrocio Variante Di Monastir in direzione Incrocio Porto Torres  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:18:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:18:00Z</dc:date>
+    </item>
+    <item>
+      <title>A52 Tangenziale Nord Di Milano</title>
+      <description>A52 Tangenziale Nord Di Milano
+ chiusura notturna, uscita chiusa causa lavori dalle 23:00 del 11 alle 05:00 del 14 novembre 2026  a Svincolo Sesto S.Giovanni (Diramazione Nord) in direzione Svincolo SP44 Milano-Meda: Lentate-Bruzzano per Sesto San Giovanni Sud - V.le Italia/MM1   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:17:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:17:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Roma-Napoli</title>
+      <description>A1 Roma-Napoli
+ perdita di carico causa perdita accidentale dalle 11:16 del 7 novembre 2026  tra Svincolo Frosinone e Svincolo Ferentino  in direzione Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:17:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:17:00Z</dc:date>
+    </item>
+    <item>
+      <title>Mesero Via Sant Anselmo</title>
+      <description>Mesero Via Sant Anselmo
+ incidente  a Via Leonardo da Vinci  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:17:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:17:00Z</dc:date>
+    </item>
+    <item>
+      <title>A16 Napoli-Canosa</title>
+      <description>A16 Napoli-Canosa
+ personale su strada causa lavori dalle 11:15 del 7 novembre 2026  tra Svincolo Avellino Est e Svincolo Benevento - Raccordo Di Benevento   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:16:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:16:00Z</dc:date>
+    </item>
+    <item>
+      <title>A14 Ancona-Pescara</title>
+      <description>A14 Ancona-Pescara
+ personale su strada causa lavori dalle 11:15 del 7 novembre 2026  tra Svincolo Porto Sant Elpidio e Svincolo Fermo-Porto S.Giorgio   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:16:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:16:00Z</dc:date>
+    </item>
+    <item>
+      <title>A13 Bologna-Padova</title>
+      <description>A13 Bologna-Padova
+ veicoli scortati per maltempo causa fondo stradale dissestato dalle 11:15 del 7 novembre 2026  tra Svincolo Occhiobello e Svincolo Ferrara Sud  in direzione Bologna  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:16:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:16:00Z</dc:date>
+    </item>
+    <item>
+      <title>Asola Viale Belfiore</title>
+      <description>Asola Viale Belfiore
+ incidente  a Via Brescia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:16:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:16:00Z</dc:date>
+    </item>
+    <item>
+      <title>A14 Ancona-Pescara</title>
+      <description>A14 Ancona-Pescara
+ code causa lavori dalle 10:20 del 7 novembre 2026  tra Svincolo Pedaso e Svincolo Porto Sant Elpidio  in direzione Ancona  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:15:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:15:00Z</dc:date>
+    </item>
+    <item>
+      <title>A52 Tangenziale Nord Di Milano</title>
+      <description>A52 Tangenziale Nord Di Milano
+ chiusura notturna, entrata chiusa causa lavori dalle 23:00 del 11 alle 05:00 del 14 novembre 2026  a Svincolo Sesto S.Giovanni (Diramazione Nord) in direzione Svincolo SP44 Milano-Meda: Lentate-Bruzzano da Sesto San Giovanni Sud - V.le Italia/MM1  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:15:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:15:00Z</dc:date>
+    </item>
+    <item>
+      <title>A13 Bologna-Padova</title>
+      <description>A13 Bologna-Padova
+ personale su strada causa lavori dalle 11:13 del 7 novembre 2026  tra Svincolo Ferrara Sud e Svincolo Occhiobello  in direzione Padova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:14:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:14:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Diramazione Roma Sud</title>
+      <description>A1 Diramazione Roma Sud
+ perdita di carico dalle 11:13 del 7 novembre 2026  tra Svincolo Monteporzio e Svincolo San Cesareo  in direzione autostrada Milano-Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:14:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:14:00Z</dc:date>
+    </item>
+    <item>
+      <title>A13 Bologna-Padova</title>
+      <description>A13 Bologna-Padova
+ personale su strada causa lavori dalle 11:13 del 7 novembre 2026  tra Svincolo Ferrara Nord e Svincolo Occhiobello  in direzione Padova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:14:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:14:00Z</dc:date>
+    </item>
+    <item>
+      <title>Desio Via per Cesano Maderno</title>
+      <description>Desio Via per Cesano Maderno
+ incidente  a SP151  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:14:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:14:00Z</dc:date>
+    </item>
+    <item>
+      <title>Sesto San Giovanni Via Giuseppe Giusti</title>
+      <description>Sesto San Giovanni Via Giuseppe Giusti
+ incidente  a Via Fratelli Picardi  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:14:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:14:00Z</dc:date>
+    </item>
+    <item>
+      <title>A13 Bologna-Padova</title>
+      <description>A13 Bologna-Padova
+ personale su strada causa lavori dalle 11:12 del 7 novembre 2026  tra Svincolo Ferrara Sud e Svincolo Ferrara Nord  in direzione Padova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:13:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:13:00Z</dc:date>
+    </item>
+    <item>
+      <title>Torre Boldone Via don Luigi Palazzolo</title>
+      <description>Torre Boldone Via don Luigi Palazzolo
+ incidente  a Via Alcide De Gasperi  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:13:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:13:00Z</dc:date>
+    </item>
+    <item>
+      <title>A52 Tangenziale Nord Di Milano</title>
+      <description>A52 Tangenziale Nord Di Milano
+ chiusura notturna, uscita chiusa causa lavori dalle 22:00 del 10 alle 06:00 del 13 novembre 2026  a Svincolo SP131 Nova Milanese in direzione Allacciamento Tangenziale Est Di Milano per S.P. 131 Nova Milanese/Muggiò  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:13:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:13:00Z</dc:date>
+    </item>
+    <item>
+      <title>Mariano Comense Viale Lombardia</title>
+      <description>Mariano Comense Viale Lombardia
+ incidente  a Viale Lombardia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:13:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:13:00Z</dc:date>
+    </item>
+    <item>
+      <title>A52 Tangenziale Nord Di Milano</title>
+      <description>A52 Tangenziale Nord Di Milano
+ chiusura notturna, entrata chiusa causa lavori dalle 22:00 del 10 alle 06:00 del 13 novembre 2026  a Svincolo SP131 Nova Milanese in direzione Allacciamento Tangenziale Est Di Milano  da S.P.131 Nova Milanese/Muggiò  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:12:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:12:00Z</dc:date>
+    </item>
+    <item>
+      <title>A52 Tangenziale Nord Di Milano</title>
+      <description>A52 Tangenziale Nord Di Milano
+ chiusura notturna, uscita chiusa causa lavori dalle 22:00 del 9 alle 06:00 del 11 novembre 2026  a Svincolo Sesto S.Giovanni Sud: Cologno M. in direzione Allacciamento Tangenziale Est Di Milano per Sesto San Giovanni Sud - Via Pisa  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:11:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:11:00Z</dc:date>
+    </item>
+    <item>
+      <title>A14 Pescara-Bari</title>
+      <description>A14 Pescara-Bari
+ traffico rallentato causa lavori dalle 11:08 del 7 novembre 2026  tra Svincolo Vasto Sud e Svincolo Vasto Nord-Casalbordino  in direzione Pescara  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:10:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:10:00Z</dc:date>
+    </item>
+    <item>
+      <title>A5 Torino-Courmayeur</title>
+      <description>A5 Torino-Courmayeur
+ incidente  a Svincolo Verres in direzione Torino  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:09:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:09:00Z</dc:date>
+    </item>
+    <item>
+      <title>A52 Tangenziale Nord Di Milano</title>
+      <description>A52 Tangenziale Nord Di Milano
+ chiusura notturna, uscita chiusa causa lavori dalle 22:00 del 9 alle 06:00 del 10 novembre 2026  a Svincolo SP9 Vecchia Valassina in direzione Allacciamento Tangenziale Est Di Milano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:09:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:09:00Z</dc:date>
+    </item>
+    <item>
+      <title>Torino Piazza Statuto</title>
+      <description>Torino Piazza Statuto
+ strada chiusa causa manifestazione dalle 10:00 alle 14:00 del 8 novembre 2026  tra Corso Principe Eugenio e Corso Francia   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:09:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:09:00Z</dc:date>
+    </item>
+    <item>
+      <title>A14 Pescara-Bari</title>
+      <description>A14 Pescara-Bari
+ animali sulla strada dalle 11:06 del 7 novembre 2026  tra Svincolo San Severo e Svincolo Poggio Imperiale  in direzione Pescara  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:08:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:08:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS3bis Bis tiberina (e45)</title>
+      <description>SS3bis Bis tiberina (e45)
+ materiali dispersi  a Incrocio Tangenziale Di Cesena  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:08:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:08:00Z</dc:date>
+    </item>
+    <item>
+      <title>A52 Tangenziale Nord Di Milano</title>
+      <description>A52 Tangenziale Nord Di Milano
+ chiusura notturna, entrata chiusa causa lavori dalle 22:00 del 9 alle 06:00 del 10 novembre 2026  a Svincolo SP9 Vecchia Valassina in direzione Allacciamento Tangenziale Est Di Milano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:08:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:08:00Z</dc:date>
+    </item>
+    <item>
+      <title>Torino Corso Principe Eugenio</title>
+      <description>Torino Corso Principe Eugenio
+ strada chiusa causa manifestazione dalle 10:00 alle 14:00 del 8 novembre 2026  tra Rondò della Forca e Piazza Statuto   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:07:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:07:00Z</dc:date>
+    </item>
+    <item>
+      <title>A12 Genova-Rosignano</title>
+      <description>A12 Genova-Rosignano
+ controllo velocità dalle 11:05 del 7 novembre 2026  tra Svincolo Rosignano Marittimo e Svincolo Collesalvetti/Sgc Fi-Pi-Li  in direzione Livorno  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:07:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:07:00Z</dc:date>
+    </item>
+    <item>
+      <title>A14 Pescara-Bari</title>
+      <description>A14 Pescara-Bari
+ personale su strada causa ripristino urgente fondo stradale dalle 11:06 del 7 novembre 2026  tra Svincolo Vasto Sud e Svincolo Vasto Nord-Casalbordino  in direzione Pescara  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:07:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:07:00Z</dc:date>
+    </item>
+    <item>
+      <title>A7 Milano-Genova</title>
+      <description>A7 Milano-Genova
+ segnalazione ostacolo  tra Allacciamento Diramazione Predosa-Bettole e Svincolo Serravalle Scrivia  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:07:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:07:00Z</dc:date>
+    </item>
+    <item>
+      <title>A51 Tangenziale Est Di Milano</title>
+      <description>A51 Tangenziale Est Di Milano
+ chiusura notturna, tratto chiuso causa lavori dalle 22:00 del 9 alle 05:00 del 10 novembre 2026  tra Svincolo Linate: V.Le Forlanini-Sp14 Rivoltana e Svincolo C.A.M.M.: Monlue   in direzione Allacciamento A1 Milano-Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:06:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:06:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS163 Amalfitana</title>
+      <description>SS163 Amalfitana
+ traffico rallentato causa frana  a Incrocio Cetara in direzione Incrocio Meta Di Sorrento - SS145 Sorrentina  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:06:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:06:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS51 Di Alemagna</title>
+      <description>SS51 Di Alemagna
+ neve  tra 9,112 km dopo Incrocio S.Vito Di Cadore e 150 m prima di Incrocio Carbonin - SS48 Bis Delle Dolomiti   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:06:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:06:00Z</dc:date>
+    </item>
+    <item>
+      <title>A10 Genova-Ventimiglia</title>
+      <description>A10 Genova-Ventimiglia
+ lavori  tra 2,035 km dopo Svincolo Spotorno e 1,331 km prima di Svincolo Orco Feglino  in direzione Ventimiglia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:05:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:05:00Z</dc:date>
+    </item>
+    <item>
+      <title>A10 Genova-Ventimiglia</title>
+      <description>A10 Genova-Ventimiglia
+ code a tratti per 740 m causa lavori  tra 1,295 km dopo Svincolo Spotorno e 4,656 km prima di Svincolo Orco Feglino  in direzione Ventimiglia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:05:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:05:00Z</dc:date>
+    </item>
+    <item>
+      <title>A10 Genova-Ventimiglia</title>
+      <description>A10 Genova-Ventimiglia
+ code a tratti per 3 km causa lavori  tra 2,982 km prima di Svincolo Finale Ligure e 4,295 km dopo Svincolo Spotorno  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:05:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:05:00Z</dc:date>
+    </item>
+    <item>
+      <title>A10 Genova-Ventimiglia</title>
+      <description>A10 Genova-Ventimiglia
+ lavori  tra 46 m prima di Svincolo Orco Feglino e 3,534 km dopo Svincolo Spotorno  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:05:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:05:00Z</dc:date>
+    </item>
+    <item>
+      <title>A50 Tangenziale Ovest Di Milano</title>
+      <description>A50 Tangenziale Ovest Di Milano
+ chiusura notturna, uscita chiusa causa lavori dalle 22:00 del 10 alle 05:00 del 13 novembre 2026  a Svincolo SS.35 Dei Giovi: Pavia-Rozzano-Assago in direzione Allacciamento A1 Milano-Napoli per S.S.35 MI-Ticinese  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:05:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:05:00Z</dc:date>
+    </item>
+    <item>
+      <title>A8 Milano-Varese</title>
+      <description>A8 Milano-Varese
+ chiusura notturna, chiusura nodo causa lavori dalle 22:00 del 9 alle 05:00 del 10 novembre 2026  a Allacciamento Tangenziale Ovest Di Milano in direzione A50 provenendo da A8-Laghi  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:04:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:04:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS71 Umbro Casentinese Romagnola</title>
+      <description>SS71 Umbro Casentinese Romagnola
+ perdita di liquido sull asfalto  tra 9,943 km dopo Incrocio Saiaccio e 7,852 km prima di Incrocio Mercato Saraceno - S.G.C. Orte-Ravenna  in direzione Incrocio Ravenna - SS16 E S.G.C. Ra-M. Saraceno  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:04:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:04:00Z</dc:date>
+    </item>
+    <item>
+      <title>A4 Torino-Milano</title>
+      <description>A4 Torino-Milano
+ materiali dispersi  a Svincolo Borgo D ale in direzione Milano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:04:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:04:00Z</dc:date>
+    </item>
+    <item>
+      <title>Torino Rondò della Forca</title>
+      <description>Torino Rondò della Forca
+ strada chiusa causa manifestazione dalle 10:00 alle 14:00 del 8 novembre 2026  tra Corso Regina Margherita e Corso Principe Eugenio   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:04:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:04:00Z</dc:date>
+    </item>
+    <item>
+      <title>A24 Tratto Urbano</title>
+      <description>A24 Tratto Urbano
+ code causa viabilità esterna non riceve dalle 11:01 del 7 novembre 2026  tra Svincolo Portonaccio - Galla Placidia e Svincolo Tangenziale Est  in direzione tangenziale Est  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:02:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:02:00Z</dc:date>
+    </item>
+    <item>
+      <title>TG-PV Tangenziale Di Pavia</title>
+      <description>TG-PV Tangenziale Di Pavia
+ chiusura notturna, tratto chiuso causa lavori dalle 23:00 del 11 alle 05:00 del 14 novembre 2026  tra Svincolo Pavia Sud - SS35 Dei Giovi (direzione Genova) e Allacciamento Pavia-Bereguardo  in direzione Svincolo SS35 Dei Giovi (direzione Milano)  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:01:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:01:00Z</dc:date>
+    </item>
+    <item>
+      <title>A14 Bologna-Ancona</title>
+      <description>A14 Bologna-Ancona
+ code causa incidente dalle 11:00 del 7 novembre 2026  tra Allacciamento A13 Bologna-Padova e Allacciamento Ramo Casalecchio  in direzione autostrada Milano-Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:01:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:01:00Z</dc:date>
+    </item>
+    <item>
+      <title>A14 Bologna-Ancona</title>
+      <description>A14 Bologna-Ancona
+ incidente dalle 11:00 del 7 novembre 2026  tra Allacciamento A13 Bologna-Padova e Allacciamento Ramo Casalecchio  in direzione autostrada Milano-Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:01:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:01:00Z</dc:date>
+    </item>
+    <item>
+      <title>Roma Via Igino Giordani</title>
+      <description>Roma Via Igino Giordani
+ incidente traffico rallentato  a Piazza Edoardo Persico  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 10:00:00 GMT</pubDate>
+      <dc:date>2026-11-07T10:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Roma Via Luigi Stipa</title>
+      <description>Roma Via Luigi Stipa
+ incidente traffico rallentato  a Via Portuense  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 09:59:00 GMT</pubDate>
+      <dc:date>2026-11-07T09:59:00Z</dc:date>
+    </item>
+    <item>
+      <title>TG-PV Tangenziale Di Pavia</title>
+      <description>TG-PV Tangenziale Di Pavia
+ chiusura notturna, tratto chiuso causa lavori dalle 23:00 del 9 alle 05:00 del 13 novembre 2026  tra Allacciamento Pavia-Bereguardo e Svincolo Pavia Sud - SS35 Dei Giovi (direzione Genova)  in direzione Svincolo Pavia Sud - SS35 Dei Giovi (direzione Genova)  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 09:59:00 GMT</pubDate>
+      <dc:date>2026-11-07T09:59:00Z</dc:date>
+    </item>
+    <item>
+      <title>Torino Corso Regina Margherita</title>
+      <description>Torino Corso Regina Margherita
+ strada chiusa causa manifestazione dalle 10:00 alle 14:00 del 8 novembre 2026  tra Piazza della Repubblica e Rondò della Forca   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 09:58:00 GMT</pubDate>
+      <dc:date>2026-11-07T09:58:00Z</dc:date>
+    </item>
+    <item>
+      <title>TG-PV Tangenziale Di Pavia</title>
+      <description>TG-PV Tangenziale Di Pavia
+ chiusura notturna, entrata chiusa causa lavori dalle 22:30 del 9 alle 05:00 del 13 novembre 2026  a Svincolo Pavia Nord in direzione Svincolo Pavia Sud - SS35 Dei Giovi (direzione Genova)  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 09:57:00 GMT</pubDate>
+      <dc:date>2026-11-07T09:57:00Z</dc:date>
+    </item>
+    <item>
+      <title>TG-PV Tangenziale Di Pavia</title>
+      <description>TG-PV Tangenziale Di Pavia
+ entrata chiusa causa lavori dalle 11:00 alle 14:00 del 9 novembre 2026  a Svincolo Pavia Nord in direzione Svincolo Pavia Sud - SS35 Dei Giovi (direzione Genova)  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 09:56:00 GMT</pubDate>
+      <dc:date>2026-11-07T09:56:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS3 Via Flaminia</title>
+      <description>SS3 Via Flaminia
+ non funzionante impianto di illuminazione tunnel  tra 5,744 km dopo Incrocio Nocera Umbra e 8,835 km prima di Incrocio Gualdo Tadino   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 09:56:00 GMT</pubDate>
+      <dc:date>2026-11-07T09:56:00Z</dc:date>
+    </item>
+    <item>
+      <title>A26 Genova-Gravellona Toce</title>
+      <description>A26 Genova-Gravellona Toce
+ personale su strada causa lavori dalle 10:53 del 7 novembre 2026  tra Svincolo Masone e Allacciamento A10 Genova-Ventimiglia  in direzione Genova Voltri  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 09:55:00 GMT</pubDate>
+      <dc:date>2026-11-07T09:55:00Z</dc:date>
+    </item>
+    <item>
+      <title>A35 BreBeMi</title>
+      <description>A35 BreBeMi
+ riduzione di carreggiata causa lavori  tra Svincolo Chiari Ovest e Svincolo SP19(BS)  in direzione Allacciamento SP11 (BS)  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 09:54:00 GMT</pubDate>
+      <dc:date>2026-11-07T09:54:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS16 Adriatica</title>
+      <description>SS16 Adriatica
+ traffico rallentato  a Incrocio Bari (tangenziale) in direzione Incrocio Padova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 09:54:00 GMT</pubDate>
+      <dc:date>2026-11-07T09:54:00Z</dc:date>
+    </item>
+    <item>
+      <title>A50 Tangenziale Ovest Di Milano</title>
+      <description>A50 Tangenziale Ovest Di Milano
+ code a tratti causa lavori  tra Svincolo Settimo Milanese-SS11: S.Siro-Fiera e Svincolo Rho Area Industriale  in direzione Allacciamento A8 Milano-Varese  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 09:53:00 GMT</pubDate>
+      <dc:date>2026-11-07T09:53:00Z</dc:date>
+    </item>
+    <item>
+      <title>Torino Piazza della Repubblica</title>
+      <description>Torino Piazza della Repubblica
+ strada chiusa causa manifestazione dalle 10:00 alle 14:00 del 8 novembre 2026  tra Corso Giulio Cesare e Corso Regina Margherita   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 09:53:00 GMT</pubDate>
+      <dc:date>2026-11-07T09:53:00Z</dc:date>
     </item>
     <item>
       <title>A24 Roma-Teramo</title>
       <description>A24 Roma-Teramo
- veicolo fermo o in avaria dalle 10:13 del 7 novembre 2026  tra Svincolo Vicovaro-Mandela e Svincolo Carsoli-Oricola  in direzione Teramo  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+ pioggia dalle 14:24 del 6 novembre 2026  tra Svincolo Castel Madama e Svincolo S.G.C. per Giulianova   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 09:51:00 GMT</pubDate>
+      <dc:date>2026-11-07T09:51:00Z</dc:date>
+    </item>
+    <item>
+      <title>A23 Palmanova-Tarvisio</title>
+      <description>A23 Palmanova-Tarvisio
+ veicolo fermo o in avaria dalle 10:00 del 7 novembre 2026  tra Svincolo Dogana Di Coccau-Confine Di Stato e Svincolo Tarvisio Nord  in direzione Tarvisio  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 09:51:00 GMT</pubDate>
+      <dc:date>2026-11-07T09:51:00Z</dc:date>
+    </item>
+    <item>
+      <title>Torino Corso Giulio Cesare</title>
+      <description>Torino Corso Giulio Cesare
+ strada chiusa causa manifestazione dalle 10:00 alle 14:00 del 8 novembre 2026  tra Corso Vercelli e Via Vittorio Andreis   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 09:49:00 GMT</pubDate>
+      <dc:date>2026-11-07T09:49:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Roma-Napoli</title>
+      <description>A1 Roma-Napoli
+ perdita di carico causa perdita accidentale dalle 10:23 del 7 novembre 2026  tra Svincolo Caianello e Svincolo San Vittore  in direzione Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 09:48:00 GMT</pubDate>
+      <dc:date>2026-11-07T09:48:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS658 S.S.V. Melfi-Potenza</title>
+      <description>SS658 S.S.V. Melfi-Potenza
+ traffico rallentato causa incidente  a Incrocio Melfi - SS401 in direzione Potenza  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 09:48:00 GMT</pubDate>
+      <dc:date>2026-11-07T09:48:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS182 Delle Serre Calabre</title>
+      <description>SS182 Delle Serre Calabre
+ corsia chiusa causa presenza di alberi sulla carreggiata  a Incrocio Serre A3 Salerno-Reggio C. in direzione Incrocio Soverato Marina - SS106 Jonica  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 09:48:00 GMT</pubDate>
+      <dc:date>2026-11-07T09:48:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS211 Della Lomellina</title>
+      <description>SS211 Della Lomellina
+ fondo stradale dissestato  tra 11,571 km dopo Incrocio Pozzolo Formigaro e 938 m prima di Incrocio Pieve Del Cairo   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 09:48:00 GMT</pubDate>
+      <dc:date>2026-11-07T09:48:00Z</dc:date>
+    </item>
+    <item>
+      <title>Torino Corso Vercelli</title>
+      <description>Torino Corso Vercelli
+ strada chiusa causa manifestazione dalle 10:00 alle 14:00 del 8 novembre 2026  tra Corso Vigevano e Corso Giulio Cesare   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 09:47:00 GMT</pubDate>
+      <dc:date>2026-11-07T09:47:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS146 Di Chianciano</title>
+      <description>SS146 Di Chianciano
+ corsia chiusa causa lavori  a Incrocio Chianciano in direzione Incrocio S.Quirico D orcia - SS2 Cassia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sat, 07 Nov 2026 09:46:00 GMT</pubDate>
+      <dc:date>2026-11-07T09:46:00Z</dc:date>
+    </item>
+    <item>
+      <title>A22 Brennero-Modena</title>
+      <description>A22 Brennero-Modena
+ code causa lavori  tra Svincolo Chiusa-Valgardena e Svincolo Bressanone  in direzione Brennero  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sat, 07 Nov 2026 09:43:00 GMT</pubDate>
       <dc:date>2026-11-07T09:43:00Z</dc:date>
     </item>
@@ -33,60 +600,11 @@
       <dc:date>2026-11-07T09:42:00Z</dc:date>
     </item>
     <item>
-      <title>A23 Palmanova-Tarvisio</title>
-      <description>A23 Palmanova-Tarvisio
- perdita di carico dalle 10:41 del 7 novembre 2026  tra Svincolo Udine Nord e Svincolo Gemona-Osoppo  in direzione Tarvisio  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:42:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:42:00Z</dc:date>
-    </item>
-    <item>
-      <title>A24 Roma-Teramo</title>
-      <description>A24 Roma-Teramo
- veicolo fermo o in avaria dalle 10:40 del 7 novembre 2026  tra Svincolo Tivoli e Svincolo Castel Madama  in direzione Teramo  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:42:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:42:00Z</dc:date>
-    </item>
-    <item>
-      <title>A23 Palmanova-Tarvisio</title>
-      <description>A23 Palmanova-Tarvisio
- personale su strada causa rimozione ostacolo dalle 10:41 del 7 novembre 2026  tra Svincolo Udine Nord e Svincolo Gemona-Osoppo  in direzione Tarvisio  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:42:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:42:00Z</dc:date>
-    </item>
-    <item>
-      <title>A26 Genova-Gravellona Toce</title>
-      <description>A26 Genova-Gravellona Toce
- veicolo fermo o in avaria dalle 10:39 del 7 novembre 2026  tra Allacciamento A4 Torino-Trieste e Svincolo Vercelli Est  in direzione Genova Voltri  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:41:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:41:00Z</dc:date>
-    </item>
-    <item>
       <title>Torino Piazza Francesco Crispi</title>
       <description>Torino Piazza Francesco Crispi
  strada chiusa causa manifestazione dalle 10:00 alle 14:00 del 8 novembre 2026  tra Corso Vigevano e Corso Vercelli   &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sat, 07 Nov 2026 09:40:00 GMT</pubDate>
       <dc:date>2026-11-07T09:40:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Ancona-Pescara</title>
-      <description>A14 Ancona-Pescara
- traffico bloccato causa incidente dalle 10:38 del 7 novembre 2026  tra Svincolo Pedaso e Svincolo Fermo-Porto S.Giorgio  in direzione Ancona  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:40:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:40:00Z</dc:date>
-    </item>
-    <item>
-      <title>S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)</title>
-      <description>S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)
- personale su strada dalle 10:37 del 7 novembre 2026  tra Svincolo Livorno Porto e Svincolo SS1 Aurelia  Per Pisa  in direzione Firenze  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:39:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:39:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Firenze-Roma</title>
-      <description>A1 Firenze-Roma
- traffico rallentato causa perdita di carico dalle 10:37 del 7 novembre 2026  tra Svincolo Incisa - Reggello e Svincolo Firenze Sud  in direzione Firenze  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:39:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:39:00Z</dc:date>
     </item>
     <item>
       <title>A1 Diramazione Roma Sud</title>
@@ -96,23 +614,9 @@
       <dc:date>2026-11-07T09:39:00Z</dc:date>
     </item>
     <item>
-      <title>A1 Firenze-Roma</title>
-      <description>A1 Firenze-Roma
- veicolo fermo o in avaria dalle 10:23 del 7 novembre 2026  tra Svincolo Chiusi-Chianciano e Svincolo Valdichiana  in direzione Firenze  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:38:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:38:00Z</dc:date>
-    </item>
-    <item>
       <title>A14 Bologna-Ancona</title>
       <description>A14 Bologna-Ancona
  veicolo fermo o in avaria dalle 10:33 del 7 novembre 2026  tra Svincolo Pesaro-Urbino e Allacciamento Fano - Raccordo Per Fossombrone  in direzione Ancona  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:38:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:38:00Z</dc:date>
-    </item>
-    <item>
-      <title>A12 Roma-Civitavecchia</title>
-      <description>A12 Roma-Civitavecchia
- veicolo fermo o in avaria dalle 10:20 del 7 novembre 2026  tra Allacciamento A91 Roma-Fiumicino e Svincolo Maccarese-Fregene  in direzione S.s. 1 Aurelia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sat, 07 Nov 2026 09:38:00 GMT</pubDate>
       <dc:date>2026-11-07T09:38:00Z</dc:date>
     </item>
@@ -145,20 +649,6 @@
       <dc:date>2026-11-07T09:35:00Z</dc:date>
     </item>
     <item>
-      <title>A27 Mestre-Belluno</title>
-      <description>A27 Mestre-Belluno
- veicolo fermo o in avaria dalle 10:33 del 7 novembre 2026  tra Svincolo Fadalto-Lago Di S.Croce e Barriera Di Belluno  in direzione Belluno  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:34:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:34:00Z</dc:date>
-    </item>
-    <item>
-      <title>A12 Genova-Rosignano</title>
-      <description>A12 Genova-Rosignano
- veicolo fermo o in avaria dalle 10:26 del 7 novembre 2026  a Svincolo Genova Est in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:34:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:34:00Z</dc:date>
-    </item>
-    <item>
       <title>Torino Corso Vigevano</title>
       <description>Torino Corso Vigevano
  strada chiusa causa manifestazione dalle 10:00 alle 14:00 del 8 novembre 2026  tra Piazza Generale Antonio Baldissera e Piazza Francesco Crispi   &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -187,46 +677,11 @@
       <dc:date>2026-11-07T09:32:00Z</dc:date>
     </item>
     <item>
-      <title>A14 Bologna-Ancona</title>
-      <description>A14 Bologna-Ancona
- perdita di carico dalle 10:29 del 7 novembre 2026  tra Allacciamento Diramazione Per Ravenna e Svincolo Imola  in direzione Bologna  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:31:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:31:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Ancona-Pescara</title>
-      <description>A14 Ancona-Pescara
- code causa incidente dalle 10:20 del 7 novembre 2026  tra Svincolo Pedaso e Svincolo Fermo-Porto S.Giorgio  in direzione Ancona  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:31:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:31:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Firenze-Roma</title>
-      <description>A1 Firenze-Roma
- personale su strada causa ripristino urgente fondo stradale dalle 10:28 del 7 novembre 2026  tra Svincolo Chiusi-Chianciano e Svincolo Valdichiana  in direzione Firenze  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:30:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:30:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Ancona-Pescara</title>
-      <description>A14 Ancona-Pescara
- incidente dalle 10:18 del 7 novembre 2026  tra Svincolo Pedaso e Svincolo Fermo-Porto S.Giorgio  in direzione Ancona  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:29:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:29:00Z</dc:date>
-    </item>
-    <item>
       <title>Torino Piazza Generale Antonio Baldissera</title>
       <description>Torino Piazza Generale Antonio Baldissera
  strada chiusa causa manifestazione dalle 10:00 alle 14:00 del 8 novembre 2026  tra Corso Mortara e Corso Vigevano   &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sat, 07 Nov 2026 09:29:00 GMT</pubDate>
       <dc:date>2026-11-07T09:29:00Z</dc:date>
-    </item>
-    <item>
-      <title>A2 Autostrada del Mediterraneo</title>
-      <description>A2 Autostrada del Mediterraneo
- code causa incidente  a Svincolo Battipaglia in direzione Allacciamento Fisciano - A30-RA02  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:28:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:28:00Z</dc:date>
     </item>
     <item>
       <title>A1 Firenze-Roma</title>
@@ -248,461 +703,6 @@
  code a tratti causa traffico intenso  tra Svincolo V. Rubattino: Segrate-Citta  Studi e Svincolo Gobba: Treviglio-Vimodrone  in direzione Svincolo Lecco  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sat, 07 Nov 2026 09:27:00 GMT</pubDate>
       <dc:date>2026-11-07T09:27:00Z</dc:date>
-    </item>
-    <item>
-      <title>A50 Tangenziale Ovest Di Milano</title>
-      <description>A50 Tangenziale Ovest Di Milano
- code a tratti causa lavori  tra Svincolo Baggio-Cusago: Via Zurigo-Zona Ind. e Svincolo Rho Area Industriale  in direzione Allacciamento A8 Milano-Varese  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:26:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:26:00Z</dc:date>
-    </item>
-    <item>
-      <title>A7 Milano-Genova</title>
-      <description>A7 Milano-Genova
- perdita di carico dalle 10:24 del 7 novembre 2026  tra Svincolo Genova Bolzaneto e Svincolo Busalla  in direzione Milano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:26:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:26:00Z</dc:date>
-    </item>
-    <item>
-      <title>A19 Palermo-Catania</title>
-      <description>A19 Palermo-Catania
- materiali dispersi  a Svincolo Zona Industriale in direzione Catania  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:26:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:26:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Roma-Napoli</title>
-      <description>A1 Roma-Napoli
- perdita di carico causa perdita accidentale dalle 10:23 del 7 novembre 2026  tra Svincolo Caianello e Svincolo San Vittore  in direzione Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:25:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:25:00Z</dc:date>
-    </item>
-    <item>
-      <title>Vicenza Strada di Casale</title>
-      <description>Vicenza Strada di Casale
- incidente  a Strada della Pelosa  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:25:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:25:00Z</dc:date>
-    </item>
-    <item>
-      <title>Roma Via di Malafede</title>
-      <description>Roma Via di Malafede
- incidente traffico rallentato  a Via Cristoforo Colombo  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:21:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:21:00Z</dc:date>
-    </item>
-    <item>
-      <title>Torino Via Nole</title>
-      <description>Torino Via Nole
- strada chiusa causa manifestazione dalle 10:00 alle 14:00 del 8 novembre 2026  tra Corso Potenza e Via Balangero   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:21:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:21:00Z</dc:date>
-    </item>
-    <item>
-      <title>Roma Via di Boccea</title>
-      <description>Roma Via di Boccea
- incidente traffico rallentato  a Via di Tragliata  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:20:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:20:00Z</dc:date>
-    </item>
-    <item>
-      <title>Roma Via Benedetto Aloisi Masella</title>
-      <description>Roma Via Benedetto Aloisi Masella
- incidente traffico rallentato  a Via Pietro Bembo  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:20:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:20:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Pescara-Bari</title>
-      <description>A14 Pescara-Bari
- pedoni dalle 10:17 del 7 novembre 2026  tra Svincolo Bari Sud e Allacciamento Bari Nord - Raccordo Per La Tangenziale  in direzione Pescara  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:19:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:19:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS16 Adriatica</title>
-      <description>SS16 Adriatica
- tratto chiuso, entrata chiusa, uscita chiusa causa lavori dalle 21:00 del 9 novembre 2026 alle 06:00 del 14 dicembre 2026  tra Incrocio Ancona Centro e Incrocio Casello Ancona Sud A14 Bologna-Taranto   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:19:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:19:00Z</dc:date>
-    </item>
-    <item>
-      <title>Torino Corso Potenza</title>
-      <description>Torino Corso Potenza
- strada chiusa causa manifestazione dalle 10:00 alle 14:00 del 8 novembre 2026  tra Via Giovan Battista Quadrone e Via Nole   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:18:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:18:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS106 Jonica</title>
-      <description>SS106 Jonica
- traffico rallentato causa lavori di manutenzione  tra 4,087 km dopo Incrocio Ardore Marina e 12,311 km prima di Incrocio Marina G.Jonica - SS281 Passo Di Limina   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:16:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:16:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Roma-Napoli</title>
-      <description>A1 Roma-Napoli
- incidente dalle 10:10 del 7 novembre 2026  a Svincolo Ceprano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:15:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:15:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS16 Adriatica</title>
-      <description>SS16 Adriatica
- tratto chiuso, chiusura notturna causa lavori dalle 21:00 del 9 novembre 2026 alle 06:00 del 7 dicembre 2026  a Incrocio Casello Ancona Sud A14 Bologna-Taranto  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:15:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:15:00Z</dc:date>
-    </item>
-    <item>
-      <title>A26 Genova-Gravellona Toce</title>
-      <description>A26 Genova-Gravellona Toce
- veicolo fermo o in avaria dalle 10:12 del 7 novembre 2026  tra Svincolo Alessandria Sud e Allacciamento Diram. Predosa-Bettole  in direzione Genova Voltri  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:14:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:14:00Z</dc:date>
-    </item>
-    <item>
-      <title>A4 Milano-Brescia</title>
-      <description>A4 Milano-Brescia
- code a tratti causa traffico intenso dalle 10:11 del 7 novembre 2026  tra Svincolo Sesto San Giovanni-Viale Zara e Svincolo Viale Monte Ceneri incrocio Viale Certosa  in direzione Torino  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:13:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:13:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS77 Della Val Di Chienti</title>
-      <description>SS77 Della Val Di Chienti
- riduzione di carreggiata causa lavori dalle 06:00 del 7 alle 23:59 del 30 novembre 2026  tra Incrocio Macerata Sud e Incrocio Morrovalle   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:13:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:13:00Z</dc:date>
-    </item>
-    <item>
-      <title>Bologna Via Felicina</title>
-      <description>Bologna Via Felicina
- fondo stradale dissestato  a Via Felicina  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:10:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:10:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS4 Via Salaria</title>
-      <description>SS4 Via Salaria
- senso unico alternato causa lavori dalle 20:00 del 6 alle 20:00 del 27 novembre 2026  tra Incrocio Variante Di Ascoli Piceno e Incrocio Ascoli Piceno   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:09:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:09:00Z</dc:date>
-    </item>
-    <item>
-      <title>Roma Via Nomentana</title>
-      <description>Roma Via Nomentana
- incidente traffico rallentato  a Via Ettore Romagnoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:08:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:08:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS16 Adriatica</title>
-      <description>SS16 Adriatica
- traffico rallentato causa incidente  a Incrocio Bari (tangenziale) in direzione Incrocio Padova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:08:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:08:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS106 Jonica</title>
-      <description>SS106 Jonica
- lavori di manutenzione  tra 1,31 km dopo Incrocio S.Anna e 360 m prima di Incrocio Staz. Di Isola Capo Rizzuto   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:08:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:08:00Z</dc:date>
-    </item>
-    <item>
-      <title>SP51(LC) Santa</title>
-      <description>SP51(LC) Santa
- incidente, veicolo ribaltato  a Incrocio Casatenovo  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:07:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:07:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS485 Corridonia Maceratese</title>
-      <description>SS485 Corridonia Maceratese
- senso unico alternato causa lavori dalle 08:00 del 13 ottobre 2026 alle 18:00 del 18 dicembre 2026  tra Incrocio Piediripa e Incrocio Sforzacosta - SS77 Della Val Di Chienti   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:07:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:07:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Firenze-Roma</title>
-      <description>A1 Firenze-Roma
- problemi in area di servizio causa interruzione energia elettrica dalle 10:04 del 7 novembre 2026  a Area di servizio  Mascherone in direzione Firenze  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:06:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:06:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Firenze-Roma</title>
-      <description>A1 Firenze-Roma
- problemi in area di servizio causa interruzione energia elettrica dalle 10:04 del 7 novembre 2026  a Area di servizio  Mascherone in direzione Firenze  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:06:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:06:00Z</dc:date>
-    </item>
-    <item>
-      <title>A23 Palmanova-Tarvisio</title>
-      <description>A23 Palmanova-Tarvisio
- veicolo fermo o in avaria dalle 10:00 del 7 novembre 2026  tra Svincolo Dogana Di Coccau-Confine Di Stato e Svincolo Tarvisio Nord  in direzione Tarvisio  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:05:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:05:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS16 Adriatica</title>
-      <description>SS16 Adriatica
- frana  a Incrocio Pineta Zadina  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:04:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:04:00Z</dc:date>
-    </item>
-    <item>
-      <title>A13 Bologna-Padova</title>
-      <description>A13 Bologna-Padova
- veicolo fermo o in avaria dalle 09:40 del 7 novembre 2026  tra Svincolo Ferrara Sud e Svincolo Altedo  in direzione Bologna  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:02:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:02:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS89 Garganica</title>
-      <description>SS89 Garganica
- traffico rallentato causa incidente  a Incrocio Manfredonia in direzione Incrocio Foggia - SS16 Adriatica  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:02:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:02:00Z</dc:date>
-    </item>
-    <item>
-      <title>Torino Strada Comunale del Portone</title>
-      <description>Torino Strada Comunale del Portone
- strada chiusa causa lavori dalle 07:00 alle 23:59 del 24 novembre 2026  tra Via Unità d Italia e Via della Repubblica   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:01:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:01:00Z</dc:date>
-    </item>
-    <item>
-      <title>A12 Genova-Rosignano</title>
-      <description>A12 Genova-Rosignano
- veicolo fermo o in avaria dalle 09:57 del 7 novembre 2026  tra Svincolo Recco e Svincolo Genova Nervi  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:00:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:00:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS433 Della Val D aso</title>
-      <description>SS433 Della Val D aso
- senso unico alternato causa lavori dalle 07:00 del 9 alle 18:00 del 20 novembre 2026  tra Incrocio Ponte Maglio e Incrocio Pera   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 09:00:00 GMT</pubDate>
-      <dc:date>2026-11-07T09:00:00Z</dc:date>
-    </item>
-    <item>
-      <title>A8 Milano-Varese</title>
-      <description>A8 Milano-Varese
- veicolo fermo o in avaria dalle 09:57 del 7 novembre 2026  a Svincolo Castellanza in direzione Milano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:59:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:59:00Z</dc:date>
-    </item>
-    <item>
-      <title>A12 Genova-Rosignano</title>
-      <description>A12 Genova-Rosignano
- personale su strada causa lavori dalle 09:57 del 7 novembre 2026  tra Svincolo Collesalvetti/Sgc Fi-Pi-Li e Svincolo Livorno - Raccordo Per Livorno  in direzione Livorno  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:59:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:59:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Bologna-Ancona</title>
-      <description>A14 Bologna-Ancona
- veicolo fermo o in avaria dalle 09:57 del 7 novembre 2026  tra Incrocio Viale Papiniano incrocio ZTL Via Tullio Servio e Svincolo Rimini Nord  in direzione Ancona  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:59:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:59:00Z</dc:date>
-    </item>
-    <item>
-      <title>A15 Parma-La Spezia</title>
-      <description>A15 Parma-La Spezia
- nebbia a banchi  tra Svincolo Borgotaro e 13,6 km prima di Svincolo Pontremoli   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:57:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:57:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Firenze-Roma</title>
-      <description>A1 Firenze-Roma
- veicolo fermo o in avaria dalle 09:55 del 7 novembre 2026  tra Svincolo Arezzo e Svincolo Monte San Savino  in direzione Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:57:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:57:00Z</dc:date>
-    </item>
-    <item>
-      <title>A50 Tangenziale Ovest Di Milano</title>
-      <description>A50 Tangenziale Ovest Di Milano
- incidente  a Svincolo SS494 Vigevanese Nuova: Lorenteggio in direzione Allacciamento A1 Milano-Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:57:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:57:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS17 Dell appennino Abruzzese E Appulo-Sannitico</title>
-      <description>SS17 Dell appennino Abruzzese E Appulo-Sannitico
- animali vaganti  a Incrocio Ponte 13 Archi - SS645 Fondo Valle Del Tappino in direzione Dell appennino Abruzzese E Appulo  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:56:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:56:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS148 Pontina</title>
-      <description>SS148 Pontina
- incidente  a Incrocio Via Del Commercio/Via Mascagni in direzione Incrocio Via Cristoforo Colombo  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:56:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:56:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS107 Silana Crotonese</title>
-      <description>SS107 Silana Crotonese
- corsia chiusa causa incidente  a Incrocio Rende in direzione Incrocio Paola - SS18 Tirrena Inferiore  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:56:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:56:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS78 Picena</title>
-      <description>SS78 Picena
- senso unico alternato causa lavori dalle 07:00 del 9 alle 20:00 del 16 novembre 2026  tra Incrocio Gabella Nuova e Incrocio Sarnano   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:56:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:56:00Z</dc:date>
-    </item>
-    <item>
-      <title>Codogno Viale Amedeo d Aosta</title>
-      <description>Codogno Viale Amedeo d Aosta
- incidente  a Viale Amedeo d Aosta  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:55:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:55:00Z</dc:date>
-    </item>
-    <item>
-      <title>Gallarate Via Gorizia</title>
-      <description>Gallarate Via Gorizia
- incidente  a Via della Mazzanella  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:55:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:55:00Z</dc:date>
-    </item>
-    <item>
-      <title>A5 Torino-Courmayeur</title>
-      <description>A5 Torino-Courmayeur
- lavori  tra 3,4 km dopo Svincolo A05 - Tangenziale di Torino e 294 m prima di Svincolo Quincinetto   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:55:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:55:00Z</dc:date>
-    </item>
-    <item>
-      <title>Roma Viale Marco Polo</title>
-      <description>Roma Viale Marco Polo
- incidente traffico rallentato  a Via Luigi Robecchi Brichetti  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:54:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:54:00Z</dc:date>
-    </item>
-    <item>
-      <title>Roma Via Prenestina</title>
-      <description>Roma Via Prenestina
- incidente traffico rallentato  a Via Modolo  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:52:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:52:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS17 Dell appennino Abruzzese E Appulo-Sannitico</title>
-      <description>SS17 Dell appennino Abruzzese E Appulo-Sannitico
- perdita di liquido sull asfalto  a Incrocio Variante Di Lucera Est  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:52:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:52:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS125 Orientale Sarda</title>
-      <description>SS125 Orientale Sarda
- traffico rallentato causa incidente  a Incrocio Porto Cervo in direzione Incrocio Palau - SS133 Di Palau  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:52:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:52:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS77 Della Val Di Chienti</title>
-      <description>SS77 Della Val Di Chienti
- riduzione di carreggiata causa lavori di manutenzione dalle 06:00 del 10 settembre 2026 alle 05:59 del 7 novembre 2026  tra Incrocio Macerata Sud e Incrocio Morrovalle   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:46:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:46:00Z</dc:date>
-    </item>
-    <item>
-      <title>Torino Via Plava</title>
-      <description>Torino Via Plava
- strada chiusa causa proiezioni cinematografiche dalle 07:00 alle 19:00 del 9 novembre 2026  tra Via Celeste Negarville e Via Coni Zugna   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:42:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:42:00Z</dc:date>
-    </item>
-    <item>
-      <title>A4 Torino-Milano</title>
-      <description>A4 Torino-Milano
- code a tratti causa traffico intenso  tra 1,541 km dopo Svincolo Rho e Svincolo Ghisolfa Ovest inizio Tangenziale Ovest  in direzione Milano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:41:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:41:00Z</dc:date>
-    </item>
-    <item>
-      <title>A10 Genova-Ventimiglia</title>
-      <description>A10 Genova-Ventimiglia
- code a tratti per 4 km causa recupero mezzi  tra 1,982 km prima di Svincolo Finale Ligure e 4,295 km dopo Svincolo Spotorno  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:41:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:41:00Z</dc:date>
-    </item>
-    <item>
-      <title>A10 Genova-Ventimiglia</title>
-      <description>A10 Genova-Ventimiglia
- code a tratti per 740 m causa traffico intenso  tra 1,295 km dopo Svincolo Spotorno e 4,656 km prima di Svincolo Orco Feglino  in direzione Ventimiglia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:41:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:41:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS177 Silana Di Rossano</title>
-      <description>SS177 Silana Di Rossano
- fondo stradale dissestato  tra 500 m dopo Incrocio Camigliatello Silano - SS107 Silana Crotonese e 10,819 km prima di Incrocio Lago Di Cecita - SS282 Delle Fossate   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:40:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:40:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS647 Fondo Valle Del Biferno</title>
-      <description>SS647 Fondo Valle Del Biferno
- lavori di manutenzione  tra 2,411 km dopo Incrocio Guardialfiera e 15,25 km prima di Incrocio Staz. Di Guglionesi - SS87 Sannitica   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:40:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:40:00Z</dc:date>
-    </item>
-    <item>
-      <title>Torino Via Roma</title>
-      <description>Torino Via Roma
- strada chiusa causa manifestazione dalle 01:00 alle 23:59 del 13 novembre 2026  tra Via Santa Teresa e Via Antonio Giuseppe Bertola   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:38:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:38:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS87 Sannitica</title>
-      <description>SS87 Sannitica
- lavori di manutenzione  tra 7,443 km dopo Incrocio Matrice e 300 m prima di Incrocio Staz. Di Ripabottoni - SS212 Della V.Fortore   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:36:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:36:00Z</dc:date>
-    </item>
-    <item>
-      <title>R06 Raccordo Bettolle-Perugia</title>
-      <description>R06 Raccordo Bettolle-Perugia
- traffico rallentato causa lavori di manutenzione  tra 4,903 km prima di Svincolo Tuoro e Svincolo SS327-Raccordo Siena-Bettolle  in direzione Raccordo Bettolle  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:36:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:36:00Z</dc:date>
-    </item>
-    <item>
-      <title>Torino Via Zubiena</title>
-      <description>Torino Via Zubiena
- strada chiusa causa lavori dalle 08:00 del 9 alle 17:00 del 27 novembre 2026  tra Via Nicolò Barberis e Viale Madonna di Campagna   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:34:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:34:00Z</dc:date>
-    </item>
-    <item>
-      <title>A8 Milano-Varese</title>
-      <description>A8 Milano-Varese
- code causa mostra dalle 09:31 del 7 novembre 2026  tra Allacciamento Fiorenza-Allacciamento A4 (milano V.Le Certosa) e Svincolo Fiera Milano  in direzione Varese  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:32:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:32:00Z</dc:date>
-    </item>
-    <item>
-      <title>Bologna Via San Donato</title>
-      <description>Bologna Via San Donato
- impianto semaforico non funzionante correttamente  a Viale Zagabria  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:32:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:32:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS434 Transpolesana</title>
-      <description>SS434 Transpolesana
- corsia chiusa causa veicolo in avaria  a Incrocio Badia Polesine - SS482 Alto Polesana in direzione Incrocio Rovigo Sud - SS16 Adriatica  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 08:32:00 GMT</pubDate>
-      <dc:date>2026-11-07T08:32:00Z</dc:date>
     </item>
   </channel>
 </rss>
