@@ -5,32 +5,466 @@
     <link>https://www.cciss.it</link>
     <description>Notizie di traffico, eventi e informazioni</description>
     <item>
-      <title>Torino Via della Rocca</title>
-      <description>Torino Via della Rocca
- lavori dalle 00:00 del 8 novembre alle 23:59 del 7 dicembre 2026  tra Via Giovanni Giolitti e Piazza Maria Teresa   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:50:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:50:00Z</dc:date>
+      <title>Milano Via degli Ottoboni</title>
+      <description>Milano Via degli Ottoboni
+ incidente  a Via degli Ottoboni  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:34:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:34:00Z</dc:date>
     </item>
     <item>
-      <title>A1 Diramazione Roma Sud</title>
-      <description>A1 Diramazione Roma Sud
- veicolo fermo o in avaria dalle 11:49 del 8 novembre 2026  tra Barriera Di Roma Sud e Svincolo Monteporzio  in direzione autostrada Milano-Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:50:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:50:00Z</dc:date>
+      <title>TG-BO Tangenziale Di Bologna</title>
+      <description>TG-BO Tangenziale Di Bologna
+ veicolo fermo o in avaria dalle 12:33 del 8 novembre 2026  tra Svincolo 2 Bologna Centro-Bo Borgo Panigale e Svincolo 1 Bologna Casalecchio  in direzione autostrada Milano-Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:34:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:34:00Z</dc:date>
     </item>
     <item>
-      <title>A11 Firenze-Pisa</title>
-      <description>A11 Firenze-Pisa
- perdita di carico dalle 11:47 del 8 novembre 2026  tra Svincolo Montecatini e Svincolo Pistoia  in direzione Firenze  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:49:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:49:00Z</dc:date>
+      <title>A14 Bologna-Ancona</title>
+      <description>A14 Bologna-Ancona
+ veicolo fermo o in avaria dalle 12:33 del 8 novembre 2026  tra Svincolo Senigallia e Svincolo Marotta-Mondolfo  in direzione Bologna  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:34:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:34:00Z</dc:date>
+    </item>
+    <item>
+      <title>Prato Via Lazzaro Spallanzani</title>
+      <description>Prato Via Lazzaro Spallanzani
+ strada chiusa causa lavori dalle 08:00 alle 18:00 del 13 novembre 2026  tra Via Marcello Malpighi e Via di Cantagallo   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:33:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:33:00Z</dc:date>
+    </item>
+    <item>
+      <title>Roma Viale di Trastevere</title>
+      <description>Roma Viale di Trastevere
+ incidente traffico rallentato  a Piazza Ippolito Nievo  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:32:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:32:00Z</dc:date>
+    </item>
+    <item>
+      <title>Prato Via Lazzaro Spallanzani</title>
+      <description>Prato Via Lazzaro Spallanzani
+ strada chiusa causa lavori dalle 08:00 alle 18:00 del 12 novembre 2026  tra Via Marcello Malpighi e Via di Cantagallo   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:32:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:32:00Z</dc:date>
+    </item>
+    <item>
+      <title>A24 Tratto Urbano</title>
+      <description>A24 Tratto Urbano
+ veicolo fermo o in avaria dalle 12:30 del 8 novembre 2026  tra Svincolo Via Fiorentini e Svincolo Tangenziale Est  in direzione tangenziale Est  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:32:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:32:00Z</dc:date>
+    </item>
+    <item>
+      <title>Prato Via Lazzaro Spallanzani</title>
+      <description>Prato Via Lazzaro Spallanzani
+ strada chiusa causa lavori dalle 08:00 alle 18:00 del 11 novembre 2026  tra Via Marcello Malpighi e Via di Cantagallo   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:31:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:31:00Z</dc:date>
+    </item>
+    <item>
+      <title>Prato Via Lazzaro Spallanzani</title>
+      <description>Prato Via Lazzaro Spallanzani
+ lavori dalle 08:00 alle 18:00 del 10 novembre 2026  tra Via Marcello Malpighi e Via di Cantagallo   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:29:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:29:00Z</dc:date>
+    </item>
+    <item>
+      <title>A10 Genova-Ventimiglia</title>
+      <description>A10 Genova-Ventimiglia
+ lavori  tra 2,035 km dopo Svincolo Spotorno e 1,331 km prima di Svincolo Orco Feglino  in direzione Ventimiglia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:28:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:28:00Z</dc:date>
+    </item>
+    <item>
+      <title>A10 Genova-Ventimiglia</title>
+      <description>A10 Genova-Ventimiglia
+ code a tratti per 1 km causa lavori  tra 2,632 km prima di Svincolo Finale Ligure e 6,645 km dopo Svincolo Spotorno  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:28:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:28:00Z</dc:date>
+    </item>
+    <item>
+      <title>A10 Genova-Ventimiglia</title>
+      <description>A10 Genova-Ventimiglia
+ lavori  tra 46 m prima di Svincolo Orco Feglino e 3,534 km dopo Svincolo Spotorno  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:28:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:28:00Z</dc:date>
+    </item>
+    <item>
+      <title>Prato Via dei Ciliani</title>
+      <description>Prato Via dei Ciliani
+ lavori dalle 08:00 del 9 alle 18:00 del 10 novembre 2026  tra Via Enrico Toti e Via Reno   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:28:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:28:00Z</dc:date>
+    </item>
+    <item>
+      <title>Milano Via dei Panigarola</title>
+      <description>Milano Via dei Panigarola
+ incidente  a Via dei Panigarola  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:28:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:28:00Z</dc:date>
+    </item>
+    <item>
+      <title>Guidizzolo Via Henry Dunant</title>
+      <description>Guidizzolo Via Henry Dunant
+ incidente  a Via Henry Dunant  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:27:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:27:00Z</dc:date>
+    </item>
+    <item>
+      <title>A55 Diramazione Per Pinerolo</title>
+      <description>A55 Diramazione Per Pinerolo
+ veicolo in avaria  a Allacciamento Drosso - Allacciamento Tangenziale Sud Di Torino in direzione Svincolo Torino - Corso Orbassano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:26:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:26:00Z</dc:date>
+    </item>
+    <item>
+      <title>A24 Tratto Urbano</title>
+      <description>A24 Tratto Urbano
+ incidente dalle 12:20 del 8 novembre 2026  tra Svincolo Via Fiorentini e Svincolo Tangenziale Est  in direzione tangenziale Est  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:26:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:26:00Z</dc:date>
+    </item>
+    <item>
+      <title>A23 Palmanova-Tarvisio</title>
+      <description>A23 Palmanova-Tarvisio
+ veicolo fermo o in avaria dalle 12:24 del 8 novembre 2026  tra Svincolo Pontebba e Barriera Di Ugovizza-Tarvisio  in direzione Tarvisio  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:26:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:26:00Z</dc:date>
+    </item>
+    <item>
+      <title>A8 Diramazione Per Gallarate-Gattico</title>
+      <description>A8 Diramazione Per Gallarate-Gattico
+ perdita di carico dalle 12:24 del 8 novembre 2026  tra Svincolo Sesto Calende-Vergiate e Svincolo Castelletto Ticino  in direzione A26 Genova Voltri-Gravellona Toce  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:26:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:26:00Z</dc:date>
+    </item>
+    <item>
+      <title>Prato Via Gaetano Corsani</title>
+      <description>Prato Via Gaetano Corsani
+ riduzione di carreggiata causa lavori dalle 08:00 del 10 alle 18:00 del 14 novembre 2026  tra Via Alberto Casella e Via Evaristo Gherardi   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:25:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:25:00Z</dc:date>
+    </item>
+    <item>
+      <title>Desenzano del Garda Via Salvello</title>
+      <description>Desenzano del Garda Via Salvello
+ incidente  a Via Salvello  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:24:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:24:00Z</dc:date>
+    </item>
+    <item>
+      <title>Grumello del Monte Via Roma</title>
+      <description>Grumello del Monte Via Roma
+ incidente  a Via Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:23:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:23:00Z</dc:date>
+    </item>
+    <item>
+      <title>Prato Via Montalese</title>
+      <description>Prato Via Montalese
+ lavori dalle 08:00 alle 13:00 del 9 novembre 2026  a Via Senio  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:23:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:23:00Z</dc:date>
+    </item>
+    <item>
+      <title>Prato Via Podere della Torretta</title>
+      <description>Prato Via Podere della Torretta
+ lavori dalle 08:00 del 9 alle 18:00 del 10 novembre 2026  tra Via Alessandro Scarlatti e Via Arcangelo Corelli   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:22:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:22:00Z</dc:date>
+    </item>
+    <item>
+      <title>A24 Tratto Urbano</title>
+      <description>A24 Tratto Urbano
+ code causa incidente dalle 12:21 del 8 novembre 2026  tra Svincolo Via Fiorentini e Svincolo Tangenziale Est  in direzione tangenziale Est  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:22:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:22:00Z</dc:date>
+    </item>
+    <item>
+      <title>Prato Viale Borgo Valsugana</title>
+      <description>Prato Viale Borgo Valsugana
+ lavori dalle 08:00 alle 18:00 del 11 novembre 2026  tra Via Bernardo Segni e Via Donato Giannotti   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:19:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:19:00Z</dc:date>
+    </item>
+    <item>
+      <title>Tangenziale Est (RM)</title>
+      <description>Tangenziale Est (RM)
+ traffico rallentato causa traffico intenso  tra Incrocio Uscita Via dei Campi Sportivi e Incrocio Uscita Corso di Francia  in direzione Incrocio Piazzale degli Eroi  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:19:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:19:00Z</dc:date>
+    </item>
+    <item>
+      <title>A7 Milano-Genova</title>
+      <description>A7 Milano-Genova
+ veicolo in panne  tra Allacciamento A21 Torino-Piacenza-Brescia e Svincolo Castelnuovo Scrivia  in direzione Milano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:19:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:19:00Z</dc:date>
+    </item>
+    <item>
+      <title>T4-TRF Fre Traforo Del Frejus</title>
+      <description>T4-TRF Fre Traforo Del Frejus
+ lavori dalle 22:15 del 24 alle 05:30 del 28 novembre 2026  tra Galleria Inzio Traforo - versante Italiano e Galleria Inzio Traforo - versante Francese   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:18:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:18:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS16 Adriatica</title>
+      <description>SS16 Adriatica
+ traffico rallentato causa frana  tra 10,495 km dopo Incrocio Cattabriche e 9,4 km prima di Incrocio Fano-Madonna del Ponte   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:18:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:18:00Z</dc:date>
+    </item>
+    <item>
+      <title>Prato Viale Piave</title>
+      <description>Prato Viale Piave
+ lavori dalle 19:00 alle 20:00 del 13 novembre 2026  tra Piazza Santa Maria delle Carceri e Via Dante   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:17:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:17:00Z</dc:date>
+    </item>
+    <item>
+      <title>Prato Via Raffaello Lambruschini</title>
+      <description>Prato Via Raffaello Lambruschini
+ lavori dalle 08:00 alle 18:00 del 13 novembre 2026  tra Via Antonio Rosmini e Via Armando Diaz   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:16:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:16:00Z</dc:date>
+    </item>
+    <item>
+      <title>A24 Roma-Teramo</title>
+      <description>A24 Roma-Teramo
+ veicolo fermo o in avaria dalle 11:37 del 8 novembre 2026  tra Svincolo Tivoli e Svincolo Castel Madama  in direzione Teramo  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:15:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:15:00Z</dc:date>
+    </item>
+    <item>
+      <title>A24 Roma-Teramo</title>
+      <description>A24 Roma-Teramo
+ veicolo fermo o in avaria dalle 12:00 del 8 novembre 2026  tra Svincolo Vicovaro-Mandela e Svincolo Carsoli-Oricola  in direzione Teramo  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:15:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:15:00Z</dc:date>
+    </item>
+    <item>
+      <title>A25 Torano-Pescara</title>
+      <description>A25 Torano-Pescara
+ veicolo fermo o in avaria dalle 12:11 del 8 novembre 2026  tra Svincolo Scafa-Alanno e Svincolo Casauria-Torre De  Passeri  in direzione autostrada Roma-Teramo  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:15:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:15:00Z</dc:date>
     </item>
     <item>
       <title>A26 Genova-Gravellona Toce</title>
       <description>A26 Genova-Gravellona Toce
  veicolo fermo o in avaria dalle 11:36 del 8 novembre 2026  tra Allacciamento A10 Genova-Ventimiglia e Svincolo Masone  in direzione Gravellona Toce  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:49:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:49:00Z</dc:date>
+      <pubDate>Sun, 08 Nov 2026 11:15:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:15:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Diramazione Roma Sud</title>
+      <description>A1 Diramazione Roma Sud
+ veicolo fermo o in avaria dalle 11:59 del 8 novembre 2026  tra Barriera Di Roma Sud e Svincolo Monteporzio  in direzione autostrada Milano-Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:15:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:15:00Z</dc:date>
+    </item>
+    <item>
+      <title>A27 Mestre-Belluno</title>
+      <description>A27 Mestre-Belluno
+ veicolo fermo o in avaria dalle 11:33 del 8 novembre 2026  tra Allacciamento A28 Venezia-Belluno e Svincolo Vittorio Veneto Sud  in direzione Belluno  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:15:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:15:00Z</dc:date>
+    </item>
+    <item>
+      <title>Prato Via Raffaello Lambruschini</title>
+      <description>Prato Via Raffaello Lambruschini
+ lavori dalle 08:00 alle 18:00 del 11 novembre 2026  tra Via Armando Diaz e Via Cesare Balbo   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:15:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:15:00Z</dc:date>
+    </item>
+    <item>
+      <title>A12 Genova-Rosignano</title>
+      <description>A12 Genova-Rosignano
+ veicolo fermo o in avaria dalle 12:02 del 8 novembre 2026  a Svincolo Genova Est in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:14:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:14:00Z</dc:date>
+    </item>
+    <item>
+      <title>A5 Torino-Courmayeur</title>
+      <description>A5 Torino-Courmayeur
+ veicolo fermo o in avaria dalle 11:54 del 8 novembre 2026  tra Svincolo Morgex (entrata Direzione Sud) e Svincolo Entrata Courmayeur Sud  in direzione Monte Bianco  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:13:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:13:00Z</dc:date>
+    </item>
+    <item>
+      <title>Prato Viale Montegrappa</title>
+      <description>Prato Viale Montegrappa
+ senso unico alternato causa lavori dalle 08:00 del 11 alle 18:00 del 12 novembre 2026  tra Via Francesco Ferrucci e Via dello Zamputo   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:13:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:13:00Z</dc:date>
+    </item>
+    <item>
+      <title>Prato Via Etrusca</title>
+      <description>Prato Via Etrusca
+ lavori dalle 08:00 del 9 alle 18:00 del 20 novembre 2026  tra Via Firenze e Via Mugellese   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:11:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:11:00Z</dc:date>
+    </item>
+    <item>
+      <title>A55 Tangenziale Sud Di Torino</title>
+      <description>A55 Tangenziale Sud Di Torino
+ veicolo in avaria  a Allacciamento Interconnessione Tangenziale Nord in direzione Allacciamento Interconnessione Tangenziale Nord  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:10:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:10:00Z</dc:date>
+    </item>
+    <item>
+      <title>A9 Lainate-Chiasso</title>
+      <description>A9 Lainate-Chiasso
+ code dalle 12:09 del 8 novembre 2026  tra Svincolo Como Monte Olimpino e Svincolo Lago di Como  in direzione Svizzera  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:10:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:10:00Z</dc:date>
+    </item>
+    <item>
+      <title>Prato Viale Vittorio Veneto</title>
+      <description>Prato Viale Vittorio Veneto
+ lavori dalle 08:00 alle 18:00 del 9 novembre 2026  tra Piazza Europa e Piazza San Marco   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:10:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:10:00Z</dc:date>
+    </item>
+    <item>
+      <title>Prato Piazza Santa Maria delle Carceri</title>
+      <description>Prato Piazza Santa Maria delle Carceri
+ lavori dalle 08:00 del 1 alle 23:59 del 2 febbraio 2027  tra Via Dante e Via San Bonaventura   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:09:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:09:00Z</dc:date>
+    </item>
+    <item>
+      <title>A13 Bologna-Padova</title>
+      <description>A13 Bologna-Padova
+ veicolo fermo o in avaria dalle 12:07 del 8 novembre 2026  tra Svincolo Ferrara Sud e Svincolo Altedo  in direzione Bologna  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:08:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:08:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Diramazione Roma Sud</title>
+      <description>A1 Diramazione Roma Sud
+ code causa viabilità esterna non riceve dalle 12:06 del 8 novembre 2026  tra Svincolo Torrenova e Allacciamento A90-GRA  in direzione G.r.a.  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:07:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:07:00Z</dc:date>
+    </item>
+    <item>
+      <title>Prato Via Bogardo Buricchi</title>
+      <description>Prato Via Bogardo Buricchi
+ lavori dalle 08:00 del 9 novembre 2026 alle 23:59 del 9 dicembre 2026  tra Via Bruno Zucca e Via dei Ciliani   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:07:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:07:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Firenze-Roma</title>
+      <description>A1 Firenze-Roma
+ veicoli scortati per maltempo causa fondo stradale dissestato dalle 12:04 del 8 novembre 2026  tra Svincolo Orte e Svincolo Magliano Sabina  in direzione Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:06:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:06:00Z</dc:date>
+    </item>
+    <item>
+      <title>Prato Via dei Ciliani</title>
+      <description>Prato Via dei Ciliani
+ lavori dalle 08:00 del 9 novembre 2026 alle 23:59 del 9 dicembre 2026  a Via Bogardo Buricchi  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:06:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:06:00Z</dc:date>
+    </item>
+    <item>
+      <title>T4-TRF Fre Traforo Del Frejus</title>
+      <description>T4-TRF Fre Traforo Del Frejus
+ chiusura notturna, galleria chiusa causa lavori dalle 22:00 del 23 alle 06:00 del 24 novembre 2026  tra Galleria Inzio Traforo - versante Italiano e Galleria Inzio Traforo - versante Francese   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:03:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:03:00Z</dc:date>
+    </item>
+    <item>
+      <title>Casatenovo Via Generale G. Sirtori</title>
+      <description>Casatenovo Via Generale G. Sirtori
+ incidente  a Via Generale G. Sirtori  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:03:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:03:00Z</dc:date>
+    </item>
+    <item>
+      <title>T4-TRF Fre Traforo Del Frejus</title>
+      <description>T4-TRF Fre Traforo Del Frejus
+ chiusura notturna, galleria chiusa causa lavori di installazione dalle 22:00 del 20 alle 06:00 del 22 novembre 2026  tra Galleria Inzio Traforo - versante Francese e Galleria Inzio Traforo - versante Italiano  in direzione Barriera di Bardonecchia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:02:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:02:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS16 Adriatica</title>
+      <description>SS16 Adriatica
+ tratto chiuso causa incidente  a Incrocio Lecce/Raccordo Per SS613 Brindisi-Lecce in direzione Incrocio Padova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:02:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:02:00Z</dc:date>
+    </item>
+    <item>
+      <title>Lecco Corso Martiri della Liberazione</title>
+      <description>Lecco Corso Martiri della Liberazione
+ incidente  a Corso Martiri della Liberazione  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:02:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:02:00Z</dc:date>
+    </item>
+    <item>
+      <title>Pesaro Via Tebaldi</title>
+      <description>Pesaro Via Tebaldi
+ riduzione di carreggiata causa lavori dalle 00:00 del 9 novembre alle 23:59 del 15 dicembre 2026  tra Via Enrico Caviglia e Via Giordano Bruno   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:01:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:01:00Z</dc:date>
+    </item>
+    <item>
+      <title>Galbiate SP58</title>
+      <description>Galbiate SP58
+ incidente che coinvolge  motociclette  a SP58  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 11:00:00 GMT</pubDate>
+      <dc:date>2026-11-08T11:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Bottanuco Viale Industria</title>
+      <description>Bottanuco Viale Industria
+ incidente che coinvolge ciclisti  a Viale Industria  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 10:59:00 GMT</pubDate>
+      <dc:date>2026-11-08T10:59:00Z</dc:date>
+    </item>
+    <item>
+      <title>Pesaro Via Giambattista Passeri</title>
+      <description>Pesaro Via Giambattista Passeri
+ strada chiusa causa lavori dalle 08:30 del 9 alle 17:30 del 10 novembre 2026  tra Via Domenico Mazza e Via dell Arco   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 10:57:00 GMT</pubDate>
+      <dc:date>2026-11-08T10:57:00Z</dc:date>
+    </item>
+    <item>
+      <title>Torino Via Pessinetto</title>
+      <description>Torino Via Pessinetto
+ lavori dalle 07:00 alle 13:00 del 2 dicembre 2026  tra Via Balangero e Corso Svizzera   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 10:53:00 GMT</pubDate>
+      <dc:date>2026-11-08T10:53:00Z</dc:date>
+    </item>
+    <item>
+      <title>A5 Torino-Courmayeur</title>
+      <description>A5 Torino-Courmayeur
+ veicolo in avaria  a Svincolo Quincinetto in direzione Courmayeur  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 10:52:00 GMT</pubDate>
+      <dc:date>2026-11-08T10:52:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Diramazione Roma Sud</title>
+      <description>A1 Diramazione Roma Sud
+ veicolo fermo o in avaria dalle 11:49 del 8 novembre 2026  tra Barriera Di Roma Sud e Svincolo Monteporzio  in direzione autostrada Milano-Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 10:51:00 GMT</pubDate>
+      <dc:date>2026-11-08T10:51:00Z</dc:date>
+    </item>
+    <item>
+      <title>Torino Via Paolo Braccini</title>
+      <description>Torino Via Paolo Braccini
+ lavori dalle 07:00 alle 15:00 del 23 novembre 2026  tra Via Chiomonte e Via Lurisia   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 10:51:00 GMT</pubDate>
+      <dc:date>2026-11-08T10:51:00Z</dc:date>
+    </item>
+    <item>
+      <title>Torino Via della Rocca</title>
+      <description>Torino Via della Rocca
+ lavori dalle 00:00 del 8 novembre alle 23:59 del 7 dicembre 2026  tra Via Giovanni Giolitti e Piazza Maria Teresa   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 10:50:00 GMT</pubDate>
+      <dc:date>2026-11-08T10:50:00Z</dc:date>
     </item>
     <item>
       <title>Torino Via Giovanni Giolitti</title>
@@ -47,13 +481,6 @@
       <dc:date>2026-11-08T10:46:00Z</dc:date>
     </item>
     <item>
-      <title>A14 Bologna-Ancona</title>
-      <description>A14 Bologna-Ancona
- veicolo fermo o in avaria dalle 11:40 del 8 novembre 2026  tra Svincolo Faenza e Allacciamento Diramazione Per Ravenna  in direzione Bologna  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:46:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:46:00Z</dc:date>
-    </item>
-    <item>
       <title>Torino Via Portula</title>
       <description>Torino Via Portula
  lavori dalle 08:00 del 23 alle 18:00 del 30 novembre 2026  tra Via Bernardino Luini e Via Gattico   &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -66,13 +493,6 @@
  veicolo fermo o in avaria dalle 11:44 del 8 novembre 2026  a Svincolo San Severo in direzione da Bari  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sun, 08 Nov 2026 10:45:00 GMT</pubDate>
       <dc:date>2026-11-08T10:45:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Pescara-Bari</title>
-      <description>A14 Pescara-Bari
- incidente dalle 11:33 del 8 novembre 2026  tra Svincolo Ortona e Svincolo Pescara Sud-Francavilla  in direzione Pescara  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:43:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:43:00Z</dc:date>
     </item>
     <item>
       <title>Torino Via Bologna</title>
@@ -96,37 +516,9 @@
       <dc:date>2026-11-08T10:40:00Z</dc:date>
     </item>
     <item>
-      <title>A12 Genova-Rosignano</title>
-      <description>A12 Genova-Rosignano
- veicoli scortati per maltempo causa perdita di carico dalle 11:39 del 8 novembre 2026  tra Svincolo Chiavari e Svincolo Recco  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:40:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:40:00Z</dc:date>
-    </item>
-    <item>
-      <title>A24 Roma-Teramo</title>
-      <description>A24 Roma-Teramo
- veicolo fermo o in avaria dalle 11:37 del 8 novembre 2026  tra Svincolo Tivoli e Svincolo Castel Madama  in direzione Teramo  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:39:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:39:00Z</dc:date>
-    </item>
-    <item>
-      <title>A16 Napoli-Canosa</title>
-      <description>A16 Napoli-Canosa
- personale su strada causa lavori dalle 11:37 del 8 novembre 2026  tra Svincolo Cerignola e Svincolo Candela  in direzione Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:39:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:39:00Z</dc:date>
-    </item>
-    <item>
       <title>Torino Via Borgo Dora</title>
       <description>Torino Via Borgo Dora
  lavori dalle 07:00 del 9 novembre 2026 alle 23:59 del 14 dicembre 2026  tra Piazza Borgo Dora e Via Bernardino Lanino   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:38:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:38:00Z</dc:date>
-    </item>
-    <item>
-      <title>A56 Tangenziale Di Napoli</title>
-      <description>A56 Tangenziale Di Napoli
- code causa viabilità esterna non riceve dalle 10:27 del 8 novembre 2026  a Svincolo Fuorigrotta  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sun, 08 Nov 2026 10:38:00 GMT</pubDate>
       <dc:date>2026-11-08T10:38:00Z</dc:date>
     </item>
@@ -145,44 +537,9 @@
       <dc:date>2026-11-08T10:37:00Z</dc:date>
     </item>
     <item>
-      <title>A14 Ancona-Pescara</title>
-      <description>A14 Ancona-Pescara
- veicolo fermo o in avaria dalle 11:35 del 8 novembre 2026  tra Svincolo Teramo-Giulianova-Mosciano e Svincolo Val Vibrata  in direzione Ancona  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:37:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:37:00Z</dc:date>
-    </item>
-    <item>
-      <title>A27 Mestre-Belluno</title>
-      <description>A27 Mestre-Belluno
- veicolo fermo o in avaria dalle 11:34 del 8 novembre 2026  tra Allacciamento A28 Venezia-Belluno e Svincolo Treviso Nord  in direzione Venezia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:36:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:36:00Z</dc:date>
-    </item>
-    <item>
-      <title>A55 Tangenziale Sud Di Torino</title>
-      <description>A55 Tangenziale Sud Di Torino
- traffico rallentato&amp;nbsp;con&amp;nbsp;code a tratti  tra 900 m dopo Svincolo Autoporto S.I.T.O. e 1,4 km prima di Svincolo Corso Allamano  in direzione Allacciamento Interconnessione Tangenziale Nord  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:36:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:36:00Z</dc:date>
-    </item>
-    <item>
-      <title>A55 Tangenziale Sud Di Torino</title>
-      <description>A55 Tangenziale Sud Di Torino
- veicolo in avaria  a Svincolo Corso Allamano in direzione Allacciamento Interconnessione Tangenziale Nord  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:36:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:36:00Z</dc:date>
-    </item>
-    <item>
       <title>Roncoferraro Via Battisti</title>
       <description>Roncoferraro Via Battisti
  incidente  a Via Battisti  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:35:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:35:00Z</dc:date>
-    </item>
-    <item>
-      <title>A27 Mestre-Belluno</title>
-      <description>A27 Mestre-Belluno
- veicolo fermo o in avaria dalle 11:33 del 8 novembre 2026  tra Allacciamento A28 Venezia-Belluno e Svincolo Vittorio Veneto Sud  in direzione Belluno  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sun, 08 Nov 2026 10:35:00 GMT</pubDate>
       <dc:date>2026-11-08T10:35:00Z</dc:date>
     </item>
@@ -208,13 +565,6 @@
       <dc:date>2026-11-08T10:33:00Z</dc:date>
     </item>
     <item>
-      <title>Sermide SS496</title>
-      <description>Sermide SS496
- incidente  a SS496  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:33:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:33:00Z</dc:date>
-    </item>
-    <item>
       <title>Torino Via Mompellato</title>
       <description>Torino Via Mompellato
  lavori dalle 00:00 del 9 novembre 2026 alle 23:59 del 8 febbraio 2027  tra Via Bussoleno e Via Martino Spanzotti   &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -229,23 +579,9 @@
       <dc:date>2026-11-08T10:31:00Z</dc:date>
     </item>
     <item>
-      <title>Galbiate SP58</title>
-      <description>Galbiate SP58
- incidente  a SP58  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:30:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:30:00Z</dc:date>
-    </item>
-    <item>
       <title>Torino Via Cavagnolo</title>
       <description>Torino Via Cavagnolo
  lavori dalle 00:00 del 9 novembre 2026 alle 23:59 del 8 febbraio 2027  tra Via Angelo Tasca e Via Cuorgnè   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:30:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:30:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS16 Adriatica</title>
-      <description>SS16 Adriatica
- tratto chiuso causa incidente  a Incrocio Lecce/Raccordo Per SS613 Brindisi-Lecce in direzione Incrocio Padova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sun, 08 Nov 2026 10:30:00 GMT</pubDate>
       <dc:date>2026-11-08T10:30:00Z</dc:date>
     </item>
@@ -255,27 +591,6 @@
  lavori dalle 00:00 del 9 novembre 2026 alle 23:59 del 8 febbraio 2027  a Via Verres  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sun, 08 Nov 2026 10:29:00 GMT</pubDate>
       <dc:date>2026-11-08T10:29:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Pescara-Bari</title>
-      <description>A14 Pescara-Bari
- perdita di carico dalle 11:26 del 8 novembre 2026  tra Svincolo Ortona e Svincolo Lanciano  in direzione Bari  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:29:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:29:00Z</dc:date>
-    </item>
-    <item>
-      <title>Roma Via della Pisana</title>
-      <description>Roma Via della Pisana
- incidente traffico rallentato  a Via dei Matteini  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:29:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:29:00Z</dc:date>
-    </item>
-    <item>
-      <title>Bottanuco Viale Industria</title>
-      <description>Bottanuco Viale Industria
- incidente  a Viale Industria  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:28:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:28:00Z</dc:date>
     </item>
     <item>
       <title>Torino Via Campobasso</title>
@@ -290,27 +605,6 @@
  riduzione di carreggiata causa lavori dalle 00:00 del 9 novembre 2026 alle 23:59 del 8 febbraio 2027  tra Corso Principe Oddone e Piazza Generale Antonio Baldissera   &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sun, 08 Nov 2026 10:26:00 GMT</pubDate>
       <dc:date>2026-11-08T10:26:00Z</dc:date>
-    </item>
-    <item>
-      <title>A12 Genova-Rosignano</title>
-      <description>A12 Genova-Rosignano
- perdita di carico dalle 11:23 del 8 novembre 2026  tra Svincolo Genova Nervi e Svincolo Genova Est  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:26:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:26:00Z</dc:date>
-    </item>
-    <item>
-      <title>A56 Tangenziale Di Napoli</title>
-      <description>A56 Tangenziale Di Napoli
- traffico rallentato causa viabilità esterna non riceve dalle 10:40 del 8 novembre 2026  tra Svincolo Zona Ospedaliera e Svincolo Fuorigrotta  in direzione Pozzuoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:26:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:26:00Z</dc:date>
-    </item>
-    <item>
-      <title>Gorgonzola Via Lazzaretto</title>
-      <description>Gorgonzola Via Lazzaretto
- incidente che coinvolge ciclisti  a Via Lazzaretto  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:25:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:25:00Z</dc:date>
     </item>
     <item>
       <title>Torino Via Carlo Boncompagni</title>
@@ -330,27 +624,6 @@
       <title>Torino Corso Siracusa</title>
       <description>Torino Corso Siracusa
  riduzione di carreggiata causa lavori dalle 08:00 del 9 alle 18:00 del 27 novembre 2026  tra Via Filadelfia e Via Boston   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:21:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:21:00Z</dc:date>
-    </item>
-    <item>
-      <title>A10 Genova-Ventimiglia</title>
-      <description>A10 Genova-Ventimiglia
- lavori  tra 2,035 km dopo Svincolo Spotorno e 1,331 km prima di Svincolo Orco Feglino  in direzione Ventimiglia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:21:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:21:00Z</dc:date>
-    </item>
-    <item>
-      <title>A10 Genova-Ventimiglia</title>
-      <description>A10 Genova-Ventimiglia
- code a tratti causa lavori  tra 1,316 km prima di Svincolo Pietra Ligure e 6,645 km dopo Svincolo Spotorno  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:21:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:21:00Z</dc:date>
-    </item>
-    <item>
-      <title>A10 Genova-Ventimiglia</title>
-      <description>A10 Genova-Ventimiglia
- lavori  tra 46 m prima di Svincolo Orco Feglino e 3,534 km dopo Svincolo Spotorno  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sun, 08 Nov 2026 10:21:00 GMT</pubDate>
       <dc:date>2026-11-08T10:21:00Z</dc:date>
     </item>
@@ -397,13 +670,6 @@
       <dc:date>2026-11-08T10:13:00Z</dc:date>
     </item>
     <item>
-      <title>A14 Pescara-Bari</title>
-      <description>A14 Pescara-Bari
- personale su strada causa lavori dalle 11:09 del 8 novembre 2026  tra Svincolo Termoli-Molise e Svincolo Poggio Imperiale  in direzione Bari  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 10:11:00 GMT</pubDate>
-      <dc:date>2026-11-08T10:11:00Z</dc:date>
-    </item>
-    <item>
       <title>Torino Via Boston</title>
       <description>Torino Via Boston
  riduzione di carreggiata causa lavori dalle 08:00 del 13 alle 18:00 del 27 novembre 2026  tra Corso Orbassano e Via Gorizia   &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -437,272 +703,6 @@
  code causa traffico intenso dalle 10:58 del 8 novembre 2026  a Svincolo Ponzano Romano-Soratte in direzione da Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sun, 08 Nov 2026 10:00:00 GMT</pubDate>
       <dc:date>2026-11-08T10:00:00Z</dc:date>
-    </item>
-    <item>
-      <title>Torino Piazza Pitagora</title>
-      <description>Torino Piazza Pitagora
- riduzione di carreggiata causa lavori dalle 08:00 del 9 alle 18:00 del 20 novembre 2026  tra Corso Orbassano e Corso Siracusa   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 09:54:00 GMT</pubDate>
-      <dc:date>2026-11-08T09:54:00Z</dc:date>
-    </item>
-    <item>
-      <title>Torino Via Don Bartolomeo Grazioli</title>
-      <description>Torino Via Don Bartolomeo Grazioli
- riduzione di carreggiata causa lavori dalle 08:00 del 9 alle 18:00 del 20 novembre 2026  tra Corso Orbassano e Corso Siracusa   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 09:51:00 GMT</pubDate>
-      <dc:date>2026-11-08T09:51:00Z</dc:date>
-    </item>
-    <item>
-      <title>Torino Via Tommaso Masaccio</title>
-      <description>Torino Via Tommaso Masaccio
- riduzione di carreggiata causa lavori dalle 08:00 del 9 alle 18:00 del 27 novembre 2026  tra Via Andrea Sansovino e Corso Grosseto   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 09:49:00 GMT</pubDate>
-      <dc:date>2026-11-08T09:49:00Z</dc:date>
-    </item>
-    <item>
-      <title>A24 Roma-Teramo</title>
-      <description>A24 Roma-Teramo
- code causa traffico intenso dalle 10:46 del 8 novembre 2026  a Svincolo Vicovaro-Mandela  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 09:48:00 GMT</pubDate>
-      <dc:date>2026-11-08T09:48:00Z</dc:date>
-    </item>
-    <item>
-      <title>Torino Via Andrea Sansovino</title>
-      <description>Torino Via Andrea Sansovino
- riduzione di carreggiata causa lavori dalle 08:00 del 9 alle 18:00 del 27 novembre 2026  tra Strada di Altessano e Via Andrea Sansovino N. 243   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 09:48:00 GMT</pubDate>
-      <dc:date>2026-11-08T09:48:00Z</dc:date>
-    </item>
-    <item>
-      <title>Torino Via Quinto Bevilacqua</title>
-      <description>Torino Via Quinto Bevilacqua
- riduzione di carreggiata causa lavori dalle 08:00 del 9 alle 18:00 del 27 novembre 2026  tra Via Postumia e Via Chambery   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 09:46:00 GMT</pubDate>
-      <dc:date>2026-11-08T09:46:00Z</dc:date>
-    </item>
-    <item>
-      <title>Torino Via Quinto Bevilacqua</title>
-      <description>Torino Via Quinto Bevilacqua
- riduzione di carreggiata causa lavori dalle 08:00 del 9 alle 18:00 del 27 novembre 2026  tra Via Mario Ponzio e Via Luca Della Robbia   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 09:45:00 GMT</pubDate>
-      <dc:date>2026-11-08T09:45:00Z</dc:date>
-    </item>
-    <item>
-      <title>Torino Via Chambery</title>
-      <description>Torino Via Chambery
- lavori dalle 08:00 del 13 novembre 2026 alle 18:00 del 1 dicembre 2026  tra Via Eritrea e Via Crea   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 09:43:00 GMT</pubDate>
-      <dc:date>2026-11-08T09:43:00Z</dc:date>
-    </item>
-    <item>
-      <title>Gussago Via Piedeldosso</title>
-      <description>Gussago Via Piedeldosso
- incidente  a Via Piedeldosso  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 09:41:00 GMT</pubDate>
-      <dc:date>2026-11-08T09:41:00Z</dc:date>
-    </item>
-    <item>
-      <title>Torino Via Francesco De Sanctis</title>
-      <description>Torino Via Francesco De Sanctis
- riduzione di carreggiata causa lavori dalle 08:00 del 9 alle 18:00 del 27 novembre 2026  a Via Mario Ponzio  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 09:41:00 GMT</pubDate>
-      <dc:date>2026-11-08T09:41:00Z</dc:date>
-    </item>
-    <item>
-      <title>Roma Via del Foro Italico</title>
-      <description>Roma Via del Foro Italico
- riduzione di carreggiata causa lavori  tra Corso di Francia e Galleria Giovanni XXIII  in direzione Stadio  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 09:40:00 GMT</pubDate>
-      <dc:date>2026-11-08T09:40:00Z</dc:date>
-    </item>
-    <item>
-      <title>Torino Via Monte Ortigara</title>
-      <description>Torino Via Monte Ortigara
- riduzione di carreggiata causa lavori dalle 08:00 del 9 alle 18:00 del 27 novembre 2026  tra Via Sacra di San Michele e Via Luigi Ferdinando Marsigli   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 09:40:00 GMT</pubDate>
-      <dc:date>2026-11-08T09:40:00Z</dc:date>
-    </item>
-    <item>
-      <title>Torino Via Ludovico Bellardi</title>
-      <description>Torino Via Ludovico Bellardi
- lavori dalle 08:00 del 9 alle 18:00 del 13 novembre 2026  tra Via Rochemolles e Corso Bernardino Telesio   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 09:38:00 GMT</pubDate>
-      <dc:date>2026-11-08T09:38:00Z</dc:date>
-    </item>
-    <item>
-      <title>Rozzano Via Eugenio Curiel</title>
-      <description>Rozzano Via Eugenio Curiel
- incidente  a Via Eugenio Curiel  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 09:38:00 GMT</pubDate>
-      <dc:date>2026-11-08T09:38:00Z</dc:date>
-    </item>
-    <item>
-      <title>Torino Via Fratelli Carle</title>
-      <description>Torino Via Fratelli Carle
- lavori dalle 08:00 del 9 alle 18:00 del 13 novembre 2026  tra Corso Alcide De Gasperi e Corso Duca degli Abruzzi   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 09:36:00 GMT</pubDate>
-      <dc:date>2026-11-08T09:36:00Z</dc:date>
-    </item>
-    <item>
-      <title>Torino Via Perrero</title>
-      <description>Torino Via Perrero
- lavori dalle 08:00 del 16 alle 18:00 del 27 novembre 2026  tra Corso Racconigi e Via Frossasco   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 09:34:00 GMT</pubDate>
-      <dc:date>2026-11-08T09:34:00Z</dc:date>
-    </item>
-    <item>
-      <title>Torino Strada del Francese</title>
-      <description>Torino Strada del Francese
- senso unico alternato causa lavori dalle 08:00 del 23 alle 18:00 del 28 novembre 2026  tra Via Lanzo e Via Liguria   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 09:32:00 GMT</pubDate>
-      <dc:date>2026-11-08T09:32:00Z</dc:date>
-    </item>
-    <item>
-      <title>Torino Via Monte Cimone</title>
-      <description>Torino Via Monte Cimone
- lavori dalle 08:00 del 9 alle 18:00 del 20 novembre 2026  tra Strada della Pronda e Via Chambery   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 09:31:00 GMT</pubDate>
-      <dc:date>2026-11-08T09:31:00Z</dc:date>
-    </item>
-    <item>
-      <title>Bologna Rotonda Enrico Brunetti Rodati</title>
-      <description>Bologna Rotonda Enrico Brunetti Rodati
- fondo stradale dissestato  a Via del Terrapieno  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 09:30:00 GMT</pubDate>
-      <dc:date>2026-11-08T09:30:00Z</dc:date>
-    </item>
-    <item>
-      <title>Roma Via della Valle dei Fontanili</title>
-      <description>Roma Via della Valle dei Fontanili
- incidente traffico rallentato  a Via dei Dumas  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 09:28:00 GMT</pubDate>
-      <dc:date>2026-11-08T09:28:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS28 Del Colle Di Nava</title>
-      <description>SS28 Del Colle Di Nava
- corsia chiusa  tra 1,117 km dopo Incrocio Ponte In Nava e 1,165 km prima di Incrocio Case Di Nava   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 09:22:00 GMT</pubDate>
-      <dc:date>2026-11-08T09:22:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS11 Padana Superiore</title>
-      <description>SS11 Padana Superiore
- riduzione di carreggiata causa lavori dalle 00:01 del 30 novembre 2025 alle 23:59 del 30 novembre 2026  a Rotatoria Cavalcaselle - SS450 Di Affi  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 09:11:00 GMT</pubDate>
-      <dc:date>2026-11-08T09:11:00Z</dc:date>
-    </item>
-    <item>
-      <title>A7 Milano-Genova</title>
-      <description>A7 Milano-Genova
- code causa traffico intenso dalle 09:52 del 8 novembre 2026  a Svincolo Busalla in direzione da Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 08:53:00 GMT</pubDate>
-      <dc:date>2026-11-08T08:53:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Roma-Napoli</title>
-      <description>A1 Roma-Napoli
- perdita di carico dalle 09:42 del 8 novembre 2026  tra Svincolo Valmontone e Svincolo Colleferro  in direzione Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 08:45:00 GMT</pubDate>
-      <dc:date>2026-11-08T08:45:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS294 Della Val Di Scalve</title>
-      <description>SS294 Della Val Di Scalve
- tratto chiuso causa chiusura stagionale del passo del vivione  dalle 09:00 del 26 ottobre 2026 alle 23:59 del 30 aprile 2027  tra Incrocio Paisco e Incrocio Passo Del Vivione   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 08:40:00 GMT</pubDate>
-      <dc:date>2026-11-08T08:40:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS294 Della Val Di Scalve</title>
-      <description>SS294 Della Val Di Scalve
- chiusura invernale causa conformazione plano-altimetrica della strada dal km 10+000 al km 11+850 e dal km 24+500 al km 28+500 dalle 09:00 del 6 novembre 2026 alle 23:59 del 30 aprile 2027  tra Incrocio Paisco e Incrocio Passo Del Vivione   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 08:37:00 GMT</pubDate>
-      <dc:date>2026-11-08T08:37:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS294 Della Val Di Scalve</title>
-      <description>SS294 Della Val Di Scalve
- senso unico alternato causa lavori dalle 08:30 del 9 alle 17:30 del 13 novembre 2026  tra Incrocio Forno Allione - SS42 Del Tonale E Mendola e Incrocio Paisco   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 08:35:00 GMT</pubDate>
-      <dc:date>2026-11-08T08:35:00Z</dc:date>
-    </item>
-    <item>
-      <title>A25 Torano-Pescara</title>
-      <description>A25 Torano-Pescara
- nebbia a banchi dalle 22:56 del 7 novembre 2026  tra Allacciamento A24 Roma-Teramo e Svincolo Pescina   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 08:01:00 GMT</pubDate>
-      <dc:date>2026-11-08T08:01:00Z</dc:date>
-    </item>
-    <item>
-      <title>Roma Viale delle Terme di Caracalla</title>
-      <description>Roma Viale delle Terme di Caracalla
- strada chiusa, corsa podistica dalle 08:00 alle 14:00 del 8 novembre 2026  a Viale delle Terme di Caracalla  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 08:01:00 GMT</pubDate>
-      <dc:date>2026-11-08T08:01:00Z</dc:date>
-    </item>
-    <item>
-      <title>S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)</title>
-      <description>S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)
- personale su strada dalle 08:40 del 8 novembre 2026  a Svincolo Firenze Scandicci  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 07:42:00 GMT</pubDate>
-      <dc:date>2026-11-08T07:42:00Z</dc:date>
-    </item>
-    <item>
-      <title>S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)</title>
-      <description>S01 Strada Grande Comunicazione Fi-Pi-Li (per Livorno)
- personale su strada dalle 08:39 del 8 novembre 2026  a Svincolo Firenze Scandicci  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 07:41:00 GMT</pubDate>
-      <dc:date>2026-11-08T07:41:00Z</dc:date>
-    </item>
-    <item>
-      <title>Roma Viale Alessandrino</title>
-      <description>Roma Viale Alessandrino
- senso unico alternato causa lavori di rifacimento del manto stradale dalle 22:00 del 9 novembre 2026 alle 06:00 del 15 dicembre 2026  tra Via Casilina e Via dei Meli   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 07:37:00 GMT</pubDate>
-      <dc:date>2026-11-08T07:37:00Z</dc:date>
-    </item>
-    <item>
-      <title>Roma Via Cristoforo Colombo</title>
-      <description>Roma Via Cristoforo Colombo
- manifestazione dalle 10:30 alle 13:00 del 10 novembre 2026  a Via Cristoforo Colombo  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 07:19:00 GMT</pubDate>
-      <dc:date>2026-11-08T07:19:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS45 Di Val Di Trebbia</title>
-      <description>SS45 Di Val Di Trebbia
- corsia chiusa  tra 1,863 km dopo Incrocio Montebruno e 3,975 km prima di Incrocio Loco   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 06:54:00 GMT</pubDate>
-      <dc:date>2026-11-08T06:54:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS502 Di Cingoli</title>
-      <description>SS502 Di Cingoli
- corsia chiusa causa lavori di manutenzione  tra 3,615 km dopo Incrocio SS76 Var Della Val D esino e 15,684 km prima di Incrocio Cingoli   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 06:50:00 GMT</pubDate>
-      <dc:date>2026-11-08T06:50:00Z</dc:date>
-    </item>
-    <item>
-      <title>A24 Roma-Teramo</title>
-      <description>A24 Roma-Teramo
- nebbia a banchi dalle 07:23 del 8 novembre 2026  tra Svincolo Valle Del Salto e Svincolo Tornimparte   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 06:26:00 GMT</pubDate>
-      <dc:date>2026-11-08T06:26:00Z</dc:date>
-    </item>
-    <item>
-      <title>Bologna Piazza 7 Novembre 1944</title>
-      <description>Bologna Piazza 7 Novembre 1944
- manifestazione  a Piazza 7 Novembre 1944  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 05:58:00 GMT</pubDate>
-      <dc:date>2026-11-08T05:58:00Z</dc:date>
-    </item>
-    <item>
-      <title>Roma Via Molise</title>
-      <description>Roma Via Molise
- manifestazione dalle 09:00 alle 13:30 del 10 novembre 2026  a Via Molise  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 05:50:00 GMT</pubDate>
-      <dc:date>2026-11-08T05:50:00Z</dc:date>
     </item>
   </channel>
 </rss>
