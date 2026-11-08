@@ -5,18 +5,312 @@
     <link>https://www.cciss.it</link>
     <description>Notizie di traffico, eventi e informazioni</description>
     <item>
-      <title>A4 Milano-Brescia</title>
-      <description>A4 Milano-Brescia
- veicolo fermo o in avaria dalle 07:04 del 8 novembre 2026  tra Svincolo Trezzo e Svincolo Capriate  in direzione Brescia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 06:06:00 GMT</pubDate>
-      <dc:date>2026-11-08T06:06:00Z</dc:date>
+      <title>Genova Corso Luigi Andrea Martinetti</title>
+      <description>Genova Corso Luigi Andrea Martinetti
+ fondo stradale dissestato  a Corso Luigi Andrea Martinetti  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 07:12:00 GMT</pubDate>
+      <dc:date>2026-11-08T07:12:00Z</dc:date>
     </item>
     <item>
-      <title>Roma Via di Settebagni</title>
-      <description>Roma Via di Settebagni
- incidente possibili rallentamenti  a Via di Settebagni  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 06:06:00 GMT</pubDate>
-      <dc:date>2026-11-08T06:06:00Z</dc:date>
+      <title>A14 Pescara-Bari</title>
+      <description>A14 Pescara-Bari
+ personale su strada causa lavori dalle 08:11 del 8 novembre 2026  tra Svincolo Vasto Sud e Svincolo Vasto Nord-Casalbordino  in direzione Pescara  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 07:12:00 GMT</pubDate>
+      <dc:date>2026-11-08T07:12:00Z</dc:date>
+    </item>
+    <item>
+      <title>A14 Diramazione Per Ravenna</title>
+      <description>A14 Diramazione Per Ravenna
+ veicolo fermo o in avaria dalle 08:07 del 8 novembre 2026  tra Svincolo Bagnacavallo e Svincolo S.S.16 Adriatica  in direzione Ravenna  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 07:08:00 GMT</pubDate>
+      <dc:date>2026-11-08T07:08:00Z</dc:date>
+    </item>
+    <item>
+      <title>A13 Bologna-Padova</title>
+      <description>A13 Bologna-Padova
+ veicolo fermo o in avaria dalle 08:05 del 8 novembre 2026  tra Svincolo Bologna Interporto e Svincolo Altedo  in direzione Padova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 07:07:00 GMT</pubDate>
+      <dc:date>2026-11-08T07:07:00Z</dc:date>
+    </item>
+    <item>
+      <title>A10 Genova-Ventimiglia</title>
+      <description>A10 Genova-Ventimiglia
+ perdita di carico dalle 08:04 del 8 novembre 2026  tra Svincolo Varazze e Svincolo Celle Ligure  in direzione Ventimiglia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 07:05:00 GMT</pubDate>
+      <dc:date>2026-11-08T07:05:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Firenze-Roma</title>
+      <description>A1 Firenze-Roma
+ veicolo fermo o in avaria dalle 08:02 del 8 novembre 2026  tra Allacciamento Diramazione Roma Nord e Svincolo Ponzano Romano-Soratte  in direzione Firenze  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 07:04:00 GMT</pubDate>
+      <dc:date>2026-11-08T07:04:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Diramazione Roma Sud</title>
+      <description>A1 Diramazione Roma Sud
+ veicolo fermo o in avaria dalle 08:01 del 8 novembre 2026  tra Barriera Di Roma Sud e Svincolo Monteporzio  in direzione autostrada Milano-Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 07:03:00 GMT</pubDate>
+      <dc:date>2026-11-08T07:03:00Z</dc:date>
+    </item>
+    <item>
+      <title>A1 Roma-Napoli</title>
+      <description>A1 Roma-Napoli
+ veicolo fermo o in avaria dalle 07:41 del 8 novembre 2026  a Svincolo Caianello in direzione da Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 07:02:00 GMT</pubDate>
+      <dc:date>2026-11-08T07:02:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ravenna Via Pirano</title>
+      <description>Ravenna Via Pirano
+ transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Via Cherso e Via Laurana   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 07:01:00 GMT</pubDate>
+      <dc:date>2026-11-08T07:01:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ravenna Via Laurana</title>
+      <description>Ravenna Via Laurana
+ transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Via Caorle e Via Pirano   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 07:00:00 GMT</pubDate>
+      <dc:date>2026-11-08T07:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>A21 Torino-Brescia</title>
+      <description>A21 Torino-Brescia
+ materiali dispersi  a Svincolo Voghera in direzione Brescia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:59:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:59:00Z</dc:date>
+    </item>
+    <item>
+      <title>A14 Ancona-Pescara</title>
+      <description>A14 Ancona-Pescara
+ veicolo fermo o in avaria dalle 07:36 del 8 novembre 2026  tra Svincolo Grottammare e Svincolo Pedaso  in direzione Ancona  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:59:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:59:00Z</dc:date>
+    </item>
+    <item>
+      <title>Roma Via Ardeatina</title>
+      <description>Roma Via Ardeatina
+ incidente traffico rallentato  a Lungotevere Raffaello Sanzio  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:59:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:59:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ravenna Via Dignano</title>
+      <description>Ravenna Via Dignano
+ transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Via Abbazia e Via Tommaso Gulli   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:59:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:59:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ravenna Via Medea</title>
+      <description>Ravenna Via Medea
+ transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Via Dignano e Via Tommaso Gulli   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:58:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:58:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ravenna Via Abbazia</title>
+      <description>Ravenna Via Abbazia
+ transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Via Dignano e Via Trieste   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:55:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:55:00Z</dc:date>
+    </item>
+    <item>
+      <title>Cinisello Balsamo Via Guido Gozzano</title>
+      <description>Cinisello Balsamo Via Guido Gozzano
+ incidente  a Via Guido Gozzano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:55:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:55:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ravenna Via Tommaso Gulli</title>
+      <description>Ravenna Via Tommaso Gulli
+ transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Via Abbazia e Via Trieste   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:54:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:54:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS45 Di Val Di Trebbia</title>
+      <description>SS45 Di Val Di Trebbia
+ corsia chiusa  tra 1,863 km dopo Incrocio Montebruno e 3,975 km prima di Incrocio Loco   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:54:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:54:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ravenna Via dell Idrovora</title>
+      <description>Ravenna Via dell Idrovora
+ transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Via Canale Marini e Via Trieste   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:53:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:53:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ravenna Via Sinistra Canale Molinetto</title>
+      <description>Ravenna Via Sinistra Canale Molinetto
+ transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Via Destra Canale Molinetto e Via dell Idrovora   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:51:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:51:00Z</dc:date>
+    </item>
+    <item>
+      <title>SS502 Di Cingoli</title>
+      <description>SS502 Di Cingoli
+ corsia chiusa causa lavori di manutenzione  tra 3,615 km dopo Incrocio SS76 Var Della Val D esino e 15,684 km prima di Incrocio Cingoli   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:50:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:50:00Z</dc:date>
+    </item>
+    <item>
+      <title>A27 Mestre-Belluno</title>
+      <description>A27 Mestre-Belluno
+ veicolo fermo o in avaria dalle 07:39 del 8 novembre 2026  tra Svincolo Fadalto-Lago Di S.Croce e Barriera Di Belluno  in direzione Belluno  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:46:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:46:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ravenna Via Scolone</title>
+      <description>Ravenna Via Scolone
+ transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  a Via Destra Canale Molinetto  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:46:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:46:00Z</dc:date>
+    </item>
+    <item>
+      <title>TG-BO Tangenziale Di Bologna</title>
+      <description>TG-BO Tangenziale Di Bologna
+ pedoni dalle 07:43 del 8 novembre 2026  a Svincolo 12 Quartiere Mazzini - SS 65  Delle Futa in direzione da autostrada Milano-Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:45:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:45:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ravenna Rotonda Francia</title>
+      <description>Ravenna Rotonda Francia
+ transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Via Destra Canale Molinetto e Viale Europa   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:44:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:44:00Z</dc:date>
+    </item>
+    <item>
+      <title>A4 Milano-Brescia</title>
+      <description>A4 Milano-Brescia
+ veicolo fermo o in avaria dalle 07:42 del 8 novembre 2026  tra Svincolo Bergamo e Svincolo Dalmine  in direzione Milano  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:43:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:43:00Z</dc:date>
+    </item>
+    <item>
+      <title>A3 Napoli-Salerno</title>
+      <description>A3 Napoli-Salerno
+ incidente dalle 06:38 del 8 novembre 2026  a Svincolo Castellammare Di Stabia in direzione da Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:42:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:42:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ravenna Rotonda Germania</title>
+      <description>Ravenna Rotonda Germania
+ transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Via Stradone e Viale Europa   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:42:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:42:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ravenna Via Destra Canale Molinetto</title>
+      <description>Ravenna Via Destra Canale Molinetto
+ transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Circonvallazione Canale Molinetto e Via Secondo Casadei   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:41:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:41:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ravenna Via Adolfo Bellucci</title>
+      <description>Ravenna Via Adolfo Bellucci
+ transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Via Destra Canale Molinetto e Via Filippo Lanciani   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:40:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:40:00Z</dc:date>
+    </item>
+    <item>
+      <title>A14 Pescara-Bari</title>
+      <description>A14 Pescara-Bari
+ personale su strada causa lavori dalle 07:37 del 8 novembre 2026  tra Svincolo Lanciano e Svincolo Val Di Sangro   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:38:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:38:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ravenna Via Secondo Casadei</title>
+      <description>Ravenna Via Secondo Casadei
+ transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Via Adolfo Bellucci e Via Stradone   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:36:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:36:00Z</dc:date>
+    </item>
+    <item>
+      <title>A24 Roma-Teramo</title>
+      <description>A24 Roma-Teramo
+ nebbia a banchi dalle 07:23 del 8 novembre 2026  tra Svincolo Valle Del Salto e Svincolo Tornimparte   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:26:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:26:00Z</dc:date>
+    </item>
+    <item>
+      <title>A14 Ancona-Pescara</title>
+      <description>A14 Ancona-Pescara
+ veicolo fermo o in avaria dalle 07:23 del 8 novembre 2026  tra Svincolo Pedaso e Svincolo Grottammare  in direzione Pescara  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:25:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:25:00Z</dc:date>
+    </item>
+    <item>
+      <title>A14 Pescara-Bari</title>
+      <description>A14 Pescara-Bari
+ veicolo fermo o in avaria dalle 07:19 del 8 novembre 2026  tra Svincolo Andria-Barletta e Svincolo Canosa  in direzione Pescara  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:22:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:22:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ravenna Via Antica Milizia</title>
+      <description>Ravenna Via Antica Milizia
+ transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Via Brenta e Via Stradone   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:20:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:20:00Z</dc:date>
+    </item>
+    <item>
+      <title>A13 Bologna-Padova</title>
+      <description>A13 Bologna-Padova
+ veicolo fermo o in avaria dalle 07:17 del 8 novembre 2026  tra Svincolo Ferrara Nord e Svincolo Ferrara Sud  in direzione Bologna  &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:19:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:19:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ravenna Via Stradone</title>
+      <description>Ravenna Via Stradone
+ transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Viale Europa e Via Classicana   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:18:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:18:00Z</dc:date>
+    </item>
+    <item>
+      <title>A5 Torino-Courmayeur</title>
+      <description>A5 Torino-Courmayeur
+ mezzi spargisale in azione dalle 07:15 del 8 novembre 2026  tra Incrocio Controllo Merci AO / A5 e Svincolo A05-SS26DIR   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:17:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:17:00Z</dc:date>
+    </item>
+    <item>
+      <title>A16 Napoli-Canosa</title>
+      <description>A16 Napoli-Canosa
+ nebbia a banchi dalle 00:07 del 8 novembre 2026  tra Svincolo Avellino Est e Svincolo Benevento - Raccordo Di Benevento   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:17:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:17:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ravenna Via Enrico Mattei</title>
+      <description>Ravenna Via Enrico Mattei
+ transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Rotonda Svezia e Via Romea Nord   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:12:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:12:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ravenna Via Benedetto Castelli</title>
+      <description>Ravenna Via Benedetto Castelli
+ transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Rotonda Croazia e Rotonda Slovenia   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:10:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:10:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ravenna Via Antica Milizia</title>
+      <description>Ravenna Via Antica Milizia
+ transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Via Brenta e Via dei Poggi   &lt;br/&gt; (Fonte: www.cciss.it)</description>
+      <pubDate>Sun, 08 Nov 2026 06:08:00 GMT</pubDate>
+      <dc:date>2026-11-08T06:08:00Z</dc:date>
     </item>
     <item>
       <title>Roma Viale delle Terme di Caracalla</title>
@@ -40,20 +334,6 @@
       <dc:date>2026-11-08T06:03:00Z</dc:date>
     </item>
     <item>
-      <title>R06 Raccordo Bettolle-Perugia</title>
-      <description>R06 Raccordo Bettolle-Perugia
- traffico rallentato causa incidente  a Svincolo Ponte S.Giovanni-SS3 Bis-Raccordo Orte-Ra in direzione Raccordo Bettolle  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 06:02:00 GMT</pubDate>
-      <dc:date>2026-11-08T06:02:00Z</dc:date>
-    </item>
-    <item>
-      <title>Laveno-Mombello Via Martiri della Libertà</title>
-      <description>Laveno-Mombello Via Martiri della Libertà
- incidente  a Via Martiri della Libertà  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 06:01:00 GMT</pubDate>
-      <dc:date>2026-11-08T06:01:00Z</dc:date>
-    </item>
-    <item>
       <title>Ravenna Via dei Poggi</title>
       <description>Ravenna Via dei Poggi
  transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Viale Europa e Via Ezio Pinza   &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -75,13 +355,6 @@
       <dc:date>2026-11-08T05:59:00Z</dc:date>
     </item>
     <item>
-      <title>Milano Piazzale Cimitero Monumentale</title>
-      <description>Milano Piazzale Cimitero Monumentale
- incidente  a Piazzale Cimitero Monumentale  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 05:59:00 GMT</pubDate>
-      <dc:date>2026-11-08T05:59:00Z</dc:date>
-    </item>
-    <item>
       <title>Ravenna Via Classense</title>
       <description>Ravenna Via Classense
  transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  a Via Zuccherificio  &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -94,27 +367,6 @@
  manifestazione  a Piazza 7 Novembre 1944  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sun, 08 Nov 2026 05:58:00 GMT</pubDate>
       <dc:date>2026-11-08T05:58:00Z</dc:date>
-    </item>
-    <item>
-      <title>A3 Raccordo SS106 Ter</title>
-      <description>A3 Raccordo SS106 Ter
- traffico rallentato causa incidente  tra 1,12 km dopo Svincolo Cardinale Porta Nova e 406 m prima di Svincolo Calopinace  in direzione Svincolo SS106 E SS106 Ter  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 05:58:00 GMT</pubDate>
-      <dc:date>2026-11-08T05:58:00Z</dc:date>
-    </item>
-    <item>
-      <title>A12 Genova-Rosignano</title>
-      <description>A12 Genova-Rosignano
- veicolo fermo o in avaria dalle 06:53 del 8 novembre 2026  tra Svincolo Chiavari e Svincolo Rapallo  in direzione Genova  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 05:57:00 GMT</pubDate>
-      <dc:date>2026-11-08T05:57:00Z</dc:date>
-    </item>
-    <item>
-      <title>Genova Via Antonio Gramsci</title>
-      <description>Genova Via Antonio Gramsci
- incidente  a Via Antonio Gramsci  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 05:57:00 GMT</pubDate>
-      <dc:date>2026-11-08T05:57:00Z</dc:date>
     </item>
     <item>
       <title>Ravenna Via Panfilia</title>
@@ -138,23 +390,9 @@
       <dc:date>2026-11-08T05:55:00Z</dc:date>
     </item>
     <item>
-      <title>A24 Roma-Teramo</title>
-      <description>A24 Roma-Teramo
- veicolo fermo o in avaria dalle 06:54 del 8 novembre 2026  tra Barriera Di Roma Est e Allacciamento A1 Milano Napoli  in direzione Teramo  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 05:55:00 GMT</pubDate>
-      <dc:date>2026-11-08T05:55:00Z</dc:date>
-    </item>
-    <item>
       <title>Genova Corso Luigi Andrea Martinetti</title>
       <description>Genova Corso Luigi Andrea Martinetti
  fondo stradale dissestato  a Corso Luigi Andrea Martinetti  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 05:54:00 GMT</pubDate>
-      <dc:date>2026-11-08T05:54:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Firenze-Roma</title>
-      <description>A1 Firenze-Roma
- veicolo fermo o in avaria dalle 06:52 del 8 novembre 2026  tra Svincolo Arezzo e Svincolo Monte San Savino  in direzione Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sun, 08 Nov 2026 05:54:00 GMT</pubDate>
       <dc:date>2026-11-08T05:54:00Z</dc:date>
     </item>
@@ -208,20 +446,6 @@
       <dc:date>2026-11-08T05:48:00Z</dc:date>
     </item>
     <item>
-      <title>A3 Napoli-Salerno</title>
-      <description>A3 Napoli-Salerno
- incidente dalle 06:38 del 8 novembre 2026  a Svincolo Castellammare Di Stabia in direzione da Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 05:40:00 GMT</pubDate>
-      <dc:date>2026-11-08T05:40:00Z</dc:date>
-    </item>
-    <item>
-      <title>TG-BO Tangenziale Di Bologna</title>
-      <description>TG-BO Tangenziale Di Bologna
- veicolo fermo o in avaria dalle 06:32 del 8 novembre 2026  tra Svincolo 11 Bis Castenaso-Ravenna e Svincolo 12 Quartiere Mazzini - SS 65  Delle Futa  in direzione autostrada Bologna-Taranto  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 05:34:00 GMT</pubDate>
-      <dc:date>2026-11-08T05:34:00Z</dc:date>
-    </item>
-    <item>
       <title>SS16 Adriatica</title>
       <description>SS16 Adriatica
  traffico rallentato  a Incrocio Giovinazzo-SS16 Adriatica in direzione Incrocio Otranto - SS173 Delle Terme Salentine  &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -255,13 +479,6 @@
  transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Via Bernardino Zendrini e Via Vincenzo Monti   &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sun, 08 Nov 2026 05:22:00 GMT</pubDate>
       <dc:date>2026-11-08T05:22:00Z</dc:date>
-    </item>
-    <item>
-      <title>A14 Pescara-Bari</title>
-      <description>A14 Pescara-Bari
- veicolo fermo o in avaria dalle 06:19 del 8 novembre 2026  tra Svincolo Pescara Ovest-Chieti e Svincolo Pescara Sud-Francavilla  in direzione Bari  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 05:21:00 GMT</pubDate>
-      <dc:date>2026-11-08T05:21:00Z</dc:date>
     </item>
     <item>
       <title>Ravenna Via Renato Serra</title>
@@ -334,34 +551,6 @@
       <dc:date>2026-11-08T05:05:00Z</dc:date>
     </item>
     <item>
-      <title>A1 Roma-Napoli</title>
-      <description>A1 Roma-Napoli
- personale su strada causa lavori dalle 05:54 del 8 novembre 2026  tra Allacciamento Diramazione Roma Sud e Svincolo Valmontone  in direzione Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 04:56:00 GMT</pubDate>
-      <dc:date>2026-11-08T04:56:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS51bis Bis Di Alemagna</title>
-      <description>SS51bis Bis Di Alemagna
- mezzi spargisale in azione  tra Incrocio Tai Di Cadore - SS51 Di Alemagna e Incrocio Lozzo Di Cadore - SS52 Carnica   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 04:46:00 GMT</pubDate>
-      <dc:date>2026-11-08T04:46:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS51 Di Alemagna</title>
-      <description>SS51 Di Alemagna
- mezzi spargisale in azione  tra 502 m dopo Incrocio Variante Di Longarone e 330 m prima di Incrocio Tai Di Cadore   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 04:06:00 GMT</pubDate>
-      <dc:date>2026-11-08T04:06:00Z</dc:date>
-    </item>
-    <item>
-      <title>SS13 Pontebbana</title>
-      <description>SS13 Pontebbana
- mezzi spargisale in azione  tra 154,506 km dopo Incrocio Godega Di S.Urbano e Incrocio Thorl/Confine Con L austria   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 03:12:00 GMT</pubDate>
-      <dc:date>2026-11-08T03:12:00Z</dc:date>
-    </item>
-    <item>
       <title>A6 Torino-Savona</title>
       <description>A6 Torino-Savona
  nebbia  tra Svincolo Fossano e Allacciamento A06 - A33   &lt;br/&gt; (Fonte: www.cciss.it)</description>
@@ -388,13 +577,6 @@
  lavori dalle 00:00 del 9 alle 23:59 del 13 novembre 2026  tra Via Val della Torre e Corso Toscana   &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sun, 08 Nov 2026 01:05:00 GMT</pubDate>
       <dc:date>2026-11-08T01:05:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Roma-Napoli</title>
-      <description>A1 Roma-Napoli
- nebbia a banchi dalle 01:59 del 8 novembre 2026  tra Barriera Di Napoli Nord e Svincolo Asse Supporto   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sun, 08 Nov 2026 01:00:00 GMT</pubDate>
-      <dc:date>2026-11-08T01:00:00Z</dc:date>
     </item>
     <item>
       <title>Torino Corso Casale</title>
@@ -437,13 +619,6 @@
  lavori dalle 10:00 alle 18:00 del 25 novembre 2026  tra Via Luigi Bergera e Via Monte Ortigara   &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sat, 07 Nov 2026 23:14:00 GMT</pubDate>
       <dc:date>2026-11-07T23:14:00Z</dc:date>
-    </item>
-    <item>
-      <title>A16 Napoli-Canosa</title>
-      <description>A16 Napoli-Canosa
- nebbia a banchi dalle 00:07 del 8 novembre 2026  tra Svincolo Baiano e Svincolo Benevento - Raccordo Di Benevento   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 23:08:00 GMT</pubDate>
-      <dc:date>2026-11-07T23:08:00Z</dc:date>
     </item>
     <item>
       <title>Torino Via Alfonso Badini Confalonieri</title>
@@ -528,181 +703,6 @@
  lavori dalle 08:00 alle 17:00 del 23 novembre 2026  tra Via Santhià e Via Saverio Mercadante   &lt;br/&gt; (Fonte: www.cciss.it)</description>
       <pubDate>Sat, 07 Nov 2026 21:18:00 GMT</pubDate>
       <dc:date>2026-11-07T21:18:00Z</dc:date>
-    </item>
-    <item>
-      <title>A13 Bologna-Padova</title>
-      <description>A13 Bologna-Padova
- impianto di distribuzione carburante chiuso causa guasto impianto dalle 22:12 del 7 novembre 2026  a Area di servizio  Adige in direzione Bologna  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 21:14:00 GMT</pubDate>
-      <dc:date>2026-11-07T21:14:00Z</dc:date>
-    </item>
-    <item>
-      <title>A24 Roma-Teramo</title>
-      <description>A24 Roma-Teramo
- impianto di distribuzione carburante chiuso dalle 22:06 del 7 novembre 2026  a Area di servizio  Valle Aterno in direzione Teramo  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 21:09:00 GMT</pubDate>
-      <dc:date>2026-11-07T21:09:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Diramazione Roma Nord</title>
-      <description>A1 Diramazione Roma Nord
- animali sulla strada dalle 19:50 del 7 novembre 2026  tra Svincolo Castelnuovo di Porto e Svincolo Fiano Romano  in direzione autostrada Milano-Napoli  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 18:52:00 GMT</pubDate>
-      <dc:date>2026-11-07T18:52:00Z</dc:date>
-    </item>
-    <item>
-      <title>A55 Tangenziale Nord Di Torino</title>
-      <description>A55 Tangenziale Nord Di Torino
- lavori  a Svincolo Regina Margherita in direzione Allacciamento A32 Torino-Bardonecchia  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 18:43:00 GMT</pubDate>
-      <dc:date>2026-11-07T18:43:00Z</dc:date>
-    </item>
-    <item>
-      <title>A1 Firenze-Roma</title>
-      <description>A1 Firenze-Roma
- incidente dalle 19:38 del 7 novembre 2026  tra Svincolo Valdichiana e Svincolo Chiusi-Chianciano  in direzione Roma  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 18:40:00 GMT</pubDate>
-      <dc:date>2026-11-07T18:40:00Z</dc:date>
-    </item>
-    <item>
-      <title>Ravenna Via Guidone</title>
-      <description>Ravenna Via Guidone
- transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Piazza dei Caduti per la Libertà e Via Raul Gardini   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 18:26:00 GMT</pubDate>
-      <dc:date>2026-11-07T18:26:00Z</dc:date>
-    </item>
-    <item>
-      <title>Ravenna Piazza dei Caduti per la Libertà</title>
-      <description>Ravenna Piazza dei Caduti per la Libertà
- transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Via Guidone e Via Alfredo Baccarini   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 18:24:00 GMT</pubDate>
-      <dc:date>2026-11-07T18:24:00Z</dc:date>
-    </item>
-    <item>
-      <title>Ravenna Via Alfredo Baccarini</title>
-      <description>Ravenna Via Alfredo Baccarini
- transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Via Nicolò Rondinelli e Piazza dei Caduti per la Libertà   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 18:22:00 GMT</pubDate>
-      <dc:date>2026-11-07T18:22:00Z</dc:date>
-    </item>
-    <item>
-      <title>Ravenna Via Nicolò Rondinelli</title>
-      <description>Ravenna Via Nicolò Rondinelli
- transito temporaneamente sospeso causa maratona dalle 08:00 alle 18:00 del 8 novembre 2026  tra Piazza Gabriele D Annunzio e Via Alfredo Baccarini   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 18:19:00 GMT</pubDate>
-      <dc:date>2026-11-07T18:19:00Z</dc:date>
-    </item>
-    <item>
-      <title>Ravenna Piazza Gabriele D Annunzio</title>
-      <description>Ravenna Piazza Gabriele D Annunzio
- transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Via Alcide De Gasperi e Via Nicolò Rondinelli   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 18:17:00 GMT</pubDate>
-      <dc:date>2026-11-07T18:17:00Z</dc:date>
-    </item>
-    <item>
-      <title>Ravenna Via Alcide De Gasperi</title>
-      <description>Ravenna Via Alcide De Gasperi
- transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Piazza dei Caduti per la Libertà e Piazza Gabriele D Annunzio   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 18:15:00 GMT</pubDate>
-      <dc:date>2026-11-07T18:15:00Z</dc:date>
-    </item>
-    <item>
-      <title>Ravenna Piazza dei Caduti per la Libertà</title>
-      <description>Ravenna Piazza dei Caduti per la Libertà
- transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Via Arnaldo Guerrini e Via Alcide De Gasperi   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 18:13:00 GMT</pubDate>
-      <dc:date>2026-11-07T18:13:00Z</dc:date>
-    </item>
-    <item>
-      <title>Ravenna Via Arnaldo Guerrini</title>
-      <description>Ravenna Via Arnaldo Guerrini
- transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Via Gioacchino Rasponi e Piazza dei Caduti per la Libertà   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 18:11:00 GMT</pubDate>
-      <dc:date>2026-11-07T18:11:00Z</dc:date>
-    </item>
-    <item>
-      <title>Ravenna Via Gioacchino Rasponi</title>
-      <description>Ravenna Via Gioacchino Rasponi
- transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Piazza Duomo e Via Arnaldo Guerrini   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 18:08:00 GMT</pubDate>
-      <dc:date>2026-11-07T18:08:00Z</dc:date>
-    </item>
-    <item>
-      <title>Ravenna Piazza Duomo</title>
-      <description>Ravenna Piazza Duomo
- transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Via Guglielmo Oberdan e Via Gioacchino Rasponi   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 18:06:00 GMT</pubDate>
-      <dc:date>2026-11-07T18:06:00Z</dc:date>
-    </item>
-    <item>
-      <title>Ravenna Via Guglielmo Oberdan</title>
-      <description>Ravenna Via Guglielmo Oberdan
- transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Via Andrea Agnello e Piazza Duomo   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 18:04:00 GMT</pubDate>
-      <dc:date>2026-11-07T18:04:00Z</dc:date>
-    </item>
-    <item>
-      <title>A24 Roma-Teramo</title>
-      <description>A24 Roma-Teramo
- pioggia dalle 14:24 del 6 novembre 2026  tra Svincolo Assergi e Svincolo S.G.C. per Giulianova   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 18:02:00 GMT</pubDate>
-      <dc:date>2026-11-07T18:02:00Z</dc:date>
-    </item>
-    <item>
-      <title>Ravenna Via Andrea Agnello</title>
-      <description>Ravenna Via Andrea Agnello
- transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Via Carlo Cattaneo e Via Guglielmo Oberdan   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 18:01:00 GMT</pubDate>
-      <dc:date>2026-11-07T18:01:00Z</dc:date>
-    </item>
-    <item>
-      <title>Ravenna Via Carlo Cattaneo</title>
-      <description>Ravenna Via Carlo Cattaneo
- transito temporaneamente sospeso causa maratona dalle 08:00 alle 18:00 del 8 novembre 2026  a Via Andrea Agnello  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 17:59:00 GMT</pubDate>
-      <dc:date>2026-11-07T17:59:00Z</dc:date>
-    </item>
-    <item>
-      <title>Ravenna Via Giuliano Argentario</title>
-      <description>Ravenna Via Giuliano Argentario
- transito temporaneamente sospeso dalle 08:00 alle 12:00 del 8 novembre 2026  tra Via Galla Placidia e Via Carlo Cattaneo   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 17:57:00 GMT</pubDate>
-      <dc:date>2026-11-07T17:57:00Z</dc:date>
-    </item>
-    <item>
-      <title>Ravenna Via Galla Placidia</title>
-      <description>Ravenna Via Galla Placidia
- transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  a Via Pietro Alighieri  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 17:52:00 GMT</pubDate>
-      <dc:date>2026-11-07T17:52:00Z</dc:date>
-    </item>
-    <item>
-      <title>Ravenna Via Pietro Alighieri</title>
-      <description>Ravenna Via Pietro Alighieri
- transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Via Salara e Via Galla Placidia   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 17:50:00 GMT</pubDate>
-      <dc:date>2026-11-07T17:50:00Z</dc:date>
-    </item>
-    <item>
-      <title>Ravenna Via Salara</title>
-      <description>Ravenna Via Salara
- transito temporaneamente sospeso dalle 08:00 alle 12:00 del 8 novembre 2026  a Via Pietro Alighieri  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 17:47:00 GMT</pubDate>
-      <dc:date>2026-11-07T17:47:00Z</dc:date>
-    </item>
-    <item>
-      <title>Ravenna Via Camillo Cavour</title>
-      <description>Ravenna Via Camillo Cavour
- transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  tra Piazza Andrea Costa e Via Salara   &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 17:45:00 GMT</pubDate>
-      <dc:date>2026-11-07T17:45:00Z</dc:date>
-    </item>
-    <item>
-      <title>Ravenna Piazza Andrea Costa</title>
-      <description>Ravenna Piazza Andrea Costa
- transito temporaneamente sospeso causa maratona dalle 08:00 alle 12:00 del 8 novembre 2026  a Via Camillo Cavour  &lt;br/&gt; (Fonte: www.cciss.it)</description>
-      <pubDate>Sat, 07 Nov 2026 17:42:00 GMT</pubDate>
-      <dc:date>2026-11-07T17:42:00Z</dc:date>
     </item>
   </channel>
 </rss>
